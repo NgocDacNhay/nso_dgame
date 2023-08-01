@@ -1,0 +1,3 @@
+[2022/11/20 12:13:11:640] maximum da doi 50 lg ra 20000000 xu
+[2022/11/20 08:46:40:399] ninzakiem da doi 50 lg ra 20000000 xu
+[2022/11/20 08:00:48:664] noname da doi 50 lg ra 20000000 xu

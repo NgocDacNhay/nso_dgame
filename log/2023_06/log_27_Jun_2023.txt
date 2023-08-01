@@ -1,0 +1,4 @@
+[2023/06/27 12:23:43:978] dackimdoi6 đã mua 1 item 511 với giá 5400000 xu 0 yên 0 lượng
+[2023/06/27 12:26:21:553] dackimdoi6 đã mua 20000 item 340 với giá 0 xu 0 yên 100000 lượng
+[2023/06/27 12:35:40:263] dackimdoi6 đã mua 1 item 271 với giá 0 xu 0 yên 500 lượng
+[2023/06/27 12:39:08:970] dackimdoi6 đã mua 1 item 967 với giá 0 xu 0 yên 99999 lượng

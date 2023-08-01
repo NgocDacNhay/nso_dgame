@@ -1,0 +1,13 @@
+[2023/07/02 09:25:01:643] admin đã mua 1 item 94 với giá 3000 xu 0 yên 0 lượng
+[2023/07/02 09:25:04:676] admin đã mua 1 item 95 với giá 15000 xu 0 yên 0 lượng
+[2023/07/02 06:11:37:569] dackimdoi7 đã mua 3 item 23 với giá 0 xu 600 yên 0 lượng
+[2023/07/02 06:57:10:685] dackimdoi7 đã mua 1 item 24 với giá 0 xu 450 yên 0 lượng
+[2023/07/02 07:00:18:267] dackimdoi7 đã mua 1 item 351 với giá 0 xu 0 yên 30 lượng
+[2023/07/02 07:23:50:707] dackimdoi7 đã mua 1 item 86 với giá 1000 xu 0 yên 0 lượng
+[2023/07/02 07:58:41:340] dackimdoi7 đã mua 1 item 24 với giá 0 xu 450 yên 0 lượng
+[2023/07/02 08:01:23:047] dackimdoi3 đã mua 1 item 893 với giá 0 xu 0 yên 500 lượng
+[2023/07/02 08:01:24:650] dackimdoi3 đã mua 1 item 893 với giá 0 xu 0 yên 500 lượng
+[2023/07/02 08:01:25:808] dackimdoi3 đã mua 1 item 855 với giá 0 xu 0 yên 100 lượng
+[2023/07/02 08:01:26:248] dackimdoi3 đã mua 1 item 855 với giá 0 xu 0 yên 100 lượng
+[2023/07/02 08:02:36:162] admin đã mua 1 item 84 với giá 1000 xu 0 yên 0 lượng
+[2023/07/02 08:02:50:883] admin đã mua 1 item 80 với giá 1000 xu 0 yên 0 lượng

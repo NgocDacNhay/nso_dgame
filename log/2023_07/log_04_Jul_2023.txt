@@ -1,0 +1,12 @@
+[2023/07/04 09:16:29:638] dackimdoi đã mua 10000 item 435 với giá 0 xu 100000 yên 0 lượng
+[2023/07/04 10:51:59:052] dackimdoi đã mua 20000 item 435 với giá 0 xu 200000 yên 0 lượng
+[2023/07/04 12:12:49:913] dackimdoi đã mua 20000 item 435 với giá 0 xu 200000 yên 0 lượng
+[2023/07/04 02:23:54:181] dackimdoi7 đã mua 1 item 121 với giá 45000 xu 0 yên 0 lượng
+[2023/07/04 02:24:52:502] dackimdoi7 đã mua 1000 item 340 với giá 0 xu 0 yên 5000 lượng
+[2023/07/04 02:29:02:046] dackimdoi7 đã mua 1 item 796 với giá 0 xu 1 yên 0 lượng
+[2023/07/04 02:29:59:792] dackimdoi7 đã mua 1000 item 15 với giá 0 xu 500000 yên 0 lượng
+[2023/07/04 02:30:09:945] dackimdoi7 đã mua 1 item 249 với giá 0 xu 0 yên 10 lượng
+[2023/07/04 02:42:58:580] dackimdoi7 đã mua 1 item 89 với giá 1000 xu 0 yên 0 lượng
+[2023/07/04 02:42:59:665] dackimdoi7 đã mua 1 item 90 với giá 1000 xu 0 yên 0 lượng
+[2023/07/04 02:43:16:534] dackimdoi7 đã mua 1 item 87 với giá 1000 xu 0 yên 0 lượng
+[2023/07/04 02:43:17:735] dackimdoi7 đã mua 1 item 88 với giá 1000 xu 0 yên 0 lượng

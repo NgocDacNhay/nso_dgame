@@ -1,0 +1,11 @@
+{
+    "genieai.enableConversationHistory": false,
+    "genieai.openai.model": "gpt-3.5-turbo-0301",
+    "composer.workingPath": "",
+    "intellicodeApiExamples.python.enabled": true,
+    "dependencyAnalytics.apiKey": "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",
+    "genieai.openai.organization": "org-j2NgSZpresEiLFQP5rbsd4s5",
+    "genieai.openai.apiBaseUrl": "https://chat.openai.com/",
+    "spring-boot.ls.problem.boot2.DOMAIN_ID_FOR_REPOSITORY": "ERROR",
+    "java.debug.settings.onBuildFailureProceed": true
+}

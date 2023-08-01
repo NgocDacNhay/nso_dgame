@@ -1,0 +1,1920 @@
+[2022/11/29 12:00:01:654] miuxin ?ã mua 1 item 242 v?i giá 0 xu 0 yên 10 l??ng
+[2022/11/29 12:00:39:638] Shinwa: siinestrea ?ã ??ng bán 1 item 485 v?i giá: 100000 xu.
+[2022/11/29 12:00:57:332] Shinwa: siinestrea ?ã ??ng bán 1 item 443 v?i giá: 100000 xu.
+[2022/11/29 12:01:35:205] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 12:01:35:206] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 12:01:35:206] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 12:01:35:207] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 12:01:35:207] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 12:01:35:207] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 12:01:35:208] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 12:01:35:208] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 12:01:35:208] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 12:01:35:209] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 12:01:35:209] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 12:01:35:209] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 12:02:06:627] gacon204 ?ã mua 1 item 855 v?i giá 0 xu 0 yên 100 l??ng
+[2022/11/29 12:02:30:875] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 12:02:30:875] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 12:02:30:876] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 12:02:30:876] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 12:02:30:876] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 12:02:39:947] kurumi2004 ?ã mua 1 item 26 v?i giá 0 xu 1500 yên 0 l??ng
+[2022/11/29 12:03:03:814] maximum ?ã giao d?ch v?i 0nekill1st và nh?n ???c Item: 524. S? l??ng: 1
+[2022/11/29 12:03:03:815] maximum ?ã giao d?ch v?i 0nekill1st và nh?n ???c Item: 443. S? l??ng: 1
+[2022/11/29 12:03:03:815] maximum ?ã giao d?ch v?i 0nekill1st và nh?n ???c Item: 485. S? l??ng: 1
+[2022/11/29 12:03:03:815] maximum ?ã giao d?ch v?i 0nekill1st và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 12:03:03:816] maximum ?ã giao d?ch v?i 0nekill1st và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 12:03:03:816] maximum ?ã giao d?ch v?i 0nekill1st và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 12:03:03:816] maximum ?ã giao d?ch v?i 0nekill1st và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 12:03:03:816] maximum ?ã giao d?ch v?i 0nekill1st và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 12:03:03:817] maximum ?ã giao d?ch v?i 0nekill1st và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 12:03:07:337] botbanda8 ?ã giao d?ch v?i morebube và nh?n ???c Item: 653. S? l??ng: 1
+[2022/11/29 12:03:07:338] botbanda8 ?ã giao d?ch v?i morebube và nh?n ???c Item: 652. S? l??ng: 1
+[2022/11/29 12:03:07:338] botbanda8 ?ã giao d?ch v?i morebube và nh?n ???c Item: 652. S? l??ng: 1
+[2022/11/29 12:03:07:338] botbanda8 ?ã giao d?ch v?i morebube và nh?n ???c Item: 654. S? l??ng: 1
+[2022/11/29 12:03:07:338] botbanda8 ?ã giao d?ch v?i morebube và nh?n ???c Item: 652. S? l??ng: 1
+[2022/11/29 12:03:07:339] botbanda8 ?ã giao d?ch v?i morebube và nh?n ???c Item: 655. S? l??ng: 1
+[2022/11/29 12:03:07:339] botbanda8 ?ã giao d?ch v?i morebube và nh?n ???c Item: 655. S? l??ng: 1
+[2022/11/29 12:03:07:339] botbanda8 ?ã giao d?ch v?i morebube và nh?n ???c Item: 653. S? l??ng: 1
+[2022/11/29 12:03:07:339] botbanda8 ?ã giao d?ch v?i morebube và nh?n ???c Item: 652. S? l??ng: 1
+[2022/11/29 12:03:07:339] botbanda8 ?ã giao d?ch v?i morebube và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:03:07:340] botbanda8 ?ã giao d?ch v?i morebube và nh?n ???c Item: 655. S? l??ng: 1
+[2022/11/29 12:04:06:823] trumkunai ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 12:04:41:407] siinestrea ?ã mua 1 item 327 v?i giá 72000 xu 0 yên 0 l??ng
+[2022/11/29 12:05:05:856] Shinwa: taolatruml ?ã ??ng bán 1 item 8 v?i giá: 5000 xu.
+[2022/11/29 12:05:12:050] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 12:05:12:051] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 12:05:12:051] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 12:05:12:051] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 12:05:12:052] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 12:05:12:052] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 12:05:12:052] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 12:05:12:052] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 12:05:12:053] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 12:05:12:053] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 12:05:12:053] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 12:05:12:053] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 12:05:31:089] Shinwa: bolatrumzz ?ã mua 1 item 8 v?i giá: 5000 xu.
+[2022/11/29 12:05:38:624] dailynso ?ã mua 300 item 340 v?i giá 0 xu 0 yên 1500 l??ng
+[2022/11/29 12:05:46:984] 0nekill1st ?ã giao d?ch v?i maximum và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 12:05:46:984] 0nekill1st ?ã giao d?ch v?i maximum và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 12:05:46:984] 0nekill1st ?ã giao d?ch v?i maximum và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 12:05:46:985] 0nekill1st ?ã giao d?ch v?i maximum và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 12:05:46:985] 0nekill1st ?ã giao d?ch v?i maximum và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 12:05:46:985] 0nekill1st ?ã giao d?ch v?i maximum và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 12:05:46:985] 0nekill1st ?ã giao d?ch v?i maximum và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 12:05:46:986] 0nekill1st ?ã giao d?ch v?i maximum và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 12:05:46:986] 0nekill1st ?ã giao d?ch v?i maximum và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 12:05:46:986] 0nekill1st ?ã giao d?ch v?i maximum và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 12:05:46:986] 0nekill1st ?ã giao d?ch v?i maximum và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 12:05:46:987] 0nekill1st ?ã giao d?ch v?i maximum và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 12:05:49:475] rongxanh ?ã mua 1 item 359 v?i giá 100000 xu 0 yên 0 l??ng
+[2022/11/29 12:05:55:983] tungdz2k ?ã mua 2 item 29 v?i giá 0 xu 10000 yên 0 l??ng
+[2022/11/29 12:06:07:512] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 12:06:07:513] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 12:06:07:513] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 12:06:07:514] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 12:06:07:514] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 12:06:07:514] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 12:06:07:515] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 12:06:07:515] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 12:06:07:515] hshshhs ?ã giao d?ch v?i namkame và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 12:06:11:670] siinestrea ?ã mua 1 item 320 v?i giá 96000 xu 0 yên 0 l??ng
+[2022/11/29 12:06:15:990] Shinwa: taolatruml ?ã ??ng bán 1 item 8 v?i giá: 5000 xu.
+[2022/11/29 12:06:29:511] Shinwa: bolatrumzz ?ã mua 1 item 8 v?i giá: 5000 xu.
+[2022/11/29 12:06:55:677] Shinwa: taolatruml ?ã ??ng bán 1 item 7 v?i giá: 1 xu.
+[2022/11/29 12:07:12:342] Shinwa: bolatrumzz ?ã mua 1 item 7 v?i giá: 1 xu.
+[2022/11/29 12:07:17:249] hshshhs ?ã giao d?ch v?i vipboy và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 12:07:42:926] siinestrea ?ã mua 2 item 269 v?i giá 0 xu 0 yên 60 l??ng
+[2022/11/29 12:07:44:426] gacon204 ?ã mua 1 item 744 v?i giá 0 xu 0 yên 1000 l??ng
+[2022/11/29 12:07:46:591] Shinwa: taolatruml ?ã ??ng bán 1 item 7 v?i giá: 1 xu.
+[2022/11/29 12:07:58:962] Shinwa: bolatrumzz ?ã mua 1 item 7 v?i giá: 1 xu.
+[2022/11/29 12:08:14:024] Shinwa: taolatruml ?ã ??ng bán 1 item 7 v?i giá: 1 xu.
+[2022/11/29 12:08:20:979] hshsh2 ?ã giao d?ch v?i vipboy và nh?n ???c Item: 401. S? l??ng: 1
+[2022/11/29 12:08:20:979] hshsh2 ?ã giao d?ch v?i vipboy và nh?n ???c Item: 654. S? l??ng: 1
+[2022/11/29 12:08:20:979] hshsh2 ?ã giao d?ch v?i vipboy và nh?n ???c Item: 655. S? l??ng: 1
+[2022/11/29 12:08:20:980] hshsh2 ?ã giao d?ch v?i vipboy và nh?n ???c Item: 655. S? l??ng: 1
+[2022/11/29 12:08:27:052] Shinwa: bolatrumzz ?ã mua 1 item 7 v?i giá: 1 xu.
+[2022/11/29 12:08:42:710] Shinwa: taolatruml ?ã ??ng bán 1 item 7 v?i giá: 1 xu.
+[2022/11/29 12:08:52:386] Shinwa: bolatrumzz ?ã mua 1 item 7 v?i giá: 1 xu.
+[2022/11/29 12:08:59:830] maximum ?ã giao d?ch v?i onekill1st và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:08:59:830] maximum ?ã giao d?ch v?i onekill1st và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:08:59:830] maximum ?ã giao d?ch v?i onekill1st và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:08:59:830] maximum ?ã giao d?ch v?i onekill1st và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:08:59:832] maximum ?ã giao d?ch v?i onekill1st và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:08:59:832] maximum ?ã giao d?ch v?i onekill1st và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:08:59:832] maximum ?ã giao d?ch v?i onekill1st và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:08:59:832] maximum ?ã giao d?ch v?i onekill1st và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:08:59:832] maximum ?ã giao d?ch v?i onekill1st và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:08:59:832] maximum ?ã giao d?ch v?i onekill1st và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:08:59:832] maximum ?ã giao d?ch v?i onekill1st và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:09:05:432] Shinwa: taolatruml ?ã ??ng bán 1 item 7 v?i giá: 1 xu.
+[2022/11/29 12:09:19:695] Shinwa: bolatrumzz ?ã mua 1 item 7 v?i giá: 1 xu.
+[2022/11/29 12:09:28:056] rongxanh ?ã mua 200 item 340 v?i giá 0 xu 0 yên 1000 l??ng
+[2022/11/29 12:09:57:014] Shinwa: bolatrumzz ?ã ??ng bán 1 item 275 v?i giá: 74000 xu.
+[2022/11/29 12:10:07:784] hshsh2 ?ã giao d?ch v?i vipboy và nh?n ???c Item: 402. S? l??ng: 1
+[2022/11/29 12:10:07:785] hshsh2 ?ã giao d?ch v?i vipboy và nh?n ???c Item: 652. S? l??ng: 1
+[2022/11/29 12:10:07:785] hshsh2 ?ã giao d?ch v?i vipboy và nh?n ???c Item: 655. S? l??ng: 1
+[2022/11/29 12:10:16:815] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:10:16:816] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:10:16:816] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:10:16:816] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:10:16:817] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:10:16:817] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:10:16:817] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:10:16:817] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:10:16:818] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 12:10:16:818] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 12:10:16:818] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:10:16:818] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:10:20:773] onekill1st ?ã giao d?ch v?i guccigang và nh?n ???c Item: 442. S? l??ng: 1
+[2022/11/29 12:10:20:773] onekill1st ?ã giao d?ch v?i guccigang và nh?n ???c Item: 441. S? l??ng: 1
+[2022/11/29 12:10:20:774] onekill1st ?ã giao d?ch v?i guccigang và nh?n ???c Item: 440. S? l??ng: 1
+[2022/11/29 12:10:21:162] Shinwa: taolatruml ?ã mua 1 item 275 v?i giá: 74000 xu.
+[2022/11/29 12:10:46:398] taolatruml ?ã mua 1 item 35 v?i giá 0 xu 1000 yên 0 l??ng
+[2022/11/29 12:11:15:448] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:11:15:449] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 12:11:15:449] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 12:11:15:449] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:11:15:449] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:11:15:450] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:11:15:450] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:11:15:450] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:11:15:451] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:11:15:451] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:11:15:451] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 12:11:15:451] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 12:11:21:794] mmmmmdm ?ã mua 20 item 340 v?i giá 0 xu 0 yên 100 l??ng
+[2022/11/29 12:11:36:682] taolatruml ?ã giao d?ch v?i bolatrumzz và nh?n ???c Item: 376. S? l??ng: 1
+[2022/11/29 12:12:03:639] gacon204 ?ã mua 1 item 24 v?i giá 0 xu 450 yên 0 l??ng
+[2022/11/29 12:12:11:016] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:12:11:017] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:12:11:017] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 12:12:11:017] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:12:11:017] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 12:12:11:018] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:12:11:018] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:12:11:018] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 12:12:11:018] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:12:11:018] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 12:12:11:018] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 12:12:11:018] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:12:27:365] Shinwa: morebube ?ã mua 1 item 242 v?i giá: 30000 xu.
+[2022/11/29 12:12:41:692] Shinwa: morebube ?ã mua 1 item 242 v?i giá: 30000 xu.
+[2022/11/29 12:12:50:963] Shinwa: morebube ?ã mua 1 item 242 v?i giá: 30000 xu.
+[2022/11/29 12:13:34:388] trumkiem ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 12:13:53:780] gdjsjjs ?ã mua 1 item 284 v?i giá 0 xu 0 yên 45 l??ng
+[2022/11/29 12:14:03:112] Shinwa: morebube ?ã mua 1 item 242 v?i giá: 30000 xu.
+[2022/11/29 12:14:11:913] Shinwa: morebube ?ã mua 1 item 242 v?i giá: 30000 xu.
+[2022/11/29 12:14:21:275] Shinwa: morebube ?ã mua 1 item 6 v?i giá: 1 xu.
+[2022/11/29 12:14:29:121] Shinwa: morebube ?ã mua 1 item 242 v?i giá: 30000 xu.
+[2022/11/29 12:14:41:924] Shinwa: morebube ?ã mua 1 item 242 v?i giá: 255555 xu.
+[2022/11/29 12:14:52:445] gdjsjjs ?ã mua 1 item 35 v?i giá 0 xu 1000 yên 0 l??ng
+[2022/11/29 12:14:57:366] Shinwa: morebube ?ã mua 1 item 242 v?i giá: 255555 xu.
+[2022/11/29 12:15:10:310] Shinwa: morebube ?ã mua 1 item 242 v?i giá: 299999 xu.
+[2022/11/29 12:15:21:801] Shinwa: morebube ?ã mua 1 item 242 v?i giá: 299999 xu.
+[2022/11/29 12:15:28:413] gdjsjjs ?ã mua 190 item 340 v?i giá 0 xu 0 yên 950 l??ng
+[2022/11/29 12:15:31:056] Shinwa: morebube ?ã mua 1 item 242 v?i giá: 299999 xu.
+[2022/11/29 12:15:39:479] gdjsjjs ?ã mua 101 item 340 v?i giá 0 xu 0 yên 505 l??ng
+[2022/11/29 12:15:41:958] top1sever ?ã mua 50 item 340 v?i giá 0 xu 0 yên 250 l??ng
+[2022/11/29 12:16:28:577] morebube ?ã mua 5 item 242 v?i giá 0 xu 0 yên 50 l??ng
+[2022/11/29 12:16:50:890] tranggok ?ã giao d?ch v?i vipboy và nh?n ???c Item: 968. S? l??ng: 1
+[2022/11/29 12:16:50:891] tranggok ?ã giao d?ch v?i vipboy và nh?n ???c Item: 397. S? l??ng: 1
+[2022/11/29 12:16:50:891] tranggok ?ã giao d?ch v?i vipboy và nh?n ???c Item: 397. S? l??ng: 1
+[2022/11/29 12:16:50:892] tranggok ?ã giao d?ch v?i vipboy và nh?n ???c Item: 397. S? l??ng: 1
+[2022/11/29 12:16:50:892] tranggok ?ã giao d?ch v?i vipboy và nh?n ???c Item: 397. S? l??ng: 1
+[2022/11/29 12:17:33:518] morebube ?ã mua 6 item 242 v?i giá 0 xu 0 yên 60 l??ng
+[2022/11/29 12:17:49:092] rongxanh ?ã mua 1 item 285 v?i giá 0 xu 0 yên 150 l??ng
+[2022/11/29 12:17:50:097] rongxanh ?ã mua 1 item 285 v?i giá 0 xu 0 yên 150 l??ng
+[2022/11/29 12:18:47:459] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 12:18:47:460] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 12:18:47:460] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 12:18:47:460] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:18:47:460] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:18:47:461] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:18:47:461] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:18:47:461] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:18:47:461] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:18:47:461] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 257. S? l??ng: 7
+[2022/11/29 12:19:10:090] tranggok ?ã giao d?ch v?i vipboy và nh?n ???c Item: 968. S? l??ng: 1
+[2022/11/29 12:19:35:273] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c: 100000 xu.
+[2022/11/29 12:19:35:273] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 523. S? l??ng: 1
+[2022/11/29 12:19:35:274] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 523. S? l??ng: 1
+[2022/11/29 12:19:35:274] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 523. S? l??ng: 1
+[2022/11/29 12:19:44:003] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:19:44:003] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:19:44:004] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 12:19:44:004] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:19:44:004] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:19:44:004] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:19:44:004] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:19:44:004] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:19:44:005] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:19:44:005] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 12:19:44:005] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 12:19:44:005] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 12:20:00:463] 1dapdi ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 12:20:21:546] trumquat ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 12:20:22:306] rongxanh ?ã mua 1 item 242 v?i giá 0 xu 0 yên 10 l??ng
+[2022/11/29 12:20:22:784] rongxanh ?ã mua 1 item 242 v?i giá 0 xu 0 yên 10 l??ng
+[2022/11/29 12:20:23:447] rongxanh ?ã mua 1 item 242 v?i giá 0 xu 0 yên 10 l??ng
+[2022/11/29 12:20:36:870] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:20:36:870] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:20:36:871] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:20:36:871] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:20:36:871] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 12:20:36:871] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:20:36:872] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:20:36:872] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:20:36:872] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 4. S? l??ng: 1
+[2022/11/29 12:20:36:872] morebube ?ã giao d?ch v?i dailynso và nh?n ???c Item: 436. S? l??ng: 2
+[2022/11/29 12:20:39:466] mmmmmdm ?ã giao d?ch v?i vkdeplam và nh?n ???c Item: 523. S? l??ng: 1
+[2022/11/29 12:20:39:466] mmmmmdm ?ã giao d?ch v?i vkdeplam và nh?n ???c Item: 523. S? l??ng: 1
+[2022/11/29 12:20:47:580] maximum ?ã mua 1 item 240 v?i giá 0 xu 0 yên 25 l??ng
+[2022/11/29 12:20:48:891] maximum ?ã mua 1 item 241 v?i giá 0 xu 0 yên 25 l??ng
+[2022/11/29 12:21:02:655] Shinwa: morebube ?ã mua 1 item 242 v?i giá: 299999 xu.
+[2022/11/29 12:21:09:758] 1sttiutiu ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 12:21:10:299] namkame ?ã giao d?ch v?i vipboy và nh?n ???c Item: 968. S? l??ng: 1
+[2022/11/29 12:21:10:300] namkame ?ã giao d?ch v?i vipboy và nh?n ???c Item: 968. S? l??ng: 1
+[2022/11/29 12:21:22:172] Shinwa: morebube ?ã mua 1 item 242 v?i giá: 250000 xu.
+[2022/11/29 12:21:28:653] 1chem2mang ?ã mua 1 item 26 v?i giá 0 xu 1500 yên 0 l??ng
+[2022/11/29 12:21:45:604] onekill1st ?ã mua 1 item 27 v?i giá 0 xu 2500 yên 0 l??ng
+[2022/11/29 12:21:53:054] bolatung ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 523. S? l??ng: 1
+[2022/11/29 12:21:53:055] bolatung ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 523. S? l??ng: 1
+[2022/11/29 12:21:53:055] bolatung ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 552. S? l??ng: 1
+[2022/11/29 12:21:53:055] bolatung ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 523. S? l??ng: 1
+[2022/11/29 12:21:53:056] bolatung ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 523. S? l??ng: 1
+[2022/11/29 12:21:53:056] bolatung ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 523. S? l??ng: 1
+[2022/11/29 12:23:04:679] morebube ?ã mua 7 item 242 v?i giá 0 xu 0 yên 70 l??ng
+[2022/11/29 12:23:05:853] guccigang ?ã mua 1 item 27 v?i giá 0 xu 2500 yên 0 l??ng
+[2022/11/29 12:23:54:224] morebube ?ã mua 5 item 242 v?i giá 0 xu 0 yên 50 l??ng
+[2022/11/29 12:24:33:448] rongxanh ?ã mua 5000 item 17 v?i giá 0 xu 17500000 yên 0 l??ng
+[2022/11/29 12:24:38:022] rongxanh ?ã mua 3000 item 22 v?i giá 0 xu 10500000 yên 0 l??ng
+[2022/11/29 12:24:38:273] onlynhinhi ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 12:24:39:786] onlynhinhi ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 12:24:41:725] onlynhinhi ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 12:24:42:681] onlynhinhi ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 12:24:43:634] onlynhinhi ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 12:25:16:543] tungdz2k ?ã mua 10 item 29 v?i giá 0 xu 50000 yên 0 l??ng
+[2022/11/29 12:25:48:401] bolatrumzz ?ã mua 3 item 284 v?i giá 0 xu 0 yên 135 l??ng
+[2022/11/29 12:26:27:843] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 380. S? l??ng: 1
+[2022/11/29 12:26:27:843] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 316. S? l??ng: 1
+[2022/11/29 12:26:27:843] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 12:26:27:843] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 409. S? l??ng: 1
+[2022/11/29 12:26:27:844] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 410. S? l??ng: 1
+[2022/11/29 12:28:03:841] bolatrumzz ?ã mua 1 item 284 v?i giá 0 xu 0 yên 45 l??ng
+[2022/11/29 12:28:27:977] mttmjm ?ã mua 1 item 744 v?i giá 0 xu 0 yên 1000 l??ng
+[2022/11/29 12:28:34:837] mttmjm ?ã mua 37 item 669 v?i giá 0 xu 0 yên 1480 l??ng
+[2022/11/29 12:30:20:049] mttmjm ?ã giao d?ch v?i vkdeplam và nh?n ???c Item: 668. S? l??ng: 2431
+[2022/11/29 12:30:20:050] mttmjm ?ã giao d?ch v?i vkdeplam và nh?n ???c Item: 667. S? l??ng: 2809
+[2022/11/29 12:30:20:050] mttmjm ?ã giao d?ch v?i vkdeplam và nh?n ???c Item: 666. S? l??ng: 3163
+[2022/11/29 12:31:18:155] viictorry ?ã mua 100 item 340 v?i giá 0 xu 0 yên 500 l??ng
+[2022/11/29 12:31:54:274] vkdeplam ?ã giao d?ch v?i mttmjm và nh?n ???c: 100000 xu.
+[2022/11/29 12:31:54:275] vkdeplam ?ã giao d?ch v?i mttmjm và nh?n ???c Item: 666. S? l??ng: 2867
+[2022/11/29 12:31:54:275] vkdeplam ?ã giao d?ch v?i mttmjm và nh?n ???c Item: 668. S? l??ng: 2061
+[2022/11/29 12:31:54:275] vkdeplam ?ã giao d?ch v?i mttmjm và nh?n ???c Item: 667. S? l??ng: 2476
+[2022/11/29 12:31:54:275] vkdeplam ?ã giao d?ch v?i mttmjm và nh?n ???c Item: 671. S? l??ng: 37
+[2022/11/29 12:33:34:419] trumkunai ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 12:33:51:539] ggjjtt ?ã mua 1 item 744 v?i giá 0 xu 0 yên 1000 l??ng
+[2022/11/29 12:33:54:658] ggjjtt ?ã mua 37 item 669 v?i giá 0 xu 0 yên 1480 l??ng
+[2022/11/29 12:33:57:368] ggjjtt ?ã mua 1 item 194 v?i giá 0 xu 0 yên 1 l??ng
+[2022/11/29 12:34:04:374] onekill1st ?ã mua 15000 item 20 v?i giá 0 xu 7500000 yên 0 l??ng
+[2022/11/29 12:34:06:650] viictorry ?ã mua 1 item 270 v?i giá 0 xu 0 yên 150 l??ng
+[2022/11/29 12:35:17:196] ggjjtt ?ã giao d?ch v?i vkdeplam và nh?n ???c Item: 668. S? l??ng: 2061
+[2022/11/29 12:35:17:196] ggjjtt ?ã giao d?ch v?i vkdeplam và nh?n ???c Item: 666. S? l??ng: 2867
+[2022/11/29 12:35:17:197] ggjjtt ?ã giao d?ch v?i vkdeplam và nh?n ???c Item: 667. S? l??ng: 2476
+[2022/11/29 12:36:11:965] onlynhinhi ?ã mua 1 item 304 v?i giá 20000 xu 0 yên 0 l??ng
+[2022/11/29 12:36:30:696] vkdeplam ?ã giao d?ch v?i ggjjtt và nh?n ???c: 100000 xu.
+[2022/11/29 12:36:30:697] vkdeplam ?ã giao d?ch v?i ggjjtt và nh?n ???c Item: 671. S? l??ng: 37
+[2022/11/29 12:36:30:697] vkdeplam ?ã giao d?ch v?i ggjjtt và nh?n ???c Item: 667. S? l??ng: 2143
+[2022/11/29 12:36:30:697] vkdeplam ?ã giao d?ch v?i ggjjtt và nh?n ???c Item: 668. S? l??ng: 1691
+[2022/11/29 12:36:30:698] vkdeplam ?ã giao d?ch v?i ggjjtt và nh?n ???c Item: 666. S? l??ng: 2571
+[2022/11/29 12:36:42:797] rongxanh ?ã mua 1 item 545 v?i giá 100000 xu 0 yên 0 l??ng
+[2022/11/29 12:36:43:427] rongxanh ?ã mua 1 item 545 v?i giá 100000 xu 0 yên 0 l??ng
+[2022/11/29 12:36:43:995] rongxanh ?ã mua 1 item 545 v?i giá 100000 xu 0 yên 0 l??ng
+[2022/11/29 12:36:44:548] rongxanh ?ã mua 1 item 545 v?i giá 100000 xu 0 yên 0 l??ng
+[2022/11/29 12:37:16:497] onlynhinhi ?ã mua 1 item 564 v?i giá 10000 xu 0 yên 0 l??ng
+[2022/11/29 12:37:36:712] onlynhinhi ?ã mua 1 item 564 v?i giá 10000 xu 0 yên 0 l??ng
+[2022/11/29 12:37:38:421] onlynhinhi ?ã mua 1 item 564 v?i giá 10000 xu 0 yên 0 l??ng
+[2022/11/29 12:37:39:940] onlynhinhi ?ã mua 1 item 564 v?i giá 10000 xu 0 yên 0 l??ng
+[2022/11/29 12:38:30:054] amjjajj ?ã mua 1 item 744 v?i giá 0 xu 0 yên 1000 l??ng
+[2022/11/29 12:38:31:294] amjjajj ?ã mua 1 item 194 v?i giá 0 xu 0 yên 1 l??ng
+[2022/11/29 12:38:33:304] amjjajj ?ã mua 37 item 669 v?i giá 0 xu 0 yên 1480 l??ng
+[2022/11/29 12:39:53:594] amjjajj ?ã giao d?ch v?i vkdeplam và nh?n ???c Item: 666. S? l??ng: 2571
+[2022/11/29 12:39:53:595] amjjajj ?ã giao d?ch v?i vkdeplam và nh?n ???c Item: 668. S? l??ng: 1691
+[2022/11/29 12:39:53:595] amjjajj ?ã giao d?ch v?i vkdeplam và nh?n ???c Item: 667. S? l??ng: 2143
+[2022/11/29 12:40:57:948] vokiem ?ã mua 1 item 23 v?i giá 0 xu 200 yên 0 l??ng
+[2022/11/29 12:41:02:007] vkdeplam ?ã giao d?ch v?i amjjajj và nh?n ???c: 100000 xu.
+[2022/11/29 12:41:02:007] vkdeplam ?ã giao d?ch v?i amjjajj và nh?n ???c Item: 668. S? l??ng: 1321
+[2022/11/29 12:41:02:008] vkdeplam ?ã giao d?ch v?i amjjajj và nh?n ???c Item: 666. S? l??ng: 2275
+[2022/11/29 12:41:02:008] vkdeplam ?ã giao d?ch v?i amjjajj và nh?n ???c Item: 667. S? l??ng: 1810
+[2022/11/29 12:41:02:008] vkdeplam ?ã giao d?ch v?i amjjajj và nh?n ???c Item: 671. S? l??ng: 37
+[2022/11/29 12:43:40:696] jjjmaaw ?ã mua 1 item 744 v?i giá 0 xu 0 yên 1000 l??ng
+[2022/11/29 12:43:44:848] jjjmaaw ?ã mua 1 item 194 v?i giá 0 xu 0 yên 1 l??ng
+[2022/11/29 12:43:47:087] jjjmaaw ?ã mua 37 item 669 v?i giá 0 xu 0 yên 1480 l??ng
+[2022/11/29 12:45:28:229] jjjmaaw ?ã giao d?ch v?i vkdeplam và nh?n ???c Item: 666. S? l??ng: 2275
+[2022/11/29 12:45:28:229] jjjmaaw ?ã giao d?ch v?i vkdeplam và nh?n ???c Item: 668. S? l??ng: 1321
+[2022/11/29 12:45:28:230] jjjmaaw ?ã giao d?ch v?i vkdeplam và nh?n ???c Item: 667. S? l??ng: 1810
+[2022/11/29 12:46:31:269] vkdeplam ?ã giao d?ch v?i jjjmaaw và nh?n ???c: 100000 xu.
+[2022/11/29 12:46:31:269] vkdeplam ?ã giao d?ch v?i jjjmaaw và nh?n ???c Item: 671. S? l??ng: 37
+[2022/11/29 12:46:31:269] vkdeplam ?ã giao d?ch v?i jjjmaaw và nh?n ???c Item: 667. S? l??ng: 1477
+[2022/11/29 12:46:31:270] vkdeplam ?ã giao d?ch v?i jjjmaaw và nh?n ???c Item: 666. S? l??ng: 1979
+[2022/11/29 12:46:31:270] vkdeplam ?ã giao d?ch v?i jjjmaaw và nh?n ???c Item: 668. S? l??ng: 951
+[2022/11/29 12:46:56:935] trumkiem ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 12:47:15:072] guccigang ?ã mua 1 item 27 v?i giá 0 xu 2500 yên 0 l??ng
+[2022/11/29 12:49:00:692] nso3mien ?ã giao d?ch v?i bigdata và nh?n ???c: 27993000 xu.
+[2022/11/29 12:49:00:693] nso3mien ?ã giao d?ch v?i bigdata và nh?n ???c Item: 968. S? l??ng: 1
+[2022/11/29 12:49:00:693] nso3mien ?ã giao d?ch v?i bigdata và nh?n ???c Item: 567. S? l??ng: 1
+[2022/11/29 12:49:00:693] nso3mien ?ã giao d?ch v?i bigdata và nh?n ???c Item: 968. S? l??ng: 1
+[2022/11/29 12:49:00:694] nso3mien ?ã giao d?ch v?i bigdata và nh?n ???c Item: 968. S? l??ng: 1
+[2022/11/29 12:49:00:694] nso3mien ?ã giao d?ch v?i bigdata và nh?n ???c Item: 968. S? l??ng: 1
+[2022/11/29 12:49:00:694] nso3mien ?ã giao d?ch v?i bigdata và nh?n ???c Item: 968. S? l??ng: 1
+[2022/11/29 12:49:24:325] nso3mien ?ã mua 1 item 545 v?i giá 100000 xu 0 yên 0 l??ng
+[2022/11/29 12:50:21:137] 1dapdi ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 12:50:56:544] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 12:50:56:545] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 242. S? l??ng: 1
+[2022/11/29 12:50:56:545] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 12:50:56:546] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 12:50:56:546] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 404. S? l??ng: 1
+[2022/11/29 12:50:56:546] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:50:56:547] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 12:50:56:547] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:50:56:547] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:50:56:547] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:50:56:547] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 557. S? l??ng: 1
+[2022/11/29 12:50:56:548] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 12:51:02:273] trumquat ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 12:51:10:901] 1sttiutiu ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 12:51:42:534] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:51:42:534] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:51:42:535] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:51:42:535] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:51:42:535] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:51:42:535] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:51:42:535] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:51:42:535] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:51:42:536] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:51:42:536] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:51:42:536] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:51:42:536] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:51:45:374] 1chem2mang ?ã mua 1 item 26 v?i giá 0 xu 1500 yên 0 l??ng
+[2022/11/29 12:54:18:333] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:54:18:334] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 12:54:18:334] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:54:18:334] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:54:18:334] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:54:18:334] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:54:18:335] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:54:18:335] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:54:18:335] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:54:18:335] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:54:18:335] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 12:54:56:882] vokiem ?ã mua 1 item 744 v?i giá 0 xu 0 yên 1000 l??ng
+[2022/11/29 12:55:10:542] vkdeplam ?ã giao d?ch v?i mmmmmdm và nh?n ???c Item: 409. S? l??ng: 1
+[2022/11/29 12:55:18:061] vixautrai ?ã mua 5 item 248 v?i giá 0 xu 0 yên 25 l??ng
+[2022/11/29 12:56:02:795] nso3mien ?ã mua 3 item 490 v?i giá 0 xu 0 yên 150 l??ng
+[2022/11/29 12:56:09:765] nso3mien ?ã mua 5 item 538 v?i giá 0 xu 0 yên 250 l??ng
+[2022/11/29 12:56:23:453] lailai ?ã mua 40 item 340 v?i giá 0 xu 0 yên 200 l??ng
+[2022/11/29 12:56:37:103] nso3mien ?ã mua 5 item 284 v?i giá 0 xu 0 yên 225 l??ng
+[2022/11/29 12:56:41:866] nso3mien ?ã mua 1 item 285 v?i giá 0 xu 0 yên 150 l??ng
+[2022/11/29 12:56:42:851] nso3mien ?ã mua 1 item 285 v?i giá 0 xu 0 yên 150 l??ng
+[2022/11/29 12:56:43:779] nso3mien ?ã mua 1 item 285 v?i giá 0 xu 0 yên 150 l??ng
+[2022/11/29 12:56:45:710] nso3mien ?ã mua 1 item 285 v?i giá 0 xu 0 yên 150 l??ng
+[2022/11/29 12:59:55:703] trumkunai ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 01:01:57:455] vkdeplam ?ã mua 1 item 284 v?i giá 0 xu 0 yên 45 l??ng
+[2022/11/29 01:02:10:399] gacon204 ?ã mua 1 item 25 v?i giá 0 xu 800 yên 0 l??ng
+[2022/11/29 01:04:59:301] okama ?ã mua 1 item 490 v?i giá 0 xu 0 yên 50 l??ng
+[2022/11/29 01:06:06:605] okama ?ã mua 5 item 545 v?i giá 500000 xu 0 yên 0 l??ng
+[2022/11/29 01:09:27:012] lailai ?ã mua 2 item 27 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 01:15:44:419] trumkiem ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 01:19:12:248] shinnies ?ã mua 5 item 284 v?i giá 0 xu 0 yên 225 l??ng
+[2022/11/29 01:21:05:822] 1dapdi ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 01:21:10:786] trumquat ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 01:21:11:757] 1sttiutiu ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 01:21:18:487] 1hitt ?ã mua 2 item 29 v?i giá 0 xu 10000 yên 0 l??ng
+[2022/11/29 01:21:29:002] 1chem2mang ?ã mua 1 item 26 v?i giá 0 xu 1500 yên 0 l??ng
+[2022/11/29 01:21:43:010] shinnies ?ã mua 1 item 284 v?i giá 0 xu 0 yên 45 l??ng
+[2022/11/29 01:21:43:652] shinnies ?ã mua 1 item 284 v?i giá 0 xu 0 yên 45 l??ng
+[2022/11/29 01:21:44:331] shinnies ?ã mua 1 item 284 v?i giá 0 xu 0 yên 45 l??ng
+[2022/11/29 01:21:45:095] shinnies ?ã mua 1 item 284 v?i giá 0 xu 0 yên 45 l??ng
+[2022/11/29 01:21:45:774] shinnies ?ã mua 1 item 284 v?i giá 0 xu 0 yên 45 l??ng
+[2022/11/29 01:23:32:018] shinnies ?ã mua 1 item 284 v?i giá 0 xu 0 yên 45 l??ng
+[2022/11/29 01:23:32:899] shinnies ?ã mua 1 item 284 v?i giá 0 xu 0 yên 45 l??ng
+[2022/11/29 01:23:33:703] shinnies ?ã mua 1 item 284 v?i giá 0 xu 0 yên 45 l??ng
+[2022/11/29 01:23:34:580] shinnies ?ã mua 1 item 284 v?i giá 0 xu 0 yên 45 l??ng
+[2022/11/29 01:23:35:427] shinnies ?ã mua 1 item 284 v?i giá 0 xu 0 yên 45 l??ng
+[2022/11/29 01:23:40:130] guccigang ?ã mua 1 item 27 v?i giá 0 xu 2500 yên 0 l??ng
+[2022/11/29 01:25:26:263] shinnies ?ã mua 10 item 284 v?i giá 0 xu 0 yên 450 l??ng
+[2022/11/29 01:26:26:143] gacon204 ?ã mua 1 item 25 v?i giá 0 xu 800 yên 0 l??ng
+[2022/11/29 01:31:56:144] Shinwa: okama ?ã ??ng bán 1 item 369 v?i giá: 15000000 xu.
+[2022/11/29 01:33:42:520] 1chem2mang ?ã mua 1 item 26 v?i giá 0 xu 1500 yên 0 l??ng
+[2022/11/29 01:37:15:048] Shinwa: vkdeplam ?ã mua 1 item 439 v?i giá: 55000 xu.
+[2022/11/29 01:37:38:976] Shinwa: vkdeplam ?ã mua 1 item 440 v?i giá: 335000 xu.
+[2022/11/29 01:38:05:689] trumkunai ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 01:38:39:477] Shinwa: vkdeplam ?ã mua 1 item 440 v?i giá: 350000 xu.
+[2022/11/29 01:39:42:777] okama ?ã mua 1 item 538 v?i giá 0 xu 0 yên 50 l??ng
+[2022/11/29 01:39:48:552] okama ?ã mua 1 item 538 v?i giá 0 xu 0 yên 50 l??ng
+[2022/11/29 01:39:57:282] okama ?ã mua 1 item 538 v?i giá 0 xu 0 yên 50 l??ng
+[2022/11/29 01:39:57:783] okama ?ã mua 1 item 538 v?i giá 0 xu 0 yên 50 l??ng
+[2022/11/29 01:40:10:042] okama ?ã mua 3 item 248 v?i giá 0 xu 0 yên 15 l??ng
+[2022/11/29 01:43:58:789] vkdeplam ?ã giao d?ch v?i bolatung và nh?n ???c Item: 285. S? l??ng: 1
+[2022/11/29 01:43:58:790] vkdeplam ?ã giao d?ch v?i bolatung và nh?n ???c Item: 285. S? l??ng: 1
+[2022/11/29 01:43:58:790] vkdeplam ?ã giao d?ch v?i bolatung và nh?n ???c Item: 285. S? l??ng: 1
+[2022/11/29 01:43:58:790] vkdeplam ?ã giao d?ch v?i bolatung và nh?n ???c Item: 285. S? l??ng: 1
+[2022/11/29 01:43:58:791] vkdeplam ?ã giao d?ch v?i bolatung và nh?n ???c Item: 285. S? l??ng: 1
+[2022/11/29 01:43:58:791] vkdeplam ?ã giao d?ch v?i bolatung và nh?n ???c Item: 285. S? l??ng: 1
+[2022/11/29 01:43:58:791] vkdeplam ?ã giao d?ch v?i bolatung và nh?n ???c Item: 285. S? l??ng: 1
+[2022/11/29 01:43:58:791] vkdeplam ?ã giao d?ch v?i bolatung và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 01:43:58:792] vkdeplam ?ã giao d?ch v?i bolatung và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 01:43:58:792] vkdeplam ?ã giao d?ch v?i bolatung và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 01:43:58:792] vkdeplam ?ã giao d?ch v?i bolatung và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 01:43:58:792] vkdeplam ?ã giao d?ch v?i bolatung và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 01:44:29:441] vkdeplam ?ã giao d?ch v?i bolatung và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 01:44:29:442] vkdeplam ?ã giao d?ch v?i bolatung và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 01:44:29:442] vkdeplam ?ã giao d?ch v?i bolatung và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 01:44:29:442] vkdeplam ?ã giao d?ch v?i bolatung và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 01:44:29:443] vkdeplam ?ã giao d?ch v?i bolatung và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 01:44:44:276] trumkiem ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 01:45:26:450] vkdeplam ?ã mua 1 item 270 v?i giá 0 xu 0 yên 150 l??ng
+[2022/11/29 01:47:11:486] nso3mien ?ã mua 1 item 241 v?i giá 0 xu 0 yên 25 l??ng
+[2022/11/29 01:47:12:969] nso3mien ?ã mua 1 item 240 v?i giá 0 xu 0 yên 25 l??ng
+[2022/11/29 01:47:57:919] quynhcute ?ã mua 3 item 29 v?i giá 0 xu 15000 yên 0 l??ng
+[2022/11/29 01:51:12:247] 1sttiutiu ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 01:51:39:527] 1dapdi ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 01:51:39:527] trumquat ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 01:51:39:532] trumkiem ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 02:19:12:273] trumkunai ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 02:21:03:453] buff1 ?ã mua 1 item 490 v?i giá 0 xu 0 yên 50 l??ng
+[2022/11/29 02:21:12:325] 1sttiutiu ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 02:21:13:095] 1dapdi ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 02:21:17:246] trumkiem ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 02:21:17:246] trumquat ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 02:21:31:250] 1chem2mang ?ã mua 1 item 26 v?i giá 0 xu 1500 yên 0 l??ng
+[2022/11/29 02:44:50:523] trumkunai ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 02:51:14:285] 1sttiutiu ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 02:51:35:147] 1chem2mang ?ã mua 1 item 26 v?i giá 0 xu 1500 yên 0 l??ng
+[2022/11/29 02:51:43:352] trumkiem ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 02:51:47:148] 1dapdi ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 02:54:06:207] trumquat ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 02:57:25:982] gitar ?ã mua 1 item 23 v?i giá 0 xu 200 yên 0 l??ng
+[2022/11/29 03:03:07:513] trumkunai ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 03:21:11:277] 1dapdi ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 03:21:14:763] 1sttiutiu ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 03:21:39:500] 1chem2mang ?ã mua 1 item 26 v?i giá 0 xu 1500 yên 0 l??ng
+[2022/11/29 03:23:00:706] sepngoc ?ã mua 2 item 29 v?i giá 0 xu 10000 yên 0 l??ng
+[2022/11/29 03:23:05:686] 6789nb ?ã mua 1 item 538 v?i giá 0 xu 0 yên 50 l??ng
+[2022/11/29 03:23:07:355] 6789nb ?ã mua 1 item 538 v?i giá 0 xu 0 yên 50 l??ng
+[2022/11/29 03:23:12:350] 6789nb ?ã mua 1 item 545 v?i giá 100000 xu 0 yên 0 l??ng
+[2022/11/29 03:26:17:268] trumkiem ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 03:26:21:455] trumquat ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 03:30:00:619] hung123 ?ã mua 1 item 744 v?i giá 0 xu 0 yên 1000 l??ng
+[2022/11/29 03:30:28:526] trumkunai ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 03:51:15:792] 1sttiutiu ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 03:51:33:113] 1dapdi ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 03:51:35:207] trumkiem ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 03:51:45:384] 1chem2mang ?ã mua 1 item 26 v?i giá 0 xu 1500 yên 0 l??ng
+[2022/11/29 03:51:47:266] trumquat ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 03:56:26:643] 17tbkx ?ã giao d?ch v?i ikuiku và nh?n ???c Item: 552. S? l??ng: 1
+[2022/11/29 03:56:26:643] 17tbkx ?ã giao d?ch v?i ikuiku và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 03:56:26:643] 17tbkx ?ã giao d?ch v?i ikuiku và nh?n ???c Item: 4. S? l??ng: 1
+[2022/11/29 03:56:26:643] 17tbkx ?ã giao d?ch v?i ikuiku và nh?n ???c Item: 4. S? l??ng: 1
+[2022/11/29 03:56:26:643] 17tbkx ?ã giao d?ch v?i ikuiku và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 03:56:26:643] 17tbkx ?ã giao d?ch v?i ikuiku và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 03:56:26:643] 17tbkx ?ã giao d?ch v?i ikuiku và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 03:56:26:643] 17tbkx ?ã giao d?ch v?i ikuiku và nh?n ???c Item: 4. S? l??ng: 1
+[2022/11/29 03:56:26:643] 17tbkx ?ã giao d?ch v?i ikuiku và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 03:56:26:643] 17tbkx ?ã giao d?ch v?i ikuiku và nh?n ???c Item: 4. S? l??ng: 1
+[2022/11/29 03:56:26:643] 17tbkx ?ã giao d?ch v?i ikuiku và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 03:59:47:188] 17tbkx ?ã mua 1 item 248 v?i giá 0 xu 0 yên 5 l??ng
+[2022/11/29 04:04:55:289] 17tbkx ?ã mua 20 item 340 v?i giá 0 xu 0 yên 100 l??ng
+[2022/11/29 04:07:38:771] 17tbkx ?ã mua 1 item 490 v?i giá 0 xu 0 yên 50 l??ng
+[2022/11/29 04:08:29:107] traitimvun ?ã giao d?ch v?i phuongdzai và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 04:08:29:107] traitimvun ?ã giao d?ch v?i phuongdzai và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 04:08:29:107] traitimvun ?ã giao d?ch v?i phuongdzai và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 04:08:29:107] traitimvun ?ã giao d?ch v?i phuongdzai và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 04:08:29:107] traitimvun ?ã giao d?ch v?i phuongdzai và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 04:08:29:107] traitimvun ?ã giao d?ch v?i phuongdzai và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 04:08:29:107] traitimvun ?ã giao d?ch v?i phuongdzai và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 04:08:29:107] traitimvun ?ã giao d?ch v?i phuongdzai và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 04:08:29:107] traitimvun ?ã giao d?ch v?i phuongdzai và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 04:08:29:107] traitimvun ?ã giao d?ch v?i phuongdzai và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 04:08:29:107] traitimvun ?ã giao d?ch v?i phuongdzai và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 04:08:29:107] traitimvun ?ã giao d?ch v?i phuongdzai và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 04:09:18:288] traitimvun ?ã giao d?ch v?i phuongdzai và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 04:09:18:288] traitimvun ?ã giao d?ch v?i phuongdzai và nh?n ???c Item: 455. S? l??ng: 1
+[2022/11/29 04:09:18:288] traitimvun ?ã giao d?ch v?i phuongdzai và nh?n ???c Item: 455. S? l??ng: 1
+[2022/11/29 04:09:18:288] traitimvun ?ã giao d?ch v?i phuongdzai và nh?n ???c Item: 455. S? l??ng: 1
+[2022/11/29 04:09:18:288] traitimvun ?ã giao d?ch v?i phuongdzai và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 04:09:18:288] traitimvun ?ã giao d?ch v?i phuongdzai và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 04:09:18:288] traitimvun ?ã giao d?ch v?i phuongdzai và nh?n ???c Item: 262. S? l??ng: 125
+[2022/11/29 04:09:18:288] traitimvun ?ã giao d?ch v?i phuongdzai và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 04:09:18:288] traitimvun ?ã giao d?ch v?i phuongdzai và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 04:09:18:288] traitimvun ?ã giao d?ch v?i phuongdzai và nh?n ???c Item: 5. S? l??ng: 1
+[2022/11/29 04:09:18:288] traitimvun ?ã giao d?ch v?i phuongdzai và nh?n ???c Item: 280. S? l??ng: 1
+[2022/11/29 04:09:49:301] traitimvun ?ã mua 1 item 475 v?i giá 0 xu 0 yên 350 l??ng
+[2022/11/29 04:10:30:521] 17tbkx ?ã mua 1 item 490 v?i giá 0 xu 0 yên 50 l??ng
+[2022/11/29 04:11:20:421] traitimvun ?ã mua 1 item 475 v?i giá 0 xu 0 yên 350 l??ng
+[2022/11/29 04:16:56:240] traitimvun ?ã giao d?ch v?i dzaiquata và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 04:16:56:240] traitimvun ?ã giao d?ch v?i dzaiquata và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 04:16:56:240] traitimvun ?ã giao d?ch v?i dzaiquata và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 04:16:56:240] traitimvun ?ã giao d?ch v?i dzaiquata và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 04:16:56:240] traitimvun ?ã giao d?ch v?i dzaiquata và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 04:16:56:240] traitimvun ?ã giao d?ch v?i dzaiquata và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 04:16:56:240] traitimvun ?ã giao d?ch v?i dzaiquata và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 04:16:56:240] traitimvun ?ã giao d?ch v?i dzaiquata và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 04:16:56:240] traitimvun ?ã giao d?ch v?i dzaiquata và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 04:16:56:240] traitimvun ?ã giao d?ch v?i dzaiquata và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 04:16:56:240] traitimvun ?ã giao d?ch v?i dzaiquata và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 04:16:56:240] traitimvun ?ã giao d?ch v?i dzaiquata và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 04:18:03:274] traitimvun ?ã giao d?ch v?i dzaiquata và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 04:18:03:274] traitimvun ?ã giao d?ch v?i dzaiquata và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 04:18:03:274] traitimvun ?ã giao d?ch v?i dzaiquata và nh?n ???c Item: 545. S? l??ng: 1
+[2022/11/29 04:18:03:274] traitimvun ?ã giao d?ch v?i dzaiquata và nh?n ???c Item: 545. S? l??ng: 1
+[2022/11/29 04:18:03:274] traitimvun ?ã giao d?ch v?i dzaiquata và nh?n ???c Item: 545. S? l??ng: 1
+[2022/11/29 04:18:03:274] traitimvun ?ã giao d?ch v?i dzaiquata và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 04:18:58:775] trumkunai ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 04:21:16:334] 1sttiutiu ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 04:21:38:108] 1chem2mang ?ã mua 1 item 26 v?i giá 0 xu 1500 yên 0 l??ng
+[2022/11/29 04:27:12:189] phuongdzai ?ã mua 1 item 270 v?i giá 0 xu 0 yên 150 l??ng
+[2022/11/29 04:28:45:911] dzaiquata ?ã giao d?ch v?i phuongdzai và nh?n ???c Item: 634. S? l??ng: 1
+[2022/11/29 04:29:35:842] dzaiquata ?ã mua 1 item 270 v?i giá 0 xu 0 yên 150 l??ng
+[2022/11/29 04:31:20:865] trumkunai ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 04:37:35:018] 1dapdi ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 04:42:32:603] trumkiem ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 04:51:17:437] 1sttiutiu ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 04:51:37:024] 1chem2mang ?ã mua 1 item 26 v?i giá 0 xu 1500 yên 0 l??ng
+[2022/11/29 04:52:52:254] 1hitt ?ã mua 2 item 29 v?i giá 0 xu 10000 yên 0 l??ng
+[2022/11/29 04:56:51:864] 1dapdi ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 04:56:59:964] trumkiem ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 04:57:16:092] trumquat ?ã mua 2 item 29 v?i giá 0 xu 10000 yên 0 l??ng
+[2022/11/29 05:03:37:240] xlxxboo ?ã giao d?ch v?i giaobanh và nh?n ???c: 24000000 xu.
+[2022/11/29 05:04:18:771] giaobanh ?ã giao d?ch v?i xlxxboo và nh?n ???c: 2000000 xu.
+[2022/11/29 05:05:09:734] nickup ?ã giao d?ch v?i xlxxboo và nh?n ???c: 22100000 xu.
+[2022/11/29 05:07:51:335] trumkunai ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 05:21:18:224] 1sttiutiu ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 05:21:39:248] 1chem2mang ?ã mua 1 item 26 v?i giá 0 xu 1500 yên 0 l??ng
+[2022/11/29 05:25:55:300] koploklll ?ã giao d?ch v?i nickup và nh?n ???c Item: 667. S? l??ng: 12640
+[2022/11/29 05:25:55:300] koploklll ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 14691
+[2022/11/29 05:25:55:300] koploklll ?ã giao d?ch v?i nickup và nh?n ???c Item: 668. S? l??ng: 10612
+[2022/11/29 05:26:07:898] koploklll ?ã mua 80 item 669 v?i giá 0 xu 0 yên 3200 l??ng
+[2022/11/29 05:26:12:228] koploklll ?ã mua 4 item 669 v?i giá 0 xu 0 yên 160 l??ng
+[2022/11/29 05:27:02:612] nickup ?ã giao d?ch v?i koploklll và nh?n ???c: 100000 xu.
+[2022/11/29 05:27:02:612] nickup ?ã giao d?ch v?i koploklll và nh?n ???c Item: 671. S? l??ng: 84
+[2022/11/29 05:27:02:612] nickup ?ã giao d?ch v?i koploklll và nh?n ???c Item: 667. S? l??ng: 11884
+[2022/11/29 05:27:02:612] nickup ?ã giao d?ch v?i koploklll và nh?n ???c Item: 666. S? l??ng: 14019
+[2022/11/29 05:27:02:612] nickup ?ã giao d?ch v?i koploklll và nh?n ???c Item: 668. S? l??ng: 9772
+[2022/11/29 05:27:34:340] mokloooo ?ã mua 85 item 669 v?i giá 0 xu 0 yên 3400 l??ng
+[2022/11/29 05:27:36:477] mokloooo ?ã mua 4 item 669 v?i giá 0 xu 0 yên 160 l??ng
+[2022/11/29 05:27:57:883] mokloooo ?ã giao d?ch v?i nickup và nh?n ???c Item: 667. S? l??ng: 11884
+[2022/11/29 05:27:57:883] mokloooo ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 14019
+[2022/11/29 05:27:57:883] mokloooo ?ã giao d?ch v?i nickup và nh?n ???c Item: 668. S? l??ng: 9772
+[2022/11/29 05:28:28:927] nickup ?ã giao d?ch v?i mokloooo và nh?n ???c: 100000 xu.
+[2022/11/29 05:28:28:927] nickup ?ã giao d?ch v?i mokloooo và nh?n ???c Item: 671. S? l??ng: 89
+[2022/11/29 05:28:28:927] nickup ?ã giao d?ch v?i mokloooo và nh?n ???c Item: 668. S? l??ng: 8882
+[2022/11/29 05:28:28:927] nickup ?ã giao d?ch v?i mokloooo và nh?n ???c Item: 666. S? l??ng: 13307
+[2022/11/29 05:28:28:927] nickup ?ã giao d?ch v?i mokloooo và nh?n ???c Item: 667. S? l??ng: 11083
+[2022/11/29 05:28:50:636] mokloj ?ã mua 85 item 669 v?i giá 0 xu 0 yên 3400 l??ng
+[2022/11/29 05:28:52:843] mokloj ?ã mua 2 item 669 v?i giá 0 xu 0 yên 80 l??ng
+[2022/11/29 05:29:13:846] mokloj ?ã giao d?ch v?i nickup và nh?n ???c Item: 668. S? l??ng: 8882
+[2022/11/29 05:29:13:846] mokloj ?ã giao d?ch v?i nickup và nh?n ???c Item: 671. S? l??ng: 173
+[2022/11/29 05:29:13:846] mokloj ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 13307
+[2022/11/29 05:29:13:846] mokloj ?ã giao d?ch v?i nickup và nh?n ???c Item: 667. S? l??ng: 11083
+[2022/11/29 05:29:48:765] nickup ?ã giao d?ch v?i mokloj và nh?n ???c: 100000 xu.
+[2022/11/29 05:29:48:765] nickup ?ã giao d?ch v?i mokloj và nh?n ???c Item: 667. S? l??ng: 10300
+[2022/11/29 05:29:48:765] nickup ?ã giao d?ch v?i mokloj và nh?n ???c Item: 666. S? l??ng: 12611
+[2022/11/29 05:29:48:765] nickup ?ã giao d?ch v?i mokloj và nh?n ???c Item: 668. S? l??ng: 8012
+[2022/11/29 05:29:48:765] nickup ?ã giao d?ch v?i mokloj và nh?n ???c Item: 671. S? l??ng: 260
+[2022/11/29 05:30:19:813] moklojo ?ã mua 85 item 669 v?i giá 0 xu 0 yên 3400 l??ng
+[2022/11/29 05:30:22:068] moklojo ?ã mua 4 item 669 v?i giá 0 xu 0 yên 160 l??ng
+[2022/11/29 05:30:42:217] moklojo ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 12611
+[2022/11/29 05:30:42:217] moklojo ?ã giao d?ch v?i nickup và nh?n ???c Item: 668. S? l??ng: 8012
+[2022/11/29 05:30:42:217] moklojo ?ã giao d?ch v?i nickup và nh?n ???c Item: 667. S? l??ng: 10300
+[2022/11/29 05:31:19:120] nickup ?ã giao d?ch v?i moklojo và nh?n ???c: 100000 xu.
+[2022/11/29 05:31:19:120] nickup ?ã giao d?ch v?i moklojo và nh?n ???c Item: 671. S? l??ng: 89
+[2022/11/29 05:31:19:120] nickup ?ã giao d?ch v?i moklojo và nh?n ???c Item: 667. S? l??ng: 9499
+[2022/11/29 05:31:19:120] nickup ?ã giao d?ch v?i moklojo và nh?n ???c Item: 668. S? l??ng: 7122
+[2022/11/29 05:31:19:120] nickup ?ã giao d?ch v?i moklojo và nh?n ???c Item: 666. S? l??ng: 11899
+[2022/11/29 05:31:46:846] 1dapdi ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 05:31:46:846] trumkiem ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 05:32:35:101] moklooo ?ã mua 82 item 669 v?i giá 0 xu 0 yên 3280 l??ng
+[2022/11/29 05:32:38:105] moklooo ?ã mua 2 item 669 v?i giá 0 xu 0 yên 80 l??ng
+[2022/11/29 05:32:59:639] moklooo ?ã giao d?ch v?i nickup và nh?n ???c Item: 668. S? l??ng: 7122
+[2022/11/29 05:32:59:639] moklooo ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 11899
+[2022/11/29 05:32:59:639] moklooo ?ã giao d?ch v?i nickup và nh?n ???c Item: 667. S? l??ng: 9499
+[2022/11/29 05:33:27:917] nickup ?ã giao d?ch v?i moklooo và nh?n ???c: 100000 xu.
+[2022/11/29 05:33:27:917] nickup ?ã giao d?ch v?i moklooo và nh?n ???c Item: 671. S? l??ng: 84
+[2022/11/29 05:33:27:917] nickup ?ã giao d?ch v?i moklooo và nh?n ???c Item: 667. S? l??ng: 8743
+[2022/11/29 05:33:27:917] nickup ?ã giao d?ch v?i moklooo và nh?n ???c Item: 666. S? l??ng: 11227
+[2022/11/29 05:33:50:146] mokloo ?ã mua 84 item 669 v?i giá 0 xu 0 yên 3360 l??ng
+[2022/11/29 05:34:35:855] nickup ?ã giao d?ch v?i moklooo và nh?n ???c Item: 668. S? l??ng: 6282
+[2022/11/29 05:35:10:822] mokloo ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 11227
+[2022/11/29 05:35:10:823] mokloo ?ã giao d?ch v?i nickup và nh?n ???c Item: 668. S? l??ng: 6282
+[2022/11/29 05:35:10:823] mokloo ?ã giao d?ch v?i nickup và nh?n ???c Item: 667. S? l??ng: 8743
+[2022/11/29 05:35:49:989] nickup ?ã giao d?ch v?i mokloo và nh?n ???c: 100000 xu.
+[2022/11/29 05:35:49:989] nickup ?ã giao d?ch v?i mokloo và nh?n ???c Item: 671. S? l??ng: 84
+[2022/11/29 05:35:49:989] nickup ?ã giao d?ch v?i mokloo và nh?n ???c Item: 667. S? l??ng: 7987
+[2022/11/29 05:35:49:989] nickup ?ã giao d?ch v?i mokloo và nh?n ???c Item: 668. S? l??ng: 5442
+[2022/11/29 05:35:49:989] nickup ?ã giao d?ch v?i mokloo và nh?n ???c Item: 666. S? l??ng: 10555
+[2022/11/29 05:36:13:963] gyajsjs ?ã mua 84 item 669 v?i giá 0 xu 0 yên 3360 l??ng
+[2022/11/29 05:36:34:983] gyajsjs ?ã giao d?ch v?i nickup và nh?n ???c Item: 668. S? l??ng: 5442
+[2022/11/29 05:36:34:983] gyajsjs ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 10555
+[2022/11/29 05:36:34:983] gyajsjs ?ã giao d?ch v?i nickup và nh?n ???c Item: 667. S? l??ng: 7987
+[2022/11/29 05:37:06:169] nickup ?ã giao d?ch v?i gyajsjs và nh?n ???c: 100000 xu.
+[2022/11/29 05:37:06:169] nickup ?ã giao d?ch v?i gyajsjs và nh?n ???c Item: 671. S? l??ng: 84
+[2022/11/29 05:37:06:169] nickup ?ã giao d?ch v?i gyajsjs và nh?n ???c Item: 667. S? l??ng: 7231
+[2022/11/29 05:37:06:169] nickup ?ã giao d?ch v?i gyajsjs và nh?n ???c Item: 666. S? l??ng: 9883
+[2022/11/29 05:37:06:169] nickup ?ã giao d?ch v?i gyajsjs và nh?n ???c Item: 668. S? l??ng: 4602
+[2022/11/29 05:37:30:133] kopls ?ã mua 84 item 669 v?i giá 0 xu 0 yên 3360 l??ng
+[2022/11/29 05:37:49:013] kopls ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 9883
+[2022/11/29 05:37:49:013] kopls ?ã giao d?ch v?i nickup và nh?n ???c Item: 668. S? l??ng: 4602
+[2022/11/29 05:37:49:013] kopls ?ã giao d?ch v?i nickup và nh?n ???c Item: 667. S? l??ng: 7231
+[2022/11/29 05:38:09:958] nickup ?ã giao d?ch v?i kopls và nh?n ???c Item: 671. S? l??ng: 84
+[2022/11/29 05:38:09:958] nickup ?ã giao d?ch v?i kopls và nh?n ???c Item: 666. S? l??ng: 9211
+[2022/11/29 05:38:09:958] nickup ?ã giao d?ch v?i kopls và nh?n ???c Item: 668. S? l??ng: 3763
+[2022/11/29 05:38:09:958] nickup ?ã giao d?ch v?i kopls và nh?n ???c Item: 667. S? l??ng: 6476
+[2022/11/29 05:38:32:556] koplokdaop ?ã mua 84 item 669 v?i giá 0 xu 0 yên 3360 l??ng
+[2022/11/29 05:39:00:065] koplokdaop ?ã giao d?ch v?i nickup và nh?n ???c Item: 667. S? l??ng: 6476
+[2022/11/29 05:39:00:065] koplokdaop ?ã giao d?ch v?i nickup và nh?n ???c Item: 668. S? l??ng: 3763
+[2022/11/29 05:39:00:065] koplokdaop ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 9211
+[2022/11/29 05:39:32:052] nickup ?ã giao d?ch v?i koplokdaop và nh?n ???c: 100000 xu.
+[2022/11/29 05:39:32:052] nickup ?ã giao d?ch v?i koplokdaop và nh?n ???c Item: 671. S? l??ng: 84
+[2022/11/29 05:39:32:052] nickup ?ã giao d?ch v?i koplokdaop và nh?n ???c Item: 666. S? l??ng: 8539
+[2022/11/29 05:39:32:052] nickup ?ã giao d?ch v?i koplokdaop và nh?n ???c Item: 668. S? l??ng: 2923
+[2022/11/29 05:39:32:052] nickup ?ã giao d?ch v?i koplokdaop và nh?n ???c Item: 667. S? l??ng: 5720
+[2022/11/29 05:39:55:336] koplokdaoo ?ã mua 84 item 669 v?i giá 0 xu 0 yên 3360 l??ng
+[2022/11/29 05:40:15:872] koplokdaoo ?ã giao d?ch v?i nickup và nh?n ???c Item: 668. S? l??ng: 2923
+[2022/11/29 05:40:15:872] koplokdaoo ?ã giao d?ch v?i nickup và nh?n ???c Item: 667. S? l??ng: 5720
+[2022/11/29 05:40:15:872] koplokdaoo ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 8539
+[2022/11/29 05:41:05:564] nickup ?ã giao d?ch v?i koplokdaoo và nh?n ???c: 100000 xu.
+[2022/11/29 05:41:05:564] nickup ?ã giao d?ch v?i koplokdaoo và nh?n ???c Item: 671. S? l??ng: 84
+[2022/11/29 05:41:05:564] nickup ?ã giao d?ch v?i koplokdaoo và nh?n ???c Item: 667. S? l??ng: 4964
+[2022/11/29 05:41:05:564] nickup ?ã giao d?ch v?i koplokdaoo và nh?n ???c Item: 666. S? l??ng: 7867
+[2022/11/29 05:41:05:564] nickup ?ã giao d?ch v?i koplokdaoo và nh?n ???c Item: 668. S? l??ng: 2083
+[2022/11/29 05:41:16:389] trumquat ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 05:41:26:859] koplokdao ?ã mua 84 item 669 v?i giá 0 xu 0 yên 3360 l??ng
+[2022/11/29 05:41:49:293] koplokdao ?ã giao d?ch v?i nickup và nh?n ???c Item: 667. S? l??ng: 4964
+[2022/11/29 05:41:49:293] koplokdao ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 7867
+[2022/11/29 05:41:49:293] koplokdao ?ã giao d?ch v?i nickup và nh?n ???c Item: 668. S? l??ng: 2083
+[2022/11/29 05:42:20:389] nickup ?ã giao d?ch v?i koplokdao và nh?n ???c Item: 668. S? l??ng: 1243
+[2022/11/29 05:42:20:389] nickup ?ã giao d?ch v?i koplokdao và nh?n ???c Item: 667. S? l??ng: 4208
+[2022/11/29 05:42:20:389] nickup ?ã giao d?ch v?i koplokdao và nh?n ???c Item: 671. S? l??ng: 84
+[2022/11/29 05:42:20:389] nickup ?ã giao d?ch v?i koplokdao và nh?n ???c Item: 666. S? l??ng: 7197
+[2022/11/29 05:42:42:041] koplokda ?ã mua 84 item 669 v?i giá 0 xu 0 yên 3360 l??ng
+[2022/11/29 05:43:02:189] koplokda ?ã giao d?ch v?i nickup và nh?n ???c Item: 667. S? l??ng: 4208
+[2022/11/29 05:43:02:189] koplokda ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 7197
+[2022/11/29 05:43:02:189] koplokda ?ã giao d?ch v?i nickup và nh?n ???c Item: 668. S? l??ng: 1243
+[2022/11/29 05:43:27:211] nickup ?ã giao d?ch v?i koplokda và nh?n ???c Item: 668. S? l??ng: 403
+[2022/11/29 05:43:27:211] nickup ?ã giao d?ch v?i koplokda và nh?n ???c Item: 667. S? l??ng: 3455
+[2022/11/29 05:43:27:211] nickup ?ã giao d?ch v?i koplokda và nh?n ???c Item: 666. S? l??ng: 6525
+[2022/11/29 05:43:27:211] nickup ?ã giao d?ch v?i koplokda và nh?n ???c Item: 671. S? l??ng: 84
+[2022/11/29 05:43:49:462] koplokd ?ã mua 84 item 669 v?i giá 0 xu 0 yên 3360 l??ng
+[2022/11/29 05:43:58:655] lonemden ?ã mua 1 item 613 v?i giá 0 xu 0 yên 45 l??ng
+[2022/11/29 05:44:28:251] shark ?ã giao d?ch v?i lonemden và nh?n ???c Item: 613. S? l??ng: 1
+[2022/11/29 05:44:43:174] Shinwa: 1dapdi1 ?ã mua 1 item 443 v?i giá: 100000 xu.
+[2022/11/29 05:45:02:431] Shinwa: 1dapdi1 ?ã mua 1 item 485 v?i giá: 100000 xu.
+[2022/11/29 05:45:54:447] nickup ?ã giao d?ch v?i giaobanh và nh?n ???c Item: 667. S? l??ng: 15625
+[2022/11/29 05:45:54:447] nickup ?ã giao d?ch v?i giaobanh và nh?n ???c Item: 668. S? l??ng: 15842
+[2022/11/29 05:45:54:447] nickup ?ã giao d?ch v?i giaobanh và nh?n ???c Item: 666. S? l??ng: 15383
+[2022/11/29 05:46:59:458] jmgwj ?ã mua 1 item 538 v?i giá 0 xu 0 yên 50 l??ng
+[2022/11/29 05:47:15:841] koplokd ?ã giao d?ch v?i nickup và nh?n ???c Item: 667. S? l??ng: 19080
+[2022/11/29 05:47:15:841] koplokd ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 6525
+[2022/11/29 05:47:15:841] koplokd ?ã giao d?ch v?i nickup và nh?n ???c Item: 668. S? l??ng: 16245
+[2022/11/29 05:47:15:841] koplokd ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 15383
+[2022/11/29 05:47:17:754] Shinwa: 1dapdi1 ?ã ??ng bán 22182 item 668 v?i giá: 5000000 xu.
+[2022/11/29 05:47:29:211] Shinwa: 1dapdi1 ?ã ??ng bán 22011 item 666 v?i giá: 5000000 xu.
+[2022/11/29 05:47:40:703] Shinwa: 1dapdi1 ?ã ??ng bán 22222 item 667 v?i giá: 5000000 xu.
+[2022/11/29 05:47:51:047] nickup ?ã giao d?ch v?i koplokd và nh?n ???c: 100000 xu.
+[2022/11/29 05:47:51:047] nickup ?ã giao d?ch v?i koplokd và nh?n ???c Item: 666. S? l??ng: 15383
+[2022/11/29 05:47:51:047] nickup ?ã giao d?ch v?i koplokd và nh?n ???c Item: 668. S? l??ng: 15405
+[2022/11/29 05:47:51:047] nickup ?ã giao d?ch v?i koplokd và nh?n ???c Item: 666. S? l??ng: 5853
+[2022/11/29 05:47:51:047] nickup ?ã giao d?ch v?i koplokd và nh?n ???c Item: 671. S? l??ng: 84
+[2022/11/29 05:48:42:423] hokmk ?ã mua 80 item 669 v?i giá 0 xu 0 yên 3200 l??ng
+[2022/11/29 05:48:47:670] hokmk ?ã mua 2 item 669 v?i giá 0 xu 0 yên 80 l??ng
+[2022/11/29 05:49:08:228] hokmk ?ã giao d?ch v?i nickup và nh?n ???c Item: 668. S? l??ng: 15405
+[2022/11/29 05:49:08:228] hokmk ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 5853
+[2022/11/29 05:49:08:229] hokmk ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 15383
+[2022/11/29 05:49:53:743] trumkunai ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 05:50:52:124] nickup ?ã giao d?ch v?i koplokd và nh?n ???c Item: 667. S? l??ng: 18324
+[2022/11/29 05:51:19:412] 1sttiutiu ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 05:51:22:899] hokmk ?ã giao d?ch v?i nickup và nh?n ???c Item: 667. S? l??ng: 18324
+[2022/11/29 05:51:36:076] 1chem2mang ?ã mua 1 item 26 v?i giá 0 xu 1500 yên 0 l??ng
+[2022/11/29 05:52:04:892] nickup ?ã giao d?ch v?i hokmk và nh?n ???c: 100000 xu.
+[2022/11/29 05:52:04:892] nickup ?ã giao d?ch v?i hokmk và nh?n ???c Item: 666. S? l??ng: 20580
+[2022/11/29 05:52:04:892] nickup ?ã giao d?ch v?i hokmk và nh?n ???c Item: 667. S? l??ng: 17586
+[2022/11/29 05:52:04:892] nickup ?ã giao d?ch v?i hokmk và nh?n ???c Item: 671. S? l??ng: 82
+[2022/11/29 05:52:04:892] nickup ?ã giao d?ch v?i hokmk và nh?n ???c Item: 668. S? l??ng: 14585
+[2022/11/29 05:52:25:372] hokmkk ?ã mua 82 item 669 v?i giá 0 xu 0 yên 3280 l??ng
+[2022/11/29 05:52:45:394] hokmkk ?ã giao d?ch v?i nickup và nh?n ???c Item: 668. S? l??ng: 14585
+[2022/11/29 05:52:45:410] hokmkk ?ã giao d?ch v?i nickup và nh?n ???c Item: 667. S? l??ng: 17586
+[2022/11/29 05:52:45:410] hokmkk ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 20580
+[2022/11/29 05:53:16:494] 1dapdi ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 05:53:26:585] trumkiem ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 05:53:39:222] nickup ?ã giao d?ch v?i hokmkk và nh?n ???c: 100000 xu.
+[2022/11/29 05:53:39:222] nickup ?ã giao d?ch v?i hokmkk và nh?n ???c Item: 671. S? l??ng: 82
+[2022/11/29 05:53:39:222] nickup ?ã giao d?ch v?i hokmkk và nh?n ???c Item: 667. S? l??ng: 16848
+[2022/11/29 05:53:39:222] nickup ?ã giao d?ch v?i hokmkk và nh?n ???c Item: 668. S? l??ng: 13765
+[2022/11/29 05:53:39:222] nickup ?ã giao d?ch v?i hokmkk và nh?n ???c Item: 666. S? l??ng: 19924
+[2022/11/29 05:54:05:656] hokmkko ?ã mua 82 item 669 v?i giá 0 xu 0 yên 3280 l??ng
+[2022/11/29 05:54:24:946] hokmkko ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 19924
+[2022/11/29 05:54:24:946] hokmkko ?ã giao d?ch v?i nickup và nh?n ???c Item: 668. S? l??ng: 13765
+[2022/11/29 05:54:24:946] hokmkko ?ã giao d?ch v?i nickup và nh?n ???c Item: 667. S? l??ng: 16848
+[2022/11/29 05:54:53:042] nickup ?ã giao d?ch v?i hokmkko và nh?n ???c: 100000 xu.
+[2022/11/29 05:54:53:042] nickup ?ã giao d?ch v?i hokmkko và nh?n ???c Item: 671. S? l??ng: 82
+[2022/11/29 05:54:53:042] nickup ?ã giao d?ch v?i hokmkko và nh?n ???c Item: 667. S? l??ng: 16110
+[2022/11/29 05:54:53:042] nickup ?ã giao d?ch v?i hokmkko và nh?n ???c Item: 668. S? l??ng: 12945
+[2022/11/29 05:54:53:042] nickup ?ã giao d?ch v?i hokmkko và nh?n ???c Item: 666. S? l??ng: 19268
+[2022/11/29 05:55:17:301] hokmkkoo ?ã mua 82 item 669 v?i giá 0 xu 0 yên 3280 l??ng
+[2022/11/29 05:55:37:852] hokmkkoo ?ã giao d?ch v?i nickup và nh?n ???c Item: 668. S? l??ng: 12945
+[2022/11/29 05:55:37:852] hokmkkoo ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 19268
+[2022/11/29 05:55:37:852] hokmkkoo ?ã giao d?ch v?i nickup và nh?n ???c Item: 667. S? l??ng: 16110
+[2022/11/29 05:56:02:903] nickup ?ã giao d?ch v?i hokmkkoo và nh?n ???c Item: 671. S? l??ng: 82
+[2022/11/29 05:56:02:903] nickup ?ã giao d?ch v?i hokmkkoo và nh?n ???c Item: 666. S? l??ng: 18612
+[2022/11/29 05:56:02:903] nickup ?ã giao d?ch v?i hokmkkoo và nh?n ???c Item: 668. S? l??ng: 12125
+[2022/11/29 05:56:02:903] nickup ?ã giao d?ch v?i hokmkkoo và nh?n ???c Item: 667. S? l??ng: 15372
+[2022/11/29 05:56:26:096] hokmkoo ?ã mua 82 item 669 v?i giá 0 xu 0 yên 3280 l??ng
+[2022/11/29 05:56:33:495] hokmkoo ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 05:56:34:499] hokmkoo ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 05:57:03:322] hokmkoo ?ã giao d?ch v?i nickup và nh?n ???c Item: 668. S? l??ng: 12125
+[2022/11/29 05:57:03:322] hokmkoo ?ã giao d?ch v?i nickup và nh?n ???c Item: 667. S? l??ng: 15372
+[2022/11/29 05:57:03:322] hokmkoo ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 18612
+[2022/11/29 05:57:47:196] nickup ?ã giao d?ch v?i hokmkoo và nh?n ???c: 100000 xu.
+[2022/11/29 05:57:47:196] nickup ?ã giao d?ch v?i hokmkoo và nh?n ???c Item: 666. S? l??ng: 17940
+[2022/11/29 05:57:47:196] nickup ?ã giao d?ch v?i hokmkoo và nh?n ???c Item: 667. S? l??ng: 14616
+[2022/11/29 05:57:47:196] nickup ?ã giao d?ch v?i hokmkoo và nh?n ???c Item: 668. S? l??ng: 11285
+[2022/11/29 05:57:47:196] nickup ?ã giao d?ch v?i hokmkoo và nh?n ???c Item: 671. S? l??ng: 84
+[2022/11/29 05:58:14:793] hokmkooo ?ã mua 82 item 669 v?i giá 0 xu 0 yên 3280 l??ng
+[2022/11/29 05:58:18:048] trumkiem ?ã mua 9999 item 16 v?i giá 0 xu 9999000 yên 0 l??ng
+[2022/11/29 05:58:35:130] hokmkooo ?ã giao d?ch v?i nickup và nh?n ???c Item: 667. S? l??ng: 14616
+[2022/11/29 05:58:35:130] hokmkooo ?ã giao d?ch v?i nickup và nh?n ???c Item: 668. S? l??ng: 11285
+[2022/11/29 05:58:35:130] hokmkooo ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 17940
+[2022/11/29 05:59:02:990] nickup ?ã giao d?ch v?i hokmkooo và nh?n ???c Item: 671. S? l??ng: 82
+[2022/11/29 05:59:03:005] nickup ?ã giao d?ch v?i hokmkooo và nh?n ???c Item: 666. S? l??ng: 17284
+[2022/11/29 05:59:03:005] nickup ?ã giao d?ch v?i hokmkooo và nh?n ???c Item: 667. S? l??ng: 13878
+[2022/11/29 05:59:03:005] nickup ?ã giao d?ch v?i hokmkooo và nh?n ???c Item: 668. S? l??ng: 10465
+[2022/11/29 05:59:31:218] hakjo ?ã mua 79 item 669 v?i giá 0 xu 0 yên 3160 l??ng
+[2022/11/29 05:59:53:058] hakjo ?ã giao d?ch v?i nickup và nh?n ???c Item: 667. S? l??ng: 13878
+[2022/11/29 05:59:53:058] hakjo ?ã giao d?ch v?i nickup và nh?n ???c Item: 668. S? l??ng: 10465
+[2022/11/29 05:59:53:058] hakjo ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 17284
+[2022/11/29 06:00:22:049] nickup ?ã giao d?ch v?i hakjo và nh?n ???c: 100000 xu.
+[2022/11/29 06:00:22:049] nickup ?ã giao d?ch v?i hakjo và nh?n ???c Item: 671. S? l??ng: 79
+[2022/11/29 06:00:22:049] nickup ?ã giao d?ch v?i hakjo và nh?n ???c Item: 666. S? l??ng: 16652
+[2022/11/29 06:00:22:049] nickup ?ã giao d?ch v?i hakjo và nh?n ???c Item: 667. S? l??ng: 13167
+[2022/11/29 06:00:22:049] nickup ?ã giao d?ch v?i hakjo và nh?n ???c Item: 668. S? l??ng: 9675
+[2022/11/29 06:00:53:257] hakjok ?ã mua 79 item 669 v?i giá 0 xu 0 yên 3160 l??ng
+[2022/11/29 06:01:18:912] hakjok ?ã giao d?ch v?i nickup và nh?n ???c Item: 667. S? l??ng: 13167
+[2022/11/29 06:01:18:912] hakjok ?ã giao d?ch v?i nickup và nh?n ???c Item: 668. S? l??ng: 9675
+[2022/11/29 06:01:18:912] hakjok ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 16652
+[2022/11/29 06:01:45:976] nickup ?ã giao d?ch v?i hakjok và nh?n ???c: 100000 xu.
+[2022/11/29 06:01:45:976] nickup ?ã giao d?ch v?i hakjok và nh?n ???c Item: 671. S? l??ng: 79
+[2022/11/29 06:01:45:976] nickup ?ã giao d?ch v?i hakjok và nh?n ???c Item: 668. S? l??ng: 8885
+[2022/11/29 06:01:45:976] nickup ?ã giao d?ch v?i hakjok và nh?n ???c Item: 667. S? l??ng: 12456
+[2022/11/29 06:01:45:976] nickup ?ã giao d?ch v?i hakjok và nh?n ???c Item: 666. S? l??ng: 16020
+[2022/11/29 06:02:07:882] hakjokk ?ã mua 79 item 669 v?i giá 0 xu 0 yên 3160 l??ng
+[2022/11/29 06:02:25:922] nickup ?ã giao d?ch v?i hakjokk và nh?n ???c: 100000 xu.
+[2022/11/29 06:02:47:418] hakjokk ?ã giao d?ch v?i nickup và nh?n ???c Item: 667. S? l??ng: 12456
+[2022/11/29 06:02:47:419] hakjokk ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 16020
+[2022/11/29 06:02:47:419] hakjokk ?ã giao d?ch v?i nickup và nh?n ???c Item: 668. S? l??ng: 8885
+[2022/11/29 06:03:31:824] nickup ?ã giao d?ch v?i hakjokk và nh?n ???c Item: 666. S? l??ng: 15388
+[2022/11/29 06:03:31:825] nickup ?ã giao d?ch v?i hakjokk và nh?n ???c Item: 671. S? l??ng: 79
+[2022/11/29 06:03:31:825] nickup ?ã giao d?ch v?i hakjokk và nh?n ???c Item: 668. S? l??ng: 8095
+[2022/11/29 06:03:31:825] nickup ?ã giao d?ch v?i hakjokk và nh?n ???c Item: 667. S? l??ng: 11745
+[2022/11/29 06:03:59:295] quoko ?ã mua 82 item 669 v?i giá 0 xu 0 yên 3280 l??ng
+[2022/11/29 06:04:21:092] quoko ?ã giao d?ch v?i nickup và nh?n ???c Item: 667. S? l??ng: 11745
+[2022/11/29 06:04:21:092] quoko ?ã giao d?ch v?i nickup và nh?n ???c Item: 668. S? l??ng: 8095
+[2022/11/29 06:04:21:092] quoko ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 15388
+[2022/11/29 06:04:45:834] biinflap ?ã mua 1 item 340 v?i giá 0 xu 0 yên 5 l??ng
+[2022/11/29 06:04:47:529] nickup ?ã giao d?ch v?i quoko và nh?n ???c: 100000 xu.
+[2022/11/29 06:04:47:545] nickup ?ã giao d?ch v?i quoko và nh?n ???c Item: 671. S? l??ng: 82
+[2022/11/29 06:04:47:545] nickup ?ã giao d?ch v?i quoko và nh?n ???c Item: 666. S? l??ng: 14732
+[2022/11/29 06:04:47:545] nickup ?ã giao d?ch v?i quoko và nh?n ???c Item: 667. S? l??ng: 11007
+[2022/11/29 06:04:47:545] nickup ?ã giao d?ch v?i quoko và nh?n ???c Item: 668. S? l??ng: 7275
+[2022/11/29 06:04:52:547] biinflap ?ã mua 99 item 340 v?i giá 0 xu 0 yên 495 l??ng
+[2022/11/29 06:05:09:657] okloah ?ã mua 79 item 669 v?i giá 0 xu 0 yên 3160 l??ng
+[2022/11/29 06:05:30:906] okloah ?ã giao d?ch v?i nickup và nh?n ???c Item: 668. S? l??ng: 7275
+[2022/11/29 06:05:30:906] okloah ?ã giao d?ch v?i nickup và nh?n ???c Item: 667. S? l??ng: 11007
+[2022/11/29 06:05:30:906] okloah ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 14732
+[2022/11/29 06:05:57:943] nickup ?ã giao d?ch v?i okloah và nh?n ???c: 100000 xu.
+[2022/11/29 06:05:57:943] nickup ?ã giao d?ch v?i okloah và nh?n ???c Item: 667. S? l??ng: 10296
+[2022/11/29 06:05:57:943] nickup ?ã giao d?ch v?i okloah và nh?n ???c Item: 666. S? l??ng: 14100
+[2022/11/29 06:05:57:943] nickup ?ã giao d?ch v?i okloah và nh?n ???c Item: 668. S? l??ng: 6485
+[2022/11/29 06:05:57:943] nickup ?ã giao d?ch v?i okloah và nh?n ???c Item: 671. S? l??ng: 79
+[2022/11/29 06:06:16:729] trumquat ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 06:06:20:268] trumtieu ?ã mua 60 item 340 v?i giá 0 xu 0 yên 300 l??ng
+[2022/11/29 06:06:23:839] okloahw ?ã mua 79 item 669 v?i giá 0 xu 0 yên 3160 l??ng
+[2022/11/29 06:06:50:866] okloahw ?ã giao d?ch v?i nickup và nh?n ???c Item: 668. S? l??ng: 6485
+[2022/11/29 06:06:50:866] okloahw ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 14100
+[2022/11/29 06:06:50:866] okloahw ?ã giao d?ch v?i nickup và nh?n ???c Item: 667. S? l??ng: 10296
+[2022/11/29 06:07:15:935] nickup ?ã giao d?ch v?i okloahw và nh?n ???c: 100000 xu.
+[2022/11/29 06:07:15:935] nickup ?ã giao d?ch v?i okloahw và nh?n ???c Item: 671. S? l??ng: 79
+[2022/11/29 06:07:15:935] nickup ?ã giao d?ch v?i okloahw và nh?n ???c Item: 666. S? l??ng: 13468
+[2022/11/29 06:07:15:935] nickup ?ã giao d?ch v?i okloahw và nh?n ???c Item: 668. S? l??ng: 5695
+[2022/11/29 06:07:15:935] nickup ?ã giao d?ch v?i okloahw và nh?n ???c Item: 667. S? l??ng: 9585
+[2022/11/29 06:07:38:539] kokaku ?ã mua 79 item 669 v?i giá 0 xu 0 yên 3160 l??ng
+[2022/11/29 06:08:08:442] kokaku ?ã giao d?ch v?i nickup và nh?n ???c Item: 668. S? l??ng: 5695
+[2022/11/29 06:08:08:442] kokaku ?ã giao d?ch v?i nickup và nh?n ???c Item: 667. S? l??ng: 9585
+[2022/11/29 06:08:08:442] kokaku ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 13468
+[2022/11/29 06:08:33:158] nickup ?ã giao d?ch v?i kokaku và nh?n ???c: 100000 xu.
+[2022/11/29 06:08:33:158] nickup ?ã giao d?ch v?i kokaku và nh?n ???c Item: 671. S? l??ng: 79
+[2022/11/29 06:08:33:158] nickup ?ã giao d?ch v?i kokaku và nh?n ???c Item: 667. S? l??ng: 8874
+[2022/11/29 06:08:33:158] nickup ?ã giao d?ch v?i kokaku và nh?n ???c Item: 668. S? l??ng: 4905
+[2022/11/29 06:08:33:159] nickup ?ã giao d?ch v?i kokaku và nh?n ???c Item: 666. S? l??ng: 12836
+[2022/11/29 06:08:53:942] kokakuw ?ã mua 79 item 669 v?i giá 0 xu 0 yên 3160 l??ng
+[2022/11/29 06:09:04:255] nxnxndn ?ã mua 1 item 744 v?i giá 0 xu 0 yên 1000 l??ng
+[2022/11/29 06:09:15:846] kokakuw ?ã giao d?ch v?i nickup và nh?n ???c Item: 668. S? l??ng: 4905
+[2022/11/29 06:09:15:847] kokakuw ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 12836
+[2022/11/29 06:09:15:847] kokakuw ?ã giao d?ch v?i nickup và nh?n ???c Item: 667. S? l??ng: 8874
+[2022/11/29 06:09:33:740] trumkunai ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 06:09:41:310] nickup ?ã giao d?ch v?i kokakuw và nh?n ???c: 100000 xu.
+[2022/11/29 06:09:41:310] nickup ?ã giao d?ch v?i kokakuw và nh?n ???c Item: 666. S? l??ng: 12204
+[2022/11/29 06:09:41:310] nickup ?ã giao d?ch v?i kokakuw và nh?n ???c Item: 671. S? l??ng: 79
+[2022/11/29 06:09:41:311] nickup ?ã giao d?ch v?i kokakuw và nh?n ???c Item: 667. S? l??ng: 8163
+[2022/11/29 06:09:41:311] nickup ?ã giao d?ch v?i kokakuw và nh?n ???c Item: 668. S? l??ng: 4115
+[2022/11/29 06:10:03:451] kokakuwg ?ã mua 79 item 669 v?i giá 0 xu 0 yên 3160 l??ng
+[2022/11/29 06:10:24:942] nickup ?ã giao d?ch v?i kokakuwg và nh?n ???c: 100000 xu.
+[2022/11/29 06:10:37:162] bebionline ?ã mua 1 item 490 v?i giá 0 xu 0 yên 50 l??ng
+[2022/11/29 06:10:38:391] bebionline ?ã mua 1 item 490 v?i giá 0 xu 0 yên 50 l??ng
+[2022/11/29 06:10:43:548] kokakuwg ?ã giao d?ch v?i nickup và nh?n ???c Item: 667. S? l??ng: 8163
+[2022/11/29 06:10:43:548] kokakuwg ?ã giao d?ch v?i nickup và nh?n ???c Item: 668. S? l??ng: 4115
+[2022/11/29 06:10:43:548] kokakuwg ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 12204
+[2022/11/29 06:11:06:261] nickup ?ã giao d?ch v?i kokakuwg và nh?n ???c Item: 666. S? l??ng: 11572
+[2022/11/29 06:11:06:261] nickup ?ã giao d?ch v?i kokakuwg và nh?n ???c Item: 668. S? l??ng: 3325
+[2022/11/29 06:11:06:261] nickup ?ã giao d?ch v?i kokakuwg và nh?n ???c Item: 667. S? l??ng: 7452
+[2022/11/29 06:11:06:261] nickup ?ã giao d?ch v?i kokakuwg và nh?n ???c Item: 671. S? l??ng: 79
+[2022/11/29 06:11:13:109] 1hitt ?ã mua 2 item 29 v?i giá 0 xu 10000 yên 0 l??ng
+[2022/11/29 06:11:24:006] luxffy ?ã mua 1 item 614 v?i giá 0 xu 0 yên 45 l??ng
+[2022/11/29 06:11:30:791] akoku ?ã mua 79 item 669 v?i giá 0 xu 0 yên 3160 l??ng
+[2022/11/29 06:11:51:057] akoku ?ã giao d?ch v?i nickup và nh?n ???c Item: 668. S? l??ng: 3325
+[2022/11/29 06:11:51:057] akoku ?ã giao d?ch v?i nickup và nh?n ???c Item: 667. S? l??ng: 7452
+[2022/11/29 06:11:51:057] akoku ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 11572
+[2022/11/29 06:12:31:070] nickup ?ã giao d?ch v?i akoku và nh?n ???c: 100000 xu.
+[2022/11/29 06:12:31:070] nickup ?ã giao d?ch v?i akoku và nh?n ???c Item: 666. S? l??ng: 10940
+[2022/11/29 06:12:31:070] nickup ?ã giao d?ch v?i akoku và nh?n ???c Item: 671. S? l??ng: 79
+[2022/11/29 06:12:31:085] nickup ?ã giao d?ch v?i akoku và nh?n ???c Item: 668. S? l??ng: 2535
+[2022/11/29 06:12:31:085] nickup ?ã giao d?ch v?i akoku và nh?n ???c Item: 667. S? l??ng: 6741
+[2022/11/29 06:12:35:951] trumtieu ?ã giao d?ch v?i 1dapdi1 và nh?n ???c Item: 485. S? l??ng: 1
+[2022/11/29 06:12:35:951] trumtieu ?ã giao d?ch v?i 1dapdi1 và nh?n ???c Item: 443. S? l??ng: 1
+[2022/11/29 06:12:35:951] 1dapdi1 ?ã giao d?ch v?i trumtieu và nh?n ???c Item: 523. S? l??ng: 1
+[2022/11/29 06:12:35:951] 1dapdi1 ?ã giao d?ch v?i trumtieu và nh?n ???c Item: 554. S? l??ng: 1
+[2022/11/29 06:12:35:951] 1dapdi1 ?ã giao d?ch v?i trumtieu và nh?n ???c Item: 375. S? l??ng: 1
+[2022/11/29 06:12:35:951] 1dapdi1 ?ã giao d?ch v?i trumtieu và nh?n ???c Item: 315. S? l??ng: 1
+[2022/11/29 06:12:35:951] 1dapdi1 ?ã giao d?ch v?i trumtieu và nh?n ???c Item: 554. S? l??ng: 1
+[2022/11/29 06:12:35:951] 1dapdi1 ?ã giao d?ch v?i trumtieu và nh?n ???c Item: 630. S? l??ng: 1
+[2022/11/29 06:12:35:951] 1dapdi1 ?ã giao d?ch v?i trumtieu và nh?n ???c Item: 379. S? l??ng: 1
+[2022/11/29 06:12:53:431] akokug ?ã mua 79 item 669 v?i giá 0 xu 0 yên 3160 l??ng
+[2022/11/29 06:13:12:810] akokug ?ã giao d?ch v?i nickup và nh?n ???c Item: 668. S? l??ng: 2535
+[2022/11/29 06:13:12:810] akokug ?ã giao d?ch v?i nickup và nh?n ???c Item: 667. S? l??ng: 6741
+[2022/11/29 06:13:12:810] akokug ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 10940
+[2022/11/29 06:13:38:044] nickup ?ã giao d?ch v?i akokug và nh?n ???c Item: 667. S? l??ng: 6030
+[2022/11/29 06:13:38:044] nickup ?ã giao d?ch v?i akokug và nh?n ???c Item: 671. S? l??ng: 79
+[2022/11/29 06:13:38:044] nickup ?ã giao d?ch v?i akokug và nh?n ???c Item: 668. S? l??ng: 1745
+[2022/11/29 06:13:38:044] nickup ?ã giao d?ch v?i akokug và nh?n ???c Item: 666. S? l??ng: 10308
+[2022/11/29 06:13:57:909] akokuga ?ã mua 79 item 669 v?i giá 0 xu 0 yên 3160 l??ng
+[2022/11/29 06:14:10:980] trumkiem ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 06:14:16:854] akokuga ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 10308
+[2022/11/29 06:14:16:854] akokuga ?ã giao d?ch v?i nickup và nh?n ???c Item: 668. S? l??ng: 1745
+[2022/11/29 06:14:16:854] akokuga ?ã giao d?ch v?i nickup và nh?n ???c Item: 667. S? l??ng: 6030
+[2022/11/29 06:14:27:321] trumtieu ?ã giao d?ch v?i 1dapdi1 và nh?n ???c Item: 452. S? l??ng: 2
+[2022/11/29 06:14:27:321] trumtieu ?ã giao d?ch v?i 1dapdi1 và nh?n ???c Item: 278. S? l??ng: 1
+[2022/11/29 06:14:27:321] trumtieu ?ã giao d?ch v?i 1dapdi1 và nh?n ???c Item: 275. S? l??ng: 1
+[2022/11/29 06:14:27:321] trumtieu ?ã giao d?ch v?i 1dapdi1 và nh?n ???c Item: 277. S? l??ng: 1
+[2022/11/29 06:14:51:132] nickup ?ã giao d?ch v?i akokuga và nh?n ???c: 100000 xu.
+[2022/11/29 06:14:51:132] nickup ?ã giao d?ch v?i akokuga và nh?n ???c Item: 668. S? l??ng: 955
+[2022/11/29 06:14:51:132] nickup ?ã giao d?ch v?i akokuga và nh?n ???c Item: 671. S? l??ng: 79
+[2022/11/29 06:14:51:133] nickup ?ã giao d?ch v?i akokuga và nh?n ???c Item: 666. S? l??ng: 9676
+[2022/11/29 06:14:51:133] nickup ?ã giao d?ch v?i akokuga và nh?n ???c Item: 667. S? l??ng: 5319
+[2022/11/29 06:15:13:029] akokugag ?ã mua 79 item 669 v?i giá 0 xu 0 yên 3160 l??ng
+[2022/11/29 06:15:36:055] nickup ?ã giao d?ch v?i akokugag và nh?n ???c: 100000 xu.
+[2022/11/29 06:15:50:909] akokugag ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 9676
+[2022/11/29 06:15:50:909] akokugag ?ã giao d?ch v?i nickup và nh?n ???c Item: 667. S? l??ng: 5319
+[2022/11/29 06:15:50:909] akokugag ?ã giao d?ch v?i nickup và nh?n ???c Item: 668. S? l??ng: 955
+[2022/11/29 06:16:18:271] nickup ?ã giao d?ch v?i akokugag và nh?n ???c Item: 667. S? l??ng: 4608
+[2022/11/29 06:16:18:271] nickup ?ã giao d?ch v?i akokugag và nh?n ???c Item: 668. S? l??ng: 165
+[2022/11/29 06:16:18:271] nickup ?ã giao d?ch v?i akokugag và nh?n ???c Item: 671. S? l??ng: 79
+[2022/11/29 06:16:18:271] nickup ?ã giao d?ch v?i akokugag và nh?n ???c Item: 666. S? l??ng: 9044
+[2022/11/29 06:16:28:373] trumtieu ?ã giao d?ch v?i 1dapdi1 và nh?n ???c: 5000000 xu.
+[2022/11/29 06:16:28:373] 1dapdi1 ?ã giao d?ch v?i trumtieu và nh?n ???c Item: 316. S? l??ng: 1
+[2022/11/29 06:16:28:373] 1dapdi1 ?ã giao d?ch v?i trumtieu và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 06:16:28:373] 1dapdi1 ?ã giao d?ch v?i trumtieu và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 06:16:28:373] 1dapdi1 ?ã giao d?ch v?i trumtieu và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 06:16:28:373] 1dapdi1 ?ã giao d?ch v?i trumtieu và nh?n ???c Item: 523. S? l??ng: 1
+[2022/11/29 06:16:28:373] 1dapdi1 ?ã giao d?ch v?i trumtieu và nh?n ???c Item: 407. S? l??ng: 1
+[2022/11/29 06:16:28:373] 1dapdi1 ?ã giao d?ch v?i trumtieu và nh?n ???c Item: 257. S? l??ng: 3
+[2022/11/29 06:16:28:373] 1dapdi1 ?ã giao d?ch v?i trumtieu và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 06:18:41:625] nickup ?ã giao d?ch v?i wechat và nh?n ???c Item: 666. S? l??ng: 1823
+[2022/11/29 06:18:41:626] nickup ?ã giao d?ch v?i wechat và nh?n ???c Item: 668. S? l??ng: 1813
+[2022/11/29 06:18:41:626] nickup ?ã giao d?ch v?i wechat và nh?n ???c Item: 667. S? l??ng: 1709
+[2022/11/29 06:19:05:455] biinflap ?ã mua 1 item 26 v?i giá 0 xu 1500 yên 0 l??ng
+[2022/11/29 06:19:35:277] biinflap ?ã mua 100 item 340 v?i giá 0 xu 0 yên 500 l??ng
+[2022/11/29 06:20:19:543] daihoc ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 06:20:29:966] akokugagp ?ã mua 79 item 669 v?i giá 0 xu 0 yên 3160 l??ng
+[2022/11/29 06:20:31:036] top1sever ?ã mua 1 item 538 v?i giá 0 xu 0 yên 50 l??ng
+[2022/11/29 06:20:49:092] nickup ?ã giao d?ch v?i akokugagp và nh?n ???c: 100000 xu.
+[2022/11/29 06:21:05:832] akokugagp ?ã giao d?ch v?i nickup và nh?n ???c Item: 668. S? l??ng: 1978
+[2022/11/29 06:21:05:832] akokugagp ?ã giao d?ch v?i nickup và nh?n ???c Item: 666. S? l??ng: 10867
+[2022/11/29 06:21:05:832] akokugagp ?ã giao d?ch v?i nickup và nh?n ???c Item: 667. S? l??ng: 6317
+[2022/11/29 06:21:29:193] nickup ?ã giao d?ch v?i akokugagp và nh?n ???c Item: 671. S? l??ng: 79
+[2022/11/29 06:21:42:082] ruong2 ?ã mua 1 item 35 v?i giá 0 xu 1000 yên 0 l??ng
+[2022/11/29 06:21:43:354] ruong2 ?ã mua 1 item 35 v?i giá 0 xu 1000 yên 0 l??ng
+[2022/11/29 06:21:51:224] 1chem2mang ?ã mua 1 item 26 v?i giá 0 xu 1500 yên 0 l??ng
+[2022/11/29 06:22:38:433] ngthingan ?ã mua 1 item 27 v?i giá 0 xu 2500 yên 0 l??ng
+[2022/11/29 06:23:29:041] Shinwa: biinflap ?ã mua 1 item 182 v?i giá: 1 xu.
+[2022/11/29 06:23:29:614] nxnxndn ?ã mua 1 item 24 v?i giá 0 xu 450 yên 0 l??ng
+[2022/11/29 06:23:53:959] nhanxu ?ã giao d?ch v?i nickup và nh?n ???c: 4000000 xu.
+[2022/11/29 06:23:53:959] nhanxu ?ã giao d?ch v?i nickup và nh?n ???c Item: 671. S? l??ng: 580
+[2022/11/29 06:28:36:521] namkame ?ã giao d?ch v?i vipboy và nh?n ???c Item: 453. S? l??ng: 2
+[2022/11/29 06:28:36:521] namkame ?ã giao d?ch v?i vipboy và nh?n ???c Item: 574. S? l??ng: 1
+[2022/11/29 06:28:36:521] namkame ?ã giao d?ch v?i vipboy và nh?n ???c Item: 438. S? l??ng: 1
+[2022/11/29 06:28:36:521] namkame ?ã giao d?ch v?i vipboy và nh?n ???c Item: 277. S? l??ng: 1
+[2022/11/29 06:29:28:037] giaoxe ?ã giao d?ch v?i nickup và nh?n ???c Item: 671. S? l??ng: 548
+[2022/11/29 06:32:33:724] trumkunai ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 06:33:39:810] giaoxe ?ã giao d?ch v?i nickup và nh?n ???c: 4000000 xu.
+[2022/11/29 06:35:09:317] giaoqua ?ã giao d?ch v?i nickup và nh?n ???c: 5000000 xu.
+[2022/11/29 06:35:09:317] giaoqua ?ã giao d?ch v?i nickup và nh?n ???c Item: 671. S? l??ng: 580
+[2022/11/29 06:35:36:102] tranggoku ?ã giao d?ch v?i vipboy và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 06:35:36:102] tranggoku ?ã giao d?ch v?i vipboy và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 06:35:36:102] tranggoku ?ã giao d?ch v?i vipboy và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 06:35:36:102] tranggoku ?ã giao d?ch v?i vipboy và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 06:35:36:102] tranggoku ?ã giao d?ch v?i vipboy và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 06:35:36:102] tranggoku ?ã giao d?ch v?i vipboy và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 06:35:36:102] tranggoku ?ã giao d?ch v?i vipboy và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 06:35:36:102] tranggoku ?ã giao d?ch v?i vipboy và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 06:35:36:102] tranggoku ?ã giao d?ch v?i vipboy và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 06:35:36:102] tranggoku ?ã giao d?ch v?i vipboy và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 06:35:36:102] tranggoku ?ã giao d?ch v?i vipboy và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 06:35:36:102] tranggoku ?ã giao d?ch v?i vipboy và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 06:35:50:568] Shinwa: giaoqua ?ã ??ng bán 1 item 524 v?i giá: 200000 xu.
+[2022/11/29 06:36:02:061] Shinwa: giaoqua ?ã ??ng bán 1 item 524 v?i giá: 1999991 xu.
+[2022/11/29 06:38:07:135] tranggoku ?ã giao d?ch v?i vipboy và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 06:38:07:135] tranggoku ?ã giao d?ch v?i vipboy và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 06:38:07:135] tranggoku ?ã giao d?ch v?i vipboy và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 06:38:07:135] tranggoku ?ã giao d?ch v?i vipboy và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 06:38:07:135] tranggoku ?ã giao d?ch v?i vipboy và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 06:38:07:135] tranggoku ?ã giao d?ch v?i vipboy và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 06:38:07:135] tranggoku ?ã giao d?ch v?i vipboy và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 06:39:00:371] biinflap ?ã mua 1 item 26 v?i giá 0 xu 1500 yên 0 l??ng
+[2022/11/29 06:39:13:206] giaoqua ?ã mua 5 item 242 v?i giá 0 xu 0 yên 50 l??ng
+[2022/11/29 06:39:14:101] 1dapdi ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 06:39:49:276] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:39:55:510] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:39:55:731] skfkddaa22 ?ã mua 1 item 35 v?i giá 0 xu 1000 yên 0 l??ng
+[2022/11/29 06:40:00:842] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:40:09:362] Shinwa: morebube ?ã mua 1 item 10 v?i giá: 200000 xu.
+[2022/11/29 06:40:14:441] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:40:18:155] Shinwa: morebube ?ã mua 1 item 10 v?i giá: 200000 xu.
+[2022/11/29 06:40:22:271] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:40:30:129] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:40:30:962] giaoqua ?ã mua 3 item 242 v?i giá 0 xu 0 yên 30 l??ng
+[2022/11/29 06:40:39:908] skfkddaa22 ?ã mua 3 item 23 v?i giá 0 xu 600 yên 0 l??ng
+[2022/11/29 06:40:43:865] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:40:49:483] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:40:56:622] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:40:59:460] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:41:04:260] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:43:15:163] giaokeo ?ã giao d?ch v?i nickup và nh?n ???c: 4000000 xu.
+[2022/11/29 06:43:15:163] giaokeo ?ã giao d?ch v?i nickup và nh?n ???c Item: 671. S? l??ng: 500
+[2022/11/29 06:43:37:373] nezuko ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 06:44:12:056] 1minh1kiem ?ã mua 1 item 35 v?i giá 0 xu 1000 yên 0 l??ng
+[2022/11/29 06:44:37:137] trumquat ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 06:45:27:405] nezuko ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 06:45:28:030] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:45:40:062] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:45:44:042] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:45:47:218] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:45:51:191] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:45:54:538] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:45:57:641] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:46:01:820] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:46:05:731] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:46:27:630] 1minh1kiem ?ã mua 40 item 670 v?i giá 4000000 xu 0 yên 0 l??ng
+[2022/11/29 06:46:50:725] 1hitt ?ã mua 1 item 248 v?i giá 0 xu 0 yên 5 l??ng
+[2022/11/29 06:46:52:283] 1hitt ?ã mua 1 item 248 v?i giá 0 xu 0 yên 5 l??ng
+[2022/11/29 06:46:54:526] 1hitt ?ã mua 1 item 248 v?i giá 0 xu 0 yên 5 l??ng
+[2022/11/29 06:46:55:202] 222222 ?ã mua 1 item 744 v?i giá 0 xu 0 yên 1000 l??ng
+[2022/11/29 06:46:57:855] morebube ?ã mua 10 item 242 v?i giá 0 xu 0 yên 100 l??ng
+[2022/11/29 06:47:43:437] 222222 ?ã mua 3 item 23 v?i giá 0 xu 600 yên 0 l??ng
+[2022/11/29 06:48:42:564] 333333 ?ã mua 1 item 744 v?i giá 0 xu 0 yên 1000 l??ng
+[2022/11/29 06:48:53:644] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:48:58:814] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:49:02:675] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:49:06:558] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:49:09:933] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:49:15:361] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:49:17:637] 333333 ?ã mua 3 item 23 v?i giá 0 xu 600 yên 0 l??ng
+[2022/11/29 06:49:18:720] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:49:22:502] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:49:23:844] giaokeo ?ã mua 4 item 242 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 06:49:26:453] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:49:30:508] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:49:33:637] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:49:37:046] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:49:40:585] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:49:42:236] 222222 ?ã mua 1 item 24 v?i giá 0 xu 450 yên 0 l??ng
+[2022/11/29 06:49:44:580] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:49:48:039] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:49:53:948] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:49:56:631] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:49:59:323] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:50:01:965] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:50:04:636] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:50:07:644] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:50:10:836] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:50:13:460] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:50:16:182] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:50:20:597] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:50:24:982] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:50:29:697] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:50:33:464] Shinwa: morebube ?ã mua 1 item 7 v?i giá: 50000 xu.
+[2022/11/29 06:51:09:063] 222222 ?ã mua 1 item 24 v?i giá 0 xu 450 yên 0 l??ng
+[2022/11/29 06:51:15:146] 333333 ?ã mua 1 item 24 v?i giá 0 xu 450 yên 0 l??ng
+[2022/11/29 06:51:37:328] giaokeo ?ã mua 4 item 242 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 06:51:39:415] 1chem2mang ?ã mua 1 item 26 v?i giá 0 xu 1500 yên 0 l??ng
+[2022/11/29 06:52:56:266] Shinwa: morebube ?ã mua 1 item 9 v?i giá: 100000 xu.
+[2022/11/29 06:52:59:467] Shinwa: morebube ?ã mua 1 item 9 v?i giá: 100000 xu.
+[2022/11/29 06:53:04:202] Shinwa: morebube ?ã mua 1 item 9 v?i giá: 100000 xu.
+[2022/11/29 06:53:07:390] Shinwa: morebube ?ã mua 1 item 8 v?i giá: 80000 xu.
+[2022/11/29 06:53:10:473] Shinwa: morebube ?ã mua 1 item 10 v?i giá: 200000 xu.
+[2022/11/29 06:53:13:593] Shinwa: morebube ?ã mua 1 item 9 v?i giá: 100000 xu.
+[2022/11/29 06:53:18:573] Shinwa: morebube ?ã mua 1 item 9 v?i giá: 100000 xu.
+[2022/11/29 06:53:39:764] ninzakiem ?ã giao d?ch v?i 1hitt và nh?n ???c: 1000000 xu.
+[2022/11/29 06:53:39:764] 1hitt ?ã giao d?ch v?i ninzakiem và nh?n ???c Item: 540. S? l??ng: 1
+[2022/11/29 06:53:39:764] 1hitt ?ã giao d?ch v?i ninzakiem và nh?n ???c Item: 540. S? l??ng: 1
+[2022/11/29 06:53:58:403] 1dapdi ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 06:54:00:880] Shinwa: morebube ?ã mua 1 item 10 v?i giá: 200000 xu.
+[2022/11/29 06:54:04:306] Shinwa: morebube ?ã mua 1 item 9 v?i giá: 100000 xu.
+[2022/11/29 06:54:08:459] Shinwa: morebube ?ã mua 1 item 9 v?i giá: 100000 xu.
+[2022/11/29 06:54:32:865] trumkiem ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 06:54:49:044] giaobanh ?ã giao d?ch v?i nickup và nh?n ???c Item: 671. S? l??ng: 500
+[2022/11/29 06:55:08:637] wwwwwwww ?ã mua 1 item 744 v?i giá 0 xu 0 yên 1000 l??ng
+[2022/11/29 06:55:10:524] morebube ?ã mua 5 item 284 v?i giá 0 xu 0 yên 225 l??ng
+[2022/11/29 06:55:42:763] wwwwwwww ?ã mua 3 item 23 v?i giá 0 xu 600 yên 0 l??ng
+[2022/11/29 06:55:58:701] morebube ?ã mua 1 item 284 v?i giá 0 xu 0 yên 45 l??ng
+[2022/11/29 06:56:14:763] tranggoku ?ã giao d?ch v?i vipboy và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 06:56:14:763] tranggoku ?ã giao d?ch v?i vipboy và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 06:56:14:763] tranggoku ?ã giao d?ch v?i vipboy và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 06:56:18:949] 0000000000 ?ã mua 1 item 744 v?i giá 0 xu 0 yên 1000 l??ng
+[2022/11/29 06:56:50:450] 0000000000 ?ã mua 3 item 23 v?i giá 0 xu 600 yên 0 l??ng
+[2022/11/29 06:57:33:591] djdjdjdjdj ?ã mua 1 item 744 v?i giá 0 xu 0 yên 1000 l??ng
+[2022/11/29 06:57:43:611] wwwwwwww ?ã mua 1 item 24 v?i giá 0 xu 450 yên 0 l??ng
+[2022/11/29 06:58:09:711] djdjdjdjdj ?ã mua 3 item 23 v?i giá 0 xu 600 yên 0 l??ng
+[2022/11/29 06:58:50:670] 0000000000 ?ã mua 1 item 24 v?i giá 0 xu 450 yên 0 l??ng
+[2022/11/29 06:58:52:036] zzzzzzzll ?ã mua 1 item 744 v?i giá 0 xu 0 yên 1000 l??ng
+[2022/11/29 06:59:22:182] giaobanh ?ã mua 4 item 242 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 06:59:27:762] zzzzzzzll ?ã mua 3 item 23 v?i giá 0 xu 600 yên 0 l??ng
+[2022/11/29 07:00:04:267] xxxxxxxxxx ?ã mua 1 item 744 v?i giá 0 xu 0 yên 1000 l??ng
+[2022/11/29 07:00:05:384] djdjdjdjdj ?ã mua 1 item 24 v?i giá 0 xu 450 yên 0 l??ng
+[2022/11/29 07:00:32:830] xxxxxxxxxx ?ã mua 3 item 23 v?i giá 0 xu 600 yên 0 l??ng
+[2022/11/29 07:00:44:170] traitimvun ?ã mua 1 item 248 v?i giá 0 xu 0 yên 5 l??ng
+[2022/11/29 07:01:13:895] trumquat ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 07:01:26:848] zzzzzzzll ?ã mua 1 item 24 v?i giá 0 xu 450 yên 0 l??ng
+[2022/11/29 07:01:41:548] wwwwlwwww ?ã mua 1 item 744 v?i giá 0 xu 0 yên 1000 l??ng
+[2022/11/29 07:01:45:103] nezuko ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 07:02:11:376] wwwwlwwww ?ã mua 3 item 23 v?i giá 0 xu 600 yên 0 l??ng
+[2022/11/29 07:02:26:118] xxxxxxxxxx ?ã mua 1 item 24 v?i giá 0 xu 450 yên 0 l??ng
+[2022/11/29 07:02:42:048] Shinwa: vipvcl ?ã mua 1 item 284 v?i giá: 1000000 xu.
+[2022/11/29 07:03:07:940] vipvcl ?ã mua 2 item 284 v?i giá 0 xu 0 yên 90 l??ng
+[2022/11/29 07:03:27:617] trumkunai ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 07:03:39:905] zzzzzzzzzz ?ã mua 1 item 744 v?i giá 0 xu 0 yên 1000 l??ng
+[2022/11/29 07:04:09:639] zzzzzzzzzz ?ã mua 3 item 23 v?i giá 0 xu 600 yên 0 l??ng
+[2022/11/29 07:04:16:438] wwwwlwwww ?ã mua 1 item 24 v?i giá 0 xu 450 yên 0 l??ng
+[2022/11/29 07:04:37:888] nezuko ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 07:04:39:408] nezuko ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 07:04:42:247] 1minh1kiem ?ã mua 1 item 673 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 07:06:05:150] zzzzzzzzzz ?ã mua 1 item 24 v?i giá 0 xu 450 yên 0 l??ng
+[2022/11/29 07:06:36:000] hihihehee ?ã mua 1 item 410 v?i giá 0 xu 0 yên 15 l??ng
+[2022/11/29 07:07:04:265] hihiheheee ?ã mua 20000 item 17 v?i giá 0 xu 70000000 yên 0 l??ng
+[2022/11/29 07:07:06:749] hihiheheee ?ã mua 20000 item 22 v?i giá 0 xu 70000000 yên 0 l??ng
+[2022/11/29 07:07:13:779] hihiheheee ?ã mua 1 item 410 v?i giá 0 xu 0 yên 15 l??ng
+[2022/11/29 07:07:28:056] hihiheeee ?ã mua 1 item 410 v?i giá 0 xu 0 yên 15 l??ng
+[2022/11/29 07:07:43:065] hiihihehee ?ã mua 1 item 410 v?i giá 0 xu 0 yên 15 l??ng
+[2022/11/29 07:07:46:741] Shinwa: gameking ?ã ??ng bán 466 item 667 v?i giá: 5000 xu.
+[2022/11/29 07:07:58:575] Shinwa: gameking ?ã ??ng bán 477 item 666 v?i giá: 5000 xu.
+[2022/11/29 07:08:07:738] Shinwa: gameking ?ã ??ng bán 435 item 668 v?i giá: 5000 xu.
+[2022/11/29 07:08:25:464] Shinwa: narutosz ?ã mua 466 item 667 v?i giá: 5000 xu.
+[2022/11/29 07:08:31:018] Shinwa: nezuko ?ã mua 1 item 182 v?i giá: 1 xu.
+[2022/11/29 07:08:37:826] Shinwa: narutosz ?ã mua 477 item 666 v?i giá: 5000 xu.
+[2022/11/29 07:08:43:615] vixautrai ?ã mua 1 item 410 v?i giá 0 xu 0 yên 15 l??ng
+[2022/11/29 07:08:50:689] Shinwa: narutosz ?ã mua 435 item 668 v?i giá: 5000 xu.
+[2022/11/29 07:09:27:596] narutosz ?ã mua 35 item 669 v?i giá 0 xu 0 yên 1400 l??ng
+[2022/11/29 07:09:37:068] Shinwa: ninzakiem ?ã ??ng bán 1 item 622 v?i giá: 200000 xu.
+[2022/11/29 07:10:30:597] inboxmenew ?ã mua 19999 item 20 v?i giá 0 xu 9999500 yên 0 l??ng
+[2022/11/29 07:10:32:366] inboxmenew ?ã mua 19999 item 20 v?i giá 0 xu 9999500 yên 0 l??ng
+[2022/11/29 07:14:35:293] Shinwa: pronew ?ã ??ng bán 500 item 666 v?i giá: 10000 xu.
+[2022/11/29 07:14:49:459] Shinwa: pronew ?ã ??ng bán 470 item 668 v?i giá: 10000 xu.
+[2022/11/29 07:14:59:247] Shinwa: pronew ?ã ??ng bán 485 item 667 v?i giá: 10000 xu.
+[2022/11/29 07:15:13:638] Shinwa: narutosz ?ã mua 500 item 666 v?i giá: 10000 xu.
+[2022/11/29 07:15:26:038] Shinwa: narutosz ?ã mua 470 item 668 v?i giá: 10000 xu.
+[2022/11/29 07:15:38:845] Shinwa: narutosz ?ã mua 485 item 667 v?i giá: 10000 xu.
+[2022/11/29 07:15:48:662] Shinwa: ninzakiem ?ã ??ng bán 1 item 622 v?i giá: 150000 xu.
+[2022/11/29 07:17:18:598] djtuoigi ?ã giao d?ch v?i hieuxeu và nh?n ???c: 600000 xu.
+[2022/11/29 07:19:45:183] nezuko ?ã giao d?ch v?i akashuki và nh?n ???c Item: 404. S? l??ng: 1
+[2022/11/29 07:19:45:183] nezuko ?ã giao d?ch v?i akashuki và nh?n ???c Item: 404. S? l??ng: 1
+[2022/11/29 07:19:45:183] nezuko ?ã giao d?ch v?i akashuki và nh?n ???c Item: 407. S? l??ng: 1
+[2022/11/29 07:20:40:243] akashuki ?ã mua 20 item 340 v?i giá 0 xu 0 yên 100 l??ng
+[2022/11/29 07:21:21:432] lailai ?ã mua 5000 item 20 v?i giá 0 xu 2500000 yên 0 l??ng
+[2022/11/29 07:21:34:859] lailai ?ã mua 5000 item 15 v?i giá 0 xu 2500000 yên 0 l??ng
+[2022/11/29 07:22:01:632] 1chem2mang ?ã mua 1 item 26 v?i giá 0 xu 1500 yên 0 l??ng
+[2022/11/29 07:25:11:977] kakarot ?ã mua 1 item 744 v?i giá 0 xu 0 yên 1000 l??ng
+[2022/11/29 07:25:40:541] wwwwwwww ?ã mua 1 item 23 v?i giá 0 xu 200 yên 0 l??ng
+[2022/11/29 07:26:00:564] 333333 ?ã mua 2 item 23 v?i giá 0 xu 400 yên 0 l??ng
+[2022/11/29 07:26:17:529] 222222 ?ã mua 2 item 23 v?i giá 0 xu 400 yên 0 l??ng
+[2022/11/29 07:26:31:573] 1hitt ?ã mua 2 item 29 v?i giá 0 xu 10000 yên 0 l??ng
+[2022/11/29 07:27:29:995] Shinwa: chiatay0s ?ã ??ng bán 1 item 637 v?i giá: 5000 xu.
+[2022/11/29 07:28:15:914] Shinwa: chiatay0s ?ã ??ng bán 1 item 637 v?i giá: 5000 xu.
+[2022/11/29 07:28:21:928] Shinwa: chiatay0s ?ã ??ng bán 1 item 637 v?i giá: 5000 xu.
+[2022/11/29 07:28:23:998] Shinwa: chiatay0s ?ã ??ng bán 1 item 637 v?i giá: 5000 xu.
+[2022/11/29 07:29:07:561] trumkiem ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 07:29:11:578] trumquat ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 07:29:15:730] 1dapdi ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 07:29:47:323] bluez ?ã mua 1 item 23 v?i giá 0 xu 200 yên 0 l??ng
+[2022/11/29 07:30:42:463] koplokk ?ã mua 20 item 340 v?i giá 0 xu 0 yên 100 l??ng
+[2022/11/29 07:30:44:931] kakarot ?ã mua 1 item 23 v?i giá 0 xu 200 yên 0 l??ng
+[2022/11/29 07:30:53:435] koplokk ?ã mua 20 item 340 v?i giá 0 xu 0 yên 100 l??ng
+[2022/11/29 07:32:33:187] nhanxu ?ã mua 20 item 248 v?i giá 0 xu 0 yên 100 l??ng
+[2022/11/29 07:33:03:958] nezuko ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 07:33:58:401] giaoqua ?ã mua 1 item 27 v?i giá 0 xu 2500 yên 0 l??ng
+[2022/11/29 07:34:36:431] giaoxe ?ã mua 1 item 30 v?i giá 0 xu 0 yên 15 l??ng
+[2022/11/29 07:34:39:845] kakarot ?ã mua 1 item 23 v?i giá 0 xu 200 yên 0 l??ng
+[2022/11/29 07:34:39:861] giaoxe ?ã mua 18 item 248 v?i giá 0 xu 0 yên 90 l??ng
+[2022/11/29 07:36:09:477] giaoqua ?ã mua 18 item 248 v?i giá 0 xu 0 yên 90 l??ng
+[2022/11/29 07:36:48:209] giaoqua ?ã mua 32222 item 21 v?i giá 0 xu 32222000 yên 0 l??ng
+[2022/11/29 07:36:50:143] giaoqua ?ã mua 3 item 21 v?i giá 0 xu 3000 yên 0 l??ng
+[2022/11/29 07:36:54:257] giaoqua ?ã mua 32222 item 21 v?i giá 0 xu 32222000 yên 0 l??ng
+[2022/11/29 07:37:08:544] trumkunai ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 07:37:27:802] bluez ?ã mua 1 item 744 v?i giá 0 xu 0 yên 1000 l??ng
+[2022/11/29 07:37:57:149] giaokeo ?ã mua 18 item 248 v?i giá 0 xu 0 yên 90 l??ng
+[2022/11/29 07:38:31:182] giaokeo ?ã mua 32222 item 21 v?i giá 0 xu 32222000 yên 0 l??ng
+[2022/11/29 07:38:32:664] giaokeo ?ã mua 3 item 21 v?i giá 0 xu 3000 yên 0 l??ng
+[2022/11/29 07:38:37:000] giaokeo ?ã mua 3 item 21 v?i giá 0 xu 3000 yên 0 l??ng
+[2022/11/29 07:38:42:275] giaokeo ?ã mua 32222 item 21 v?i giá 0 xu 32222000 yên 0 l??ng
+[2022/11/29 07:39:31:627] wwwwwwww ?ã mua 1 item 23 v?i giá 0 xu 200 yên 0 l??ng
+[2022/11/29 07:39:40:718] giaobanh ?ã mua 18 item 248 v?i giá 0 xu 0 yên 90 l??ng
+[2022/11/29 07:43:54:887] wwwwwwww ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 07:43:56:174] wwwwwwww ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 07:43:57:524] wwwwwwww ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 07:43:59:124] wwwwwwww ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 07:44:01:106] wwwwwwww ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 07:44:27:776] wwwwwwww ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 07:44:53:780] wwwwwwww ?ã mua 1 item 49 v?i giá 1000 xu 0 yên 0 l??ng
+[2022/11/29 07:45:00:582] wwwwwwww ?ã mua 1 item 53 v?i giá 1000 xu 0 yên 0 l??ng
+[2022/11/29 07:45:27:625] wwwwwwww ?ã mua 1 item 50 v?i giá 1000 xu 0 yên 0 l??ng
+[2022/11/29 07:46:38:884] wwwwwwww ?ã mua 1 item 250 v?i giá 0 xu 0 yên 10 l??ng
+[2022/11/29 07:46:49:620] wwwwwwww ?ã mua 1 item 250 v?i giá 0 xu 0 yên 10 l??ng
+[2022/11/29 07:47:11:494] wwwwwwww ?ã mua 18888 item 20 v?i giá 0 xu 9444000 yên 0 l??ng
+[2022/11/29 07:47:34:873] wechat ?ã mua 1 item 744 v?i giá 0 xu 0 yên 1000 l??ng
+[2022/11/29 07:48:10:672] wechat ?ã mua 1 item 490 v?i giá 0 xu 0 yên 50 l??ng
+[2022/11/29 07:48:12:292] wechat ?ã mua 1 item 490 v?i giá 0 xu 0 yên 50 l??ng
+[2022/11/29 07:48:25:300] muiok2280 ?ã mua 1 item 744 v?i giá 0 xu 0 yên 1000 l??ng
+[2022/11/29 07:48:27:895] wwwwwwww ?ã giao d?ch v?i 3ijsjj và nh?n ???c Item: 407. S? l??ng: 1
+[2022/11/29 07:48:27:895] wwwwwwww ?ã giao d?ch v?i 3ijsjj và nh?n ???c Item: 403. S? l??ng: 1
+[2022/11/29 07:48:27:895] wwwwwwww ?ã giao d?ch v?i 3ijsjj và nh?n ???c Item: 523. S? l??ng: 1
+[2022/11/29 07:50:30:093] Shinwa: narutosz ?ã ??ng bán 704 item 666 v?i giá: 10000 xu.
+[2022/11/29 07:50:43:984] Shinwa: bluez ?ã mua 704 item 666 v?i giá: 10000 xu.
+[2022/11/29 07:50:57:873] Shinwa: narutosz ?ã ??ng bán 567 item 668 v?i giá: 10000 xu.
+[2022/11/29 07:51:01:469] 333333 ?ã mua 1 item 53 v?i giá 1000 xu 0 yên 0 l??ng
+[2022/11/29 07:51:04:131] 333333 ?ã mua 1 item 50 v?i giá 1000 xu 0 yên 0 l??ng
+[2022/11/29 07:51:08:809] 333333 ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 07:51:09:988] 333333 ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 07:51:10:382] Shinwa: bluez ?ã mua 567 item 668 v?i giá: 10000 xu.
+[2022/11/29 07:51:11:798] 333333 ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 07:51:13:197] 333333 ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 07:51:16:364] 333333 ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 07:51:21:072] Shinwa: narutosz ?ã ??ng bán 639 item 667 v?i giá: 10000 xu.
+[2022/11/29 07:51:33:110] Shinwa: bluez ?ã mua 639 item 667 v?i giá: 10000 xu.
+[2022/11/29 07:51:37:441] 333333 ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 07:51:39:023] 333333 ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 07:51:59:916] 1chem2mang ?ã mua 1 item 26 v?i giá 0 xu 1500 yên 0 l??ng
+[2022/11/29 07:52:05:144] 333333 ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 07:52:06:403] 333333 ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 07:52:15:362] 333333 ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 07:52:31:064] bluez ?ã mua 37 item 669 v?i giá 0 xu 0 yên 1480 l??ng
+[2022/11/29 07:53:09:710] wechat ?ã giao d?ch v?i xlxxbo và nh?n ???c: 100000 xu.
+[2022/11/29 07:53:09:710] wechat ?ã giao d?ch v?i xlxxbo và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 07:53:09:710] wechat ?ã giao d?ch v?i xlxxbo và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 07:53:09:710] wechat ?ã giao d?ch v?i xlxxbo và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 07:53:09:710] wechat ?ã giao d?ch v?i xlxxbo và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 07:53:09:710] wechat ?ã giao d?ch v?i xlxxbo và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 07:53:09:710] wechat ?ã giao d?ch v?i xlxxbo và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 07:53:09:710] wechat ?ã giao d?ch v?i xlxxbo và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 07:53:09:710] wechat ?ã giao d?ch v?i xlxxbo và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 07:53:09:710] wechat ?ã giao d?ch v?i xlxxbo và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 07:53:09:710] wechat ?ã giao d?ch v?i xlxxbo và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 07:53:09:710] wechat ?ã giao d?ch v?i xlxxbo và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 07:53:09:710] wechat ?ã giao d?ch v?i xlxxbo và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 07:53:26:518] Shinwa: 1dapdi1 ?ã mua 1 item 524 v?i giá: 200000 xu.
+[2022/11/29 07:53:27:051] 333333 ?ã mua 18888 item 20 v?i giá 0 xu 9444000 yên 0 l??ng
+[2022/11/29 07:53:37:743] 333333 ?ã mua 1 item 250 v?i giá 0 xu 0 yên 10 l??ng
+[2022/11/29 07:53:39:128] 333333 ?ã mua 1 item 250 v?i giá 0 xu 0 yên 10 l??ng
+[2022/11/29 07:53:39:662] wechat ?ã giao d?ch v?i xlxxbo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 07:53:39:662] wechat ?ã giao d?ch v?i xlxxbo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 07:53:39:662] wechat ?ã giao d?ch v?i xlxxbo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 07:53:39:677] wechat ?ã giao d?ch v?i xlxxbo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 07:53:39:677] wechat ?ã giao d?ch v?i xlxxbo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 07:53:39:677] wechat ?ã giao d?ch v?i xlxxbo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 07:53:39:677] wechat ?ã giao d?ch v?i xlxxbo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 07:53:39:677] wechat ?ã giao d?ch v?i xlxxbo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 07:53:39:677] wechat ?ã giao d?ch v?i xlxxbo và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 07:53:39:677] wechat ?ã giao d?ch v?i xlxxbo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 07:53:39:677] wechat ?ã giao d?ch v?i xlxxbo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 07:53:39:677] wechat ?ã giao d?ch v?i xlxxbo và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 07:54:00:760] wechat ?ã giao d?ch v?i xlxxbo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 07:54:00:760] wechat ?ã giao d?ch v?i xlxxbo và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 07:54:05:311] 333333 ?ã giao d?ch v?i 3ijsjj và nh?n ???c Item: 523. S? l??ng: 1
+[2022/11/29 07:54:05:311] 333333 ?ã giao d?ch v?i 3ijsjj và nh?n ???c Item: 404. S? l??ng: 1
+[2022/11/29 07:54:06:648] trumkiem ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 07:54:47:827] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 07:54:47:827] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 07:54:47:827] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 07:54:47:842] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 07:54:47:842] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 07:54:47:842] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 07:54:47:842] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 07:54:47:842] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 07:54:47:842] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 07:54:47:842] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 07:54:47:842] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 07:54:48:942] 1dapdi ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 07:55:16:964] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 07:55:16:964] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 07:55:16:964] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 07:55:16:964] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 07:55:16:964] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 07:55:16:964] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 07:55:16:964] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 07:55:16:964] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 07:55:16:964] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 07:55:16:980] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 07:55:16:980] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 07:55:16:980] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 07:55:50:962] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 07:55:50:962] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 07:55:50:962] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 07:55:50:962] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 07:55:50:962] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 07:55:50:962] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 07:55:50:962] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 07:55:50:962] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 07:55:50:962] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 07:55:50:962] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 07:55:50:962] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 07:55:50:962] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 07:56:07:840] wechat ?ã giao d?ch v?i xlxxboo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 07:57:02:826] 222222 ?ã mua 1 item 50 v?i giá 1000 xu 0 yên 0 l??ng
+[2022/11/29 07:57:05:438] 222222 ?ã mua 1 item 53 v?i giá 1000 xu 0 yên 0 l??ng
+[2022/11/29 07:57:09:871] 222222 ?ã mua 1 item 250 v?i giá 0 xu 0 yên 10 l??ng
+[2022/11/29 07:57:11:192] 222222 ?ã mua 1 item 250 v?i giá 0 xu 0 yên 10 l??ng
+[2022/11/29 07:57:15:638] 222222 ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 07:57:16:912] 222222 ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 07:57:18:264] 222222 ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 07:57:19:554] 222222 ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 07:57:20:875] 222222 ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 07:57:54:818] wechat ?ã mua 1 item 191 v?i giá 16000 xu 0 yên 0 l??ng
+[2022/11/29 07:58:23:676] Shinwa: 1dapdi1 ?ã ??ng bán 1 item 554 v?i giá: 200000 xu.
+[2022/11/29 07:58:32:350] 222222 ?ã mua 18888 item 20 v?i giá 0 xu 9444000 yên 0 l??ng
+[2022/11/29 07:58:34:533] Shinwa: 1dapdi1 ?ã ??ng bán 1 item 552 v?i giá: 200000 xu.
+[2022/11/29 07:58:43:188] Shinwa: 1dapdi1 ?ã ??ng bán 1 item 554 v?i giá: 200000 xu.
+[2022/11/29 07:58:57:056] Shinwa: 1dapdi1 ?ã ??ng bán 1 item 375 v?i giá: 200000 xu.
+[2022/11/29 07:59:07:556] 222222 ?ã giao d?ch v?i 3ijsjj và nh?n ???c Item: 523. S? l??ng: 1
+[2022/11/29 07:59:07:556] 222222 ?ã giao d?ch v?i 3ijsjj và nh?n ???c Item: 403. S? l??ng: 1
+[2022/11/29 07:59:07:572] Shinwa: 1dapdi1 ?ã ??ng bán 1 item 379 v?i giá: 200000 xu.
+[2022/11/29 08:00:16:422] Shinwa: bluez ?ã ??ng bán 37 item 671 v?i giá: 10000 xu.
+[2022/11/29 08:00:46:727] Shinwa: kakarot ?ã mua 37 item 671 v?i giá: 10000 xu.
+[2022/11/29 08:01:01:947] 0000000000 ?ã giao d?ch v?i 3ijsjj và nh?n ???c Item: 404. S? l??ng: 1
+[2022/11/29 08:01:01:947] 0000000000 ?ã giao d?ch v?i 3ijsjj và nh?n ???c Item: 523. S? l??ng: 1
+[2022/11/29 08:01:32:708] 0000000000 ?ã mua 1 item 50 v?i giá 1000 xu 0 yên 0 l??ng
+[2022/11/29 08:01:34:107] 0000000000 ?ã mua 1 item 53 v?i giá 1000 xu 0 yên 0 l??ng
+[2022/11/29 08:01:50:474] 1hitt ?ã giao d?ch v?i 1dapdi1 và nh?n ???c Item: 632. S? l??ng: 1
+[2022/11/29 08:02:10:070] 0000000000 ?ã mua 1 item 250 v?i giá 0 xu 0 yên 10 l??ng
+[2022/11/29 08:02:11:388] 0000000000 ?ã mua 1 item 250 v?i giá 0 xu 0 yên 10 l??ng
+[2022/11/29 08:02:19:068] 0000000000 ?ã mua 5 item 669 v?i giá 0 xu 0 yên 200 l??ng
+[2022/11/29 08:02:40:193] 0000000000 ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 08:02:43:710] trumkunai ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 08:02:56:803] trumquat ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 08:03:57:954] bebionline ?ã mua 1 item 490 v?i giá 0 xu 0 yên 50 l??ng
+[2022/11/29 08:04:04:294] 0000000000 ?ã mua 18888 item 20 v?i giá 0 xu 9444000 yên 0 l??ng
+[2022/11/29 08:04:34:482] Shinwa: 1dapdi1 ?ã ??ng bán 1 item 10 v?i giá: 200000 xu.
+[2022/11/29 08:04:48:402] Shinwa: 1dapdi1 ?ã ??ng bán 1 item 10 v?i giá: 200000 xu.
+[2022/11/29 08:05:01:981] Shinwa: 1dapdi1 ?ã ??ng bán 1 item 10 v?i giá: 200000 xu.
+[2022/11/29 08:05:12:100] Shinwa: 1dapdi1 ?ã ??ng bán 1 item 10 v?i giá: 200000 xu.
+[2022/11/29 08:05:18:634] djdjdjdjdj ?ã giao d?ch v?i 3ijsjj và nh?n ???c Item: 403. S? l??ng: 1
+[2022/11/29 08:05:18:634] djdjdjdjdj ?ã giao d?ch v?i 3ijsjj và nh?n ???c Item: 523. S? l??ng: 1
+[2022/11/29 08:05:21:674] Shinwa: 1dapdi1 ?ã ??ng bán 1 item 11 v?i giá: 200000 xu.
+[2022/11/29 08:05:31:090] Shinwa: 1dapdi1 ?ã ??ng bán 1 item 11 v?i giá: 200000 xu.
+[2022/11/29 08:05:40:447] Shinwa: 1dapdi1 ?ã ??ng bán 1 item 11 v?i giá: 200000 xu.
+[2022/11/29 08:05:50:656] Shinwa: 1dapdi1 ?ã ??ng bán 1 item 11 v?i giá: 200000 xu.
+[2022/11/29 08:05:55:024] djdjdjdjdj ?ã mua 1 item 50 v?i giá 1000 xu 0 yên 0 l??ng
+[2022/11/29 08:05:56:340] djdjdjdjdj ?ã mua 1 item 53 v?i giá 1000 xu 0 yên 0 l??ng
+[2022/11/29 08:05:59:260] djdjdjdjdj ?ã mua 1 item 250 v?i giá 0 xu 0 yên 10 l??ng
+[2022/11/29 08:06:00:428] Shinwa: 1dapdi1 ?ã ??ng bán 1 item 9 v?i giá: 100000 xu.
+[2022/11/29 08:06:00:537] djdjdjdjdj ?ã mua 1 item 250 v?i giá 0 xu 0 yên 10 l??ng
+[2022/11/29 08:06:06:300] djdjdjdjdj ?ã mua 5 item 669 v?i giá 0 xu 0 yên 200 l??ng
+[2022/11/29 08:06:29:302] djdjdjdjdj ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 08:06:30:555] djdjdjdjdj ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 08:06:31:985] djdjdjdjdj ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 08:06:48:879] djdjdjdjdj ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 08:06:49:994] djdjdjdjdj ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 08:07:53:219] djdjdjdjdj ?ã mua 18888 item 20 v?i giá 0 xu 9444000 yên 0 l??ng
+[2022/11/29 08:09:45:963] zzzzzzzll ?ã giao d?ch v?i 3ijsjj và nh?n ???c Item: 404. S? l??ng: 1
+[2022/11/29 08:09:45:963] zzzzzzzll ?ã giao d?ch v?i 3ijsjj và nh?n ???c Item: 523. S? l??ng: 1
+[2022/11/29 08:10:01:700] zzzzzzzll ?ã mua 1 item 50 v?i giá 1000 xu 0 yên 0 l??ng
+[2022/11/29 08:10:02:313] Shinwa: 1buff29 ?ã ??ng bán 1 item 11 v?i giá: 200000 xu.
+[2022/11/29 08:10:02:313] Shinwa: 1buff29 ?ã ??ng bán 1 item 10 v?i giá: 200000 xu.
+[2022/11/29 08:10:02:313] Shinwa: 1buff29 ?ã ??ng bán 1 item 9 v?i giá: 100000 xu.
+[2022/11/29 08:10:02:313] Shinwa: 1buff29 ?ã ??ng bán 1 item 8 v?i giá: 80000 xu.
+[2022/11/29 08:10:02:313] Shinwa: 1buff29 ?ã ??ng bán 1 item 7 v?i giá: 55000 xu.
+[2022/11/29 08:10:03:347] zzzzzzzll ?ã mua 1 item 53 v?i giá 1000 xu 0 yên 0 l??ng
+[2022/11/29 08:10:04:354] Shinwa: 1buff29 ?ã ??ng bán 1 item 11 v?i giá: 200000 xu.
+[2022/11/29 08:10:04:354] Shinwa: 1buff29 ?ã ??ng bán 1 item 10 v?i giá: 200000 xu.
+[2022/11/29 08:10:04:354] Shinwa: 1buff29 ?ã ??ng bán 1 item 9 v?i giá: 100000 xu.
+[2022/11/29 08:10:04:354] Shinwa: 1buff29 ?ã ??ng bán 1 item 7 v?i giá: 55000 xu.
+[2022/11/29 08:10:05:937] zzzzzzzll ?ã mua 1 item 250 v?i giá 0 xu 0 yên 10 l??ng
+[2022/11/29 08:10:06:409] Shinwa: 1buff29 ?ã ??ng bán 1 item 11 v?i giá: 200000 xu.
+[2022/11/29 08:10:06:409] Shinwa: 1buff29 ?ã ??ng bán 1 item 10 v?i giá: 200000 xu.
+[2022/11/29 08:10:06:409] Shinwa: 1buff29 ?ã ??ng bán 1 item 9 v?i giá: 100000 xu.
+[2022/11/29 08:10:06:409] Shinwa: 1buff29 ?ã ??ng bán 1 item 7 v?i giá: 55000 xu.
+[2022/11/29 08:10:07:196] zzzzzzzll ?ã mua 1 item 250 v?i giá 0 xu 0 yên 10 l??ng
+[2022/11/29 08:10:08:360] Shinwa: 1buff29 ?ã ??ng bán 1 item 10 v?i giá: 200000 xu.
+[2022/11/29 08:10:08:360] Shinwa: 1buff29 ?ã ??ng bán 1 item 7 v?i giá: 55000 xu.
+[2022/11/29 08:10:10:414] Shinwa: 1buff29 ?ã ??ng bán 1 item 7 v?i giá: 55000 xu.
+[2022/11/29 08:10:12:363] Shinwa: 1buff29 ?ã ??ng bán 1 item 7 v?i giá: 55000 xu.
+[2022/11/29 08:10:14:390] Shinwa: 1buff29 ?ã ??ng bán 1 item 7 v?i giá: 55000 xu.
+[2022/11/29 08:10:15:988] zzzzzzzll ?ã mua 6 item 669 v?i giá 0 xu 0 yên 240 l??ng
+[2022/11/29 08:10:16:397] Shinwa: 1buff29 ?ã ??ng bán 1 item 7 v?i giá: 55000 xu.
+[2022/11/29 08:10:18:422] Shinwa: 1buff29 ?ã ??ng bán 1 item 7 v?i giá: 55000 xu.
+[2022/11/29 08:10:20:417] Shinwa: 1buff29 ?ã ??ng bán 1 item 7 v?i giá: 55000 xu.
+[2022/11/29 08:10:22:400] Shinwa: 1buff29 ?ã ??ng bán 1 item 7 v?i giá: 55000 xu.
+[2022/11/29 08:10:24:487] Shinwa: 1buff29 ?ã ??ng bán 1 item 7 v?i giá: 55000 xu.
+[2022/11/29 08:10:26:422] Shinwa: 1buff29 ?ã ??ng bán 1 item 7 v?i giá: 55000 xu.
+[2022/11/29 08:10:40:530] wwwwlwwww ?ã mua 1 item 23 v?i giá 0 xu 200 yên 0 l??ng
+[2022/11/29 08:10:40:624] zzzzzzzll ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 08:10:40:735] wechat ?ã mua 2 item 475 v?i giá 0 xu 0 yên 700 l??ng
+[2022/11/29 08:11:22:285] admin ?ã mua 1 item 490 v?i giá 0 xu 0 yên 50 l??ng
+[2022/11/29 08:11:25:204] zzzzzzzll ?ã mua 18888 item 20 v?i giá 0 xu 9444000 yên 0 l??ng
+[2022/11/29 08:13:35:741] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 284. S? l??ng: 1
+[2022/11/29 08:13:35:741] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 284. S? l??ng: 1
+[2022/11/29 08:13:35:741] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 08:13:35:741] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 08:13:35:741] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 08:13:35:741] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 08:13:35:741] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 08:13:35:741] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 08:13:35:757] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 08:13:35:757] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 08:13:35:757] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 08:13:35:757] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 08:13:50:028] noname ?ã mua 1 item 613 v?i giá 0 xu 0 yên 45 l??ng
+[2022/11/29 08:14:01:232] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 08:14:01:232] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 08:14:01:232] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 08:14:01:232] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 08:14:01:232] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 08:14:01:232] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 08:14:01:232] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 08:14:01:232] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 08:14:01:232] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 08:14:01:232] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 08:14:01:232] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 08:14:01:232] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 08:14:10:701] xxxxxxxxxx ?ã giao d?ch v?i 3ijsjj và nh?n ???c Item: 404. S? l??ng: 1
+[2022/11/29 08:14:21:947] xxxxxxxxxx ?ã mua 1 item 50 v?i giá 1000 xu 0 yên 0 l??ng
+[2022/11/29 08:14:23:396] xxxxxxxxxx ?ã mua 1 item 53 v?i giá 1000 xu 0 yên 0 l??ng
+[2022/11/29 08:14:26:687] xxxxxxxxxx ?ã mua 1 item 250 v?i giá 0 xu 0 yên 10 l??ng
+[2022/11/29 08:14:27:909] xxxxxxxxxx ?ã mua 1 item 250 v?i giá 0 xu 0 yên 10 l??ng
+[2022/11/29 08:14:28:778] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 08:14:28:779] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 08:14:28:779] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 08:14:28:779] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 08:14:28:779] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 08:14:28:779] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 08:14:28:779] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 08:14:28:780] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 08:14:28:780] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 08:14:28:780] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 08:14:28:780] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 08:14:34:115] xxxxxxxxxx ?ã mua 5 item 669 v?i giá 0 xu 0 yên 200 l??ng
+[2022/11/29 08:14:36:319] xxxxxxxxxx ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 08:14:37:995] zzzzzzzll ?ã mua 1 item 23 v?i giá 0 xu 200 yên 0 l??ng
+[2022/11/29 08:14:49:886] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 08:14:49:886] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 08:14:49:887] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 08:14:49:887] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 08:14:49:887] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 08:14:49:887] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 08:14:49:887] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 08:14:49:888] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 6. S? l??ng: 1
+[2022/11/29 08:14:49:888] wechat ?ã giao d?ch v?i xlxxboooo và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 08:15:42:086] xxxxxxxxxx ?ã mua 18888 item 20 v?i giá 0 xu 9444000 yên 0 l??ng
+[2022/11/29 08:16:46:887] zzzzzzzzzz ?ã mua 1 item 23 v?i giá 0 xu 200 yên 0 l??ng
+[2022/11/29 08:17:27:033] wwwwlwwww ?ã giao d?ch v?i 3ijsjj và nh?n ???c Item: 403. S? l??ng: 1
+[2022/11/29 08:17:36:748] wwwwlwwww ?ã mua 1 item 50 v?i giá 1000 xu 0 yên 0 l??ng
+[2022/11/29 08:17:38:180] wwwwlwwww ?ã mua 1 item 52 v?i giá 1000 xu 0 yên 0 l??ng
+[2022/11/29 08:17:40:666] wwwwlwwww ?ã mua 1 item 53 v?i giá 1000 xu 0 yên 0 l??ng
+[2022/11/29 08:17:43:880] wwwwlwwww ?ã mua 1 item 250 v?i giá 0 xu 0 yên 10 l??ng
+[2022/11/29 08:17:51:187] wwwwlwwww ?ã mua 1 item 250 v?i giá 0 xu 0 yên 10 l??ng
+[2022/11/29 08:17:57:018] wwwwlwwww ?ã mua 7 item 669 v?i giá 0 xu 0 yên 280 l??ng
+[2022/11/29 08:18:36:814] wechat ?ã mua 3 item 242 v?i giá 0 xu 0 yên 30 l??ng
+[2022/11/29 08:18:38:954] wechat ?ã mua 1 item 242 v?i giá 0 xu 0 yên 10 l??ng
+[2022/11/29 08:18:40:534] wechat ?ã mua 1 item 242 v?i giá 0 xu 0 yên 10 l??ng
+[2022/11/29 08:18:43:750] wechat ?ã mua 3 item 284 v?i giá 0 xu 0 yên 135 l??ng
+[2022/11/29 08:19:26:789] gacon204 ?ã mua 2 item 25 v?i giá 0 xu 1600 yên 0 l??ng
+[2022/11/29 08:19:38:994] wwwwlwwww ?ã mua 18888 item 20 v?i giá 0 xu 9444000 yên 0 l??ng
+[2022/11/29 08:21:40:979] 1chem2mang ?ã mua 1 item 26 v?i giá 0 xu 1500 yên 0 l??ng
+[2022/11/29 08:21:41:140] zzzzzzzzzz ?ã mua 1 item 50 v?i giá 1000 xu 0 yên 0 l??ng
+[2022/11/29 08:21:42:504] zzzzzzzzzz ?ã mua 1 item 53 v?i giá 1000 xu 0 yên 0 l??ng
+[2022/11/29 08:21:42:587] wechat ?ã giao d?ch v?i koplok và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 08:21:42:588] wechat ?ã giao d?ch v?i koplok và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 08:21:42:588] wechat ?ã giao d?ch v?i koplok và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 08:21:42:588] wechat ?ã giao d?ch v?i koplok và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 08:21:42:589] wechat ?ã giao d?ch v?i koplok và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 08:21:42:589] wechat ?ã giao d?ch v?i koplok và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 08:21:42:589] wechat ?ã giao d?ch v?i koplok và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 08:21:42:590] wechat ?ã giao d?ch v?i koplok và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 08:21:42:590] wechat ?ã giao d?ch v?i koplok và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 08:21:42:590] wechat ?ã giao d?ch v?i koplok và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 08:21:42:591] wechat ?ã giao d?ch v?i koplok và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 08:21:42:591] wechat ?ã giao d?ch v?i koplok và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 08:21:44:985] zzzzzzzzzz ?ã mua 1 item 250 v?i giá 0 xu 0 yên 10 l??ng
+[2022/11/29 08:21:46:121] zzzzzzzzzz ?ã mua 1 item 250 v?i giá 0 xu 0 yên 10 l??ng
+[2022/11/29 08:21:47:336] zzzzzzzzzz ?ã mua 1 item 250 v?i giá 0 xu 0 yên 10 l??ng
+[2022/11/29 08:21:53:137] zzzzzzzzzz ?ã mua 5 item 669 v?i giá 0 xu 0 yên 200 l??ng
+[2022/11/29 08:22:08:699] wechat ?ã giao d?ch v?i koplok và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 08:22:08:699] wechat ?ã giao d?ch v?i koplok và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 08:22:08:699] wechat ?ã giao d?ch v?i koplok và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 08:22:08:699] wechat ?ã giao d?ch v?i koplok và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 08:22:08:699] wechat ?ã giao d?ch v?i koplok và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 08:22:08:700] wechat ?ã giao d?ch v?i koplok và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 08:22:08:700] wechat ?ã giao d?ch v?i koplok và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 08:22:08:700] wechat ?ã giao d?ch v?i koplok và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 08:22:08:700] wechat ?ã giao d?ch v?i koplok và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 08:22:08:700] wechat ?ã giao d?ch v?i koplok và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 08:22:08:700] wechat ?ã giao d?ch v?i koplok và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 08:22:08:701] wechat ?ã giao d?ch v?i koplok và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 08:22:08:886] hieuxeu ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:22:08:886] hieuxeu ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 576. S? l??ng: 5
+[2022/11/29 08:22:08:887] hieuxeu ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 577. S? l??ng: 6
+[2022/11/29 08:22:08:887] hieuxeu ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 574. S? l??ng: 16
+[2022/11/29 08:22:08:887] hieuxeu ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 573. S? l??ng: 24
+[2022/11/29 08:22:08:888] hieuxeu ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 575. S? l??ng: 15
+[2022/11/29 08:22:08:888] hieuxeu ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:22:08:888] hieuxeu ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:22:08:888] hieuxeu ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:22:08:889] hieuxeu ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:22:08:889] hieuxeu ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:22:08:889] hieuxeu ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:22:14:303] zzzzzzzzzz ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 08:22:15:781] zzzzzzzzzz ?ã mua 1 item 669 v?i giá 0 xu 0 yên 40 l??ng
+[2022/11/29 08:22:24:499] wechat ?ã giao d?ch v?i koplok và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 08:22:24:500] wechat ?ã giao d?ch v?i koplok và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 08:22:24:500] wechat ?ã giao d?ch v?i koplok và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 08:22:24:500] wechat ?ã giao d?ch v?i koplok và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 08:22:28:594] kiemkui ?ã mua 1 item 248 v?i giá 0 xu 0 yên 5 l??ng
+[2022/11/29 08:22:54:602] hieuxeu ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:22:54:602] hieuxeu ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 455. S? l??ng: 1
+[2022/11/29 08:22:54:602] hieuxeu ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 455. S? l??ng: 1
+[2022/11/29 08:22:54:603] hieuxeu ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:22:54:603] hieuxeu ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 455. S? l??ng: 1
+[2022/11/29 08:22:54:603] hieuxeu ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:22:54:603] hieuxeu ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:22:54:603] hieuxeu ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:22:54:604] hieuxeu ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 455. S? l??ng: 1
+[2022/11/29 08:22:54:604] hieuxeu ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 455. S? l??ng: 1
+[2022/11/29 08:22:54:604] hieuxeu ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 455. S? l??ng: 1
+[2022/11/29 08:22:54:604] hieuxeu ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 455. S? l??ng: 1
+[2022/11/29 08:23:21:266] zzzzzzzzzz ?ã giao d?ch v?i ffjffjjf và nh?n ???c Item: 404. S? l??ng: 1
+[2022/11/29 08:23:40:156] zzzzzzzzzz ?ã mua 18888 item 20 v?i giá 0 xu 9444000 yên 0 l??ng
+[2022/11/29 08:23:52:121] iphone14 ?ã mua 2 item 29 v?i giá 0 xu 10000 yên 0 l??ng
+[2022/11/29 08:24:35:280] trumkiem ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 08:25:01:690] wechat ?ã mua 5 item 285 v?i giá 0 xu 0 yên 750 l??ng
+[2022/11/29 08:25:12:128] 1dapdi ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 08:25:22:309] xxxxxxxxxx ?ã mua 1 item 23 v?i giá 0 xu 200 yên 0 l??ng
+[2022/11/29 08:25:30:238] iphone14 ?ã giao d?ch v?i djtuoigi và nh?n ???c: 12000 xu.
+[2022/11/29 08:25:30:239] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:25:30:239] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:25:30:240] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:25:30:240] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:25:30:240] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:25:30:241] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:25:30:241] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:25:30:241] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:25:30:242] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:25:30:242] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:25:30:242] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:25:30:243] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:25:40:861] hungmtp ?ã mua 2 item 29 v?i giá 0 xu 10000 yên 0 l??ng
+[2022/11/29 08:25:56:617] iphone14 ?ã giao d?ch v?i djtuoigi và nh?n ???c: 12000 xu.
+[2022/11/29 08:25:56:617] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:25:56:618] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:25:56:618] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:25:56:619] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:25:56:619] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:25:56:619] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:25:56:619] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:25:56:620] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:25:56:620] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:25:56:620] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:25:56:620] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:25:56:621] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:26:22:678] iphone14 ?ã giao d?ch v?i djtuoigi và nh?n ???c: 12000 xu.
+[2022/11/29 08:26:22:679] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:26:22:679] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:26:22:679] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:26:22:679] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:26:22:680] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:26:22:680] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:26:22:680] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:26:22:680] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:26:22:680] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:26:22:681] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:26:22:681] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:26:22:681] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:26:52:533] iphone14 ?ã giao d?ch v?i djtuoigi và nh?n ???c: 12000 xu.
+[2022/11/29 08:26:52:534] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:26:52:534] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:26:52:534] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:26:52:535] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:26:52:535] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:26:52:535] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:26:52:535] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:26:52:535] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:26:52:536] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:26:52:536] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:26:52:536] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:26:52:536] djtuoigi ?ã giao d?ch v?i iphone14 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:28:34:607] hungmtp ?ã mua 5000 item 21 v?i giá 0 xu 5000000 yên 0 l??ng
+[2022/11/29 08:29:01:019] koplok ?ã giao d?ch v?i wechat và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 08:29:01:019] koplok ?ã giao d?ch v?i wechat và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 08:29:01:019] koplok ?ã giao d?ch v?i wechat và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 08:29:01:019] koplok ?ã giao d?ch v?i wechat và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 08:29:01:021] koplok ?ã giao d?ch v?i wechat và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 08:29:01:021] koplok ?ã giao d?ch v?i wechat và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 08:29:01:021] koplok ?ã giao d?ch v?i wechat và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 08:29:01:021] koplok ?ã giao d?ch v?i wechat và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 08:29:01:021] koplok ?ã giao d?ch v?i wechat và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 08:29:01:021] koplok ?ã giao d?ch v?i wechat và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 08:29:01:021] koplok ?ã giao d?ch v?i wechat và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 08:29:01:021] koplok ?ã giao d?ch v?i wechat và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 08:29:35:255] trumquat ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 08:29:48:572] kaidou ?ã mua 4 item 538 v?i giá 0 xu 0 yên 200 l??ng
+[2022/11/29 08:29:59:690] wechat ?ã mua 3 item 490 v?i giá 0 xu 0 yên 150 l??ng
+[2022/11/29 08:30:34:012] hi690 ?ã giao d?ch v?i djtuoigi và nh?n ???c: 12000 xu.
+[2022/11/29 08:30:34:013] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:30:34:013] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:30:34:013] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:30:34:013] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:30:34:013] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:30:34:014] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:30:34:014] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:30:34:014] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:30:34:015] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:30:34:015] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:30:34:015] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:30:34:016] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:31:02:433] opigg66 ?ã mua 1 item 194 v?i giá 0 xu 0 yên 1 l??ng
+[2022/11/29 08:31:04:087] hi690 ?ã giao d?ch v?i djtuoigi và nh?n ???c: 12000 xu.
+[2022/11/29 08:31:04:087] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:31:04:087] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:31:04:088] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:31:04:088] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:31:04:088] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:31:04:088] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:31:04:088] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:31:04:089] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:31:04:089] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:31:04:089] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:31:04:089] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:31:04:089] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:31:16:093] opigg66 ?ã mua 5 item 194 v?i giá 0 xu 0 yên 5 l??ng
+[2022/11/29 08:31:23:547] hi690 ?ã giao d?ch v?i djtuoigi và nh?n ???c: 11000 xu.
+[2022/11/29 08:31:23:548] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:31:23:548] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:31:23:548] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:31:23:549] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:31:23:549] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:31:23:549] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:31:23:549] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:31:23:549] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:31:23:550] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:31:23:550] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:31:23:550] djtuoigi ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:31:42:964] opigg66 ?ã mua 3 item 23 v?i giá 0 xu 600 yên 0 l??ng
+[2022/11/29 08:32:33:191] dsrtt5i ?ã mua 5 item 194 v?i giá 0 xu 0 yên 5 l??ng
+[2022/11/29 08:32:52:493] 1hitt ?ã mua 2 item 29 v?i giá 0 xu 10000 yên 0 l??ng
+[2022/11/29 08:33:00:232] dsrtt5i ?ã mua 3 item 23 v?i giá 0 xu 600 yên 0 l??ng
+[2022/11/29 08:33:45:393] 94meyege ?ã mua 5 item 194 v?i giá 0 xu 0 yên 5 l??ng
+[2022/11/29 08:34:12:781] 94meyege ?ã mua 3 item 23 v?i giá 0 xu 600 yên 0 l??ng
+[2022/11/29 08:34:24:745] hi690 ?ã giao d?ch v?i khoctt và nh?n ???c: 12000 xu.
+[2022/11/29 08:34:24:745] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:34:24:746] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:34:24:746] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:34:24:746] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:34:24:746] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:34:24:747] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:34:24:747] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:34:24:747] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:34:24:747] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:34:24:748] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:34:24:748] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:34:24:748] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:34:56:889] hi690 ?ã giao d?ch v?i khoctt và nh?n ???c: 12000 xu.
+[2022/11/29 08:34:56:889] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:34:56:889] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:34:56:889] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:34:56:890] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:34:56:890] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:34:56:890] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:34:56:890] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:34:56:890] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:34:56:890] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:34:56:891] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:34:56:891] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:34:56:891] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:35:02:601] yw56viem ?ã mua 5 item 194 v?i giá 0 xu 0 yên 5 l??ng
+[2022/11/29 08:35:17:694] hi690 ?ã giao d?ch v?i khoctt và nh?n ???c: 12000 xu.
+[2022/11/29 08:35:17:695] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:35:17:695] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:35:17:695] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:35:17:695] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:35:17:696] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:35:17:696] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:35:17:696] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:35:17:696] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:35:17:696] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:35:17:696] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:35:17:696] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:35:17:697] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:35:25:820] giaokeo ?ã mua 4 item 490 v?i giá 0 xu 0 yên 200 l??ng
+[2022/11/29 08:35:32:951] yw56viem ?ã mua 3 item 23 v?i giá 0 xu 600 yên 0 l??ng
+[2022/11/29 08:35:36:990] hi690 ?ã giao d?ch v?i khoctt và nh?n ???c: 12000 xu.
+[2022/11/29 08:35:36:990] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:35:36:991] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:35:36:991] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:35:36:991] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:35:36:991] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:35:36:991] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:35:36:992] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:35:36:992] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:35:36:992] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:35:36:993] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:35:36:993] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:35:36:993] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:36:05:198] hi690 ?ã giao d?ch v?i khoctt và nh?n ???c: 1000 xu.
+[2022/11/29 08:36:05:198] khoctt ?ã giao d?ch v?i hi690 và nh?n ???c Item: 454. S? l??ng: 1
+[2022/11/29 08:36:56:981] giaobanh ?ã mua 4 item 490 v?i giá 0 xu 0 yên 200 l??ng
+[2022/11/29 08:36:58:068] hieuxeu ?ã giao d?ch v?i khoctt và nh?n ???c: 4000000 xu.
+[2022/11/29 08:37:07:285] giaobanh ?ã mua 1 item 257 v?i giá 0 xu 0 yên 5 l??ng
+[2022/11/29 08:38:20:825] 0000000000 ?ã mua 1 item 23 v?i giá 0 xu 200 yên 0 l??ng
+[2022/11/29 08:38:26:800] trumkunai ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 08:39:52:284] hi690 ?ã giao d?ch v?i hieuxeu và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:39:52:284] hi690 ?ã giao d?ch v?i hieuxeu và nh?n ???c Item: 576. S? l??ng: 5
+[2022/11/29 08:39:52:285] hi690 ?ã giao d?ch v?i hieuxeu và nh?n ???c Item: 577. S? l??ng: 6
+[2022/11/29 08:39:52:285] hi690 ?ã giao d?ch v?i hieuxeu và nh?n ???c Item: 573. S? l??ng: 24
+[2022/11/29 08:39:52:285] hi690 ?ã giao d?ch v?i hieuxeu và nh?n ???c Item: 575. S? l??ng: 15
+[2022/11/29 08:39:52:285] hi690 ?ã giao d?ch v?i hieuxeu và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:39:52:286] hi690 ?ã giao d?ch v?i hieuxeu và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:39:52:286] hi690 ?ã giao d?ch v?i hieuxeu và nh?n ???c Item: 574. S? l??ng: 16
+[2022/11/29 08:39:52:286] hi690 ?ã giao d?ch v?i hieuxeu và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:39:52:287] hi690 ?ã giao d?ch v?i hieuxeu và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:39:52:287] hi690 ?ã giao d?ch v?i hieuxeu và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:39:52:287] hi690 ?ã giao d?ch v?i hieuxeu và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:40:19:498] hi690 ?ã giao d?ch v?i hieuxeu và nh?n ???c Item: 455. S? l??ng: 1
+[2022/11/29 08:40:19:498] hi690 ?ã giao d?ch v?i hieuxeu và nh?n ???c Item: 455. S? l??ng: 1
+[2022/11/29 08:40:19:499] hi690 ?ã giao d?ch v?i hieuxeu và nh?n ???c Item: 455. S? l??ng: 1
+[2022/11/29 08:40:19:499] hi690 ?ã giao d?ch v?i hieuxeu và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:40:19:499] hi690 ?ã giao d?ch v?i hieuxeu và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:40:19:500] hi690 ?ã giao d?ch v?i hieuxeu và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:40:19:500] hi690 ?ã giao d?ch v?i hieuxeu và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:40:19:500] hi690 ?ã giao d?ch v?i hieuxeu và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:40:19:501] hi690 ?ã giao d?ch v?i hieuxeu và nh?n ???c Item: 455. S? l??ng: 1
+[2022/11/29 08:40:19:501] hi690 ?ã giao d?ch v?i hieuxeu và nh?n ???c Item: 455. S? l??ng: 1
+[2022/11/29 08:40:19:501] hi690 ?ã giao d?ch v?i hieuxeu và nh?n ???c Item: 455. S? l??ng: 1
+[2022/11/29 08:40:19:502] hi690 ?ã giao d?ch v?i hieuxeu và nh?n ???c Item: 455. S? l??ng: 1
+[2022/11/29 08:40:38:381] hi690 ?ã giao d?ch v?i hieuxeu và nh?n ???c: 10000000 xu.
+[2022/11/29 08:41:59:418] bantttt ?ã giao d?ch v?i hi690 và nh?n ???c: 3600000 xu.
+[2022/11/29 08:41:59:419] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:41:59:419] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:41:59:419] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:41:59:419] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:41:59:420] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:41:59:420] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:41:59:420] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:41:59:420] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:41:59:420] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:41:59:421] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:41:59:421] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:41:59:421] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:42:27:080] bantttt ?ã giao d?ch v?i hi690 và nh?n ???c: 3600000 xu.
+[2022/11/29 08:42:27:080] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:42:27:080] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:42:27:081] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:42:27:081] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:42:27:081] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:42:27:081] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:42:27:082] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:42:27:082] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:42:27:082] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:42:27:082] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:42:27:083] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:42:27:083] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:42:55:558] bantttt ?ã giao d?ch v?i hi690 và nh?n ???c: 3600000 xu.
+[2022/11/29 08:42:55:559] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:42:55:559] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:42:55:560] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:42:55:560] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:42:55:560] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:42:55:560] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:42:55:560] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:42:55:561] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:42:55:561] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:42:55:561] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:42:55:561] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:42:55:561] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:43:22:626] bantttt ?ã giao d?ch v?i hi690 và nh?n ???c: 3600000 xu.
+[2022/11/29 08:43:22:626] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:43:22:626] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:43:22:626] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:43:22:627] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:43:22:627] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:43:22:627] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:43:22:628] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:43:22:628] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:43:22:628] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:43:22:629] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:43:22:629] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:43:22:629] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:44:32:426] opigg66 ?ã mua 1 item 24 v?i giá 0 xu 450 yên 0 l??ng
+[2022/11/29 08:44:54:752] bantttt ?ã giao d?ch v?i hi690 và nh?n ???c: 3600000 xu.
+[2022/11/29 08:44:54:753] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:44:54:753] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:44:54:753] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:44:54:754] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:44:54:754] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:44:54:754] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:44:54:754] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:44:54:755] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:44:54:755] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:44:54:755] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:44:54:755] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:44:54:756] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:45:12:313] dsrtt5i ?ã mua 1 item 24 v?i giá 0 xu 450 yên 0 l??ng
+[2022/11/29 08:45:23:742] bantttt ?ã giao d?ch v?i hi690 và nh?n ???c: 3000000 xu.
+[2022/11/29 08:45:23:743] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:45:23:743] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:45:23:743] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:45:23:744] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:45:23:744] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:45:23:744] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:45:23:744] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:45:23:744] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:45:23:745] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:45:23:745] hi690 ?ã giao d?ch v?i bantttt và nh?n ???c Item: 456. S? l??ng: 1
+[2022/11/29 08:45:26:326] opig46av ?ã mua 5 item 194 v?i giá 0 xu 0 yên 5 l??ng
+[2022/11/29 08:45:39:522] nhanxu ?ã mua 4 item 490 v?i giá 0 xu 0 yên 200 l??ng
+[2022/11/29 08:46:02:559] opig46av ?ã mua 3 item 23 v?i giá 0 xu 600 yên 0 l??ng
+[2022/11/29 08:46:27:441] 94meyege ?ã mua 1 item 24 v?i giá 0 xu 450 yên 0 l??ng
+[2022/11/29 08:46:44:330] dsrtt5qg ?ã mua 5 item 194 v?i giá 0 xu 0 yên 5 l??ng
+[2022/11/29 08:47:12:135] dsrtt5qg ?ã mua 3 item 23 v?i giá 0 xu 600 yên 0 l??ng
+[2022/11/29 08:48:11:138] 94mey98 ?ã mua 3 item 194 v?i giá 0 xu 0 yên 3 l??ng
+[2022/11/29 08:48:22:498] zzzzzzzll ?ã mua 1 item 23 v?i giá 0 xu 200 yên 0 l??ng
+[2022/11/29 08:48:32:371] yw56viem ?ã mua 1 item 24 v?i giá 0 xu 450 yên 0 l??ng
+[2022/11/29 08:48:37:112] 94mey98 ?ã mua 3 item 23 v?i giá 0 xu 600 yên 0 l??ng
+[2022/11/29 08:48:45:323] giaoxe ?ã mua 4 item 490 v?i giá 0 xu 0 yên 200 l??ng
+[2022/11/29 08:49:55:392] yw56vi98 ?ã mua 5 item 194 v?i giá 0 xu 0 yên 5 l??ng
+[2022/11/29 08:49:56:499] Shinwa: notopone ?ã ??ng bán 25682 item 667 v?i giá: 10000000 xu.
+[2022/11/29 08:50:12:536] Shinwa: notopone ?ã ??ng bán 24126 item 668 v?i giá: 10000000 xu.
+[2022/11/29 08:50:23:737] hieuxeu ?ã giao d?ch v?i hi690 và nh?n ???c Item: 285. S? l??ng: 1
+[2022/11/29 08:50:23:737] hieuxeu ?ã giao d?ch v?i hi690 và nh?n ???c Item: 284. S? l??ng: 1
+[2022/11/29 08:50:23:737] hieuxeu ?ã giao d?ch v?i hi690 và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 08:50:23:738] hieuxeu ?ã giao d?ch v?i hi690 và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 08:50:23:738] hieuxeu ?ã giao d?ch v?i hi690 và nh?n ???c Item: 284. S? l??ng: 1
+[2022/11/29 08:50:23:738] hieuxeu ?ã giao d?ch v?i hi690 và nh?n ???c Item: 285. S? l??ng: 1
+[2022/11/29 08:50:23:738] hieuxeu ?ã giao d?ch v?i hi690 và nh?n ???c Item: 285. S? l??ng: 1
+[2022/11/29 08:50:25:009] Shinwa: notopone ?ã ??ng bán 27010 item 666 v?i giá: 10000000 xu.
+[2022/11/29 08:50:26:961] yw56vi98 ?ã mua 3 item 23 v?i giá 0 xu 600 yên 0 l??ng
+[2022/11/29 08:51:39:147] giaoqua ?ã mua 4 item 490 v?i giá 0 xu 0 yên 200 l??ng
+[2022/11/29 08:52:23:554] 1chem2mang ?ã mua 1 item 26 v?i giá 0 xu 1500 yên 0 l??ng
+[2022/11/29 08:54:28:436] nso3mien ?ã mua 1 item 545 v?i giá 100000 xu 0 yên 0 l??ng
+[2022/11/29 08:54:37:596] trumkiem ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 08:55:07:688] Shinwa: notopone ?ã ??ng bán 1 item 667 v?i giá: 10000000 xu.
+[2022/11/29 08:55:07:690] Shinwa: notopone ?ã ??ng bán 2 item 668 v?i giá: 10000000 xu.
+[2022/11/29 08:55:07:691] Shinwa: notopone ?ã ??ng bán 3 item 666 v?i giá: 10000000 xu.
+[2022/11/29 08:55:07:947] s1kunai ?ã mua 5 item 248 v?i giá 0 xu 0 yên 25 l??ng
+[2022/11/29 08:55:10:729] 1dapdi ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 08:55:37:158] hieuxeu ?ã giao d?ch v?i hi690 và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 08:55:37:158] hieuxeu ?ã giao d?ch v?i hi690 và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 08:55:37:159] hieuxeu ?ã giao d?ch v?i hi690 và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 08:55:37:159] hieuxeu ?ã giao d?ch v?i hi690 và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 08:55:37:159] hieuxeu ?ã giao d?ch v?i hi690 và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 08:55:37:159] hieuxeu ?ã giao d?ch v?i hi690 và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 08:55:37:159] hieuxeu ?ã giao d?ch v?i hi690 và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 08:55:37:160] hieuxeu ?ã giao d?ch v?i hi690 và nh?n ???c Item: 285. S? l??ng: 1
+[2022/11/29 08:55:37:160] hieuxeu ?ã giao d?ch v?i hi690 và nh?n ???c Item: 285. S? l??ng: 1
+[2022/11/29 08:55:37:160] hieuxeu ?ã giao d?ch v?i hi690 và nh?n ???c Item: 285. S? l??ng: 1
+[2022/11/29 08:55:37:160] hieuxeu ?ã giao d?ch v?i hi690 và nh?n ???c Item: 285. S? l??ng: 1
+[2022/11/29 08:55:37:160] hieuxeu ?ã giao d?ch v?i hi690 và nh?n ???c Item: 285. S? l??ng: 1
+[2022/11/29 08:55:47:681] nso3mien ?ã mua 1 item 490 v?i giá 0 xu 0 yên 50 l??ng
+[2022/11/29 08:55:58:283] nso3mien ?ã mua 5 item 248 v?i giá 0 xu 0 yên 25 l??ng
+[2022/11/29 08:56:04:983] hieuxeu ?ã giao d?ch v?i hi690 và nh?n ???c Item: 284. S? l??ng: 1
+[2022/11/29 08:56:04:984] hieuxeu ?ã giao d?ch v?i hi690 và nh?n ???c Item: 284. S? l??ng: 1
+[2022/11/29 08:56:04:984] hieuxeu ?ã giao d?ch v?i hi690 và nh?n ???c Item: 284. S? l??ng: 1
+[2022/11/29 08:56:04:984] hieuxeu ?ã giao d?ch v?i hi690 và nh?n ???c Item: 284. S? l??ng: 1
+[2022/11/29 08:56:04:984] hieuxeu ?ã giao d?ch v?i hi690 và nh?n ???c Item: 284. S? l??ng: 1
+[2022/11/29 08:56:04:984] hieuxeu ?ã giao d?ch v?i hi690 và nh?n ???c Item: 285. S? l??ng: 1
+[2022/11/29 08:56:04:985] hieuxeu ?ã giao d?ch v?i hi690 và nh?n ???c Item: 285. S? l??ng: 1
+[2022/11/29 08:56:04:985] hieuxeu ?ã giao d?ch v?i hi690 và nh?n ???c Item: 284. S? l??ng: 1
+[2022/11/29 08:57:30:195] pelak ?ã giao d?ch v?i vietjohan và nh?n ???c Item: 407. S? l??ng: 1
+[2022/11/29 08:57:30:195] pelak ?ã giao d?ch v?i vietjohan và nh?n ???c Item: 409. S? l??ng: 1
+[2022/11/29 08:57:39:570] nso3mien ?ã mua 1 item 545 v?i giá 100000 xu 0 yên 0 l??ng
+[2022/11/29 08:58:08:859] noname ?ã mua 30000 item 566 v?i giá 0 xu 150000000 yên 0 l??ng
+[2022/11/29 08:58:10:547] sepngoc ?ã mua 5 item 248 v?i giá 0 xu 0 yên 25 l??ng
+[2022/11/29 08:59:57:890] hi690 ?ã mua 1 item 538 v?i giá 0 xu 0 yên 50 l??ng
+[2022/11/29 09:00:06:787] dsrtt5qg ?ã mua 1 item 24 v?i giá 0 xu 450 yên 0 l??ng
+[2022/11/29 09:01:34:907] opig46av ?ã mua 1 item 24 v?i giá 0 xu 450 yên 0 l??ng
+[2022/11/29 09:02:30:914] hshshhs ?ã giao d?ch v?i tranggok và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 09:02:30:915] hshshhs ?ã giao d?ch v?i tranggok và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 09:02:30:915] hshshhs ?ã giao d?ch v?i tranggok và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 09:02:30:916] hshshhs ?ã giao d?ch v?i tranggok và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 09:02:30:916] hshshhs ?ã giao d?ch v?i tranggok và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 09:02:30:916] hshshhs ?ã giao d?ch v?i tranggok và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 09:02:30:916] hshshhs ?ã giao d?ch v?i tranggok và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 09:02:30:916] hshshhs ?ã giao d?ch v?i tranggok và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 09:02:30:917] hshshhs ?ã giao d?ch v?i tranggok và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 09:02:30:917] hshshhs ?ã giao d?ch v?i tranggok và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 09:02:30:917] hshshhs ?ã giao d?ch v?i tranggok và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 09:02:30:917] hshshhs ?ã giao d?ch v?i tranggok và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 09:02:38:233] youngboi ?ã mua 1 item 490 v?i giá 0 xu 0 yên 50 l??ng
+[2022/11/29 09:02:48:038] 94mey98 ?ã mua 1 item 24 v?i giá 0 xu 450 yên 0 l??ng
+[2022/11/29 09:03:03:773] opi4949 ?ã mua 5 item 194 v?i giá 0 xu 0 yên 5 l??ng
+[2022/11/29 09:03:04:141] trumquat ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 09:03:09:098] trumkunai ?ã mua 1 item 29 v?i giá 0 xu 5000 yên 0 l??ng
+[2022/11/29 09:03:37:594] opi4949 ?ã mua 3 item 23 v?i giá 0 xu 600 yên 0 l??ng
+[2022/11/29 09:03:59:484] yw56vi98 ?ã mua 1 item 24 v?i giá 0 xu 450 yên 0 l??ng
+[2022/11/29 09:04:25:820] dsr49493 ?ã mua 5 item 194 v?i giá 0 xu 0 yên 5 l??ng
+[2022/11/29 09:04:36:658] hieuxeu ?ã mua 1 item 194 v?i giá 0 xu 0 yên 1 l??ng
+[2022/11/29 09:04:52:134] dsr49493 ?ã mua 3 item 23 v?i giá 0 xu 600 yên 0 l??ng
+[2022/11/29 09:05:31:862] 94mey494a ?ã mua 5 item 194 v?i giá 0 xu 0 yên 5 l??ng
+[2022/11/29 09:06:06:120] 94mey494a ?ã mua 3 item 23 v?i giá 0 xu 600 yên 0 l??ng
+[2022/11/29 09:06:33:196] yw56vi494 ?ã mua 5 item 194 v?i giá 0 xu 0 yên 5 l??ng
+[2022/11/29 09:06:52:698] noname ?ã mua 1 item 490 v?i giá 0 xu 0 yên 50 l??ng
+[2022/11/29 09:07:16:044] yw56vi494 ?ã mua 3 item 23 v?i giá 0 xu 600 yên 0 l??ng
+[2022/11/29 09:07:44:253] hshshhs ?ã giao d?ch v?i tranggok và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 09:07:44:254] hshshhs ?ã giao d?ch v?i tranggok và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 09:07:44:254] hshshhs ?ã giao d?ch v?i tranggok và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 09:07:44:254] hshshhs ?ã giao d?ch v?i tranggok và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 09:08:28:230] 1shot1kill ?ã mua 3 item 23 v?i giá 0 xu 600 yên 0 l??ng
+[2022/11/29 09:08:38:580] Shinwa: morebube ?ã mua 1 item 486 v?i giá: 55000 xu.
+[2022/11/29 09:08:44:990] Shinwa: morebube ?ã mua 1 item 489 v?i giá: 55000 xu.
+[2022/11/29 09:08:59:542] Shinwa: morebube ?ã mua 1 item 487 v?i giá: 200000 xu.
+[2022/11/29 09:09:16:778] Shinwa: morebube ?ã mua 1 item 488 v?i giá: 300000 xu.
+[2022/11/29 09:09:31:784] Shinwa: narutosz ?ã ??ng bán 35 item 671 v?i giá: 1 xu.
+[2022/11/29 09:09:36:441] tranggok ?ã giao d?ch v?i trangcute và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 09:09:36:442] tranggok ?ã giao d?ch v?i trangcute và nh?n ???c Item: 11. S? l??ng: 1
+[2022/11/29 09:09:36:442] tranggok ?ã giao d?ch v?i trangcute và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 09:09:36:442] tranggok ?ã giao d?ch v?i trangcute và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 09:09:36:442] tranggok ?ã giao d?ch v?i trangcute và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 09:09:36:442] tranggok ?ã giao d?ch v?i trangcute và nh?n ???c Item: 10. S? l??ng: 1
+[2022/11/29 09:09:36:443] trangcute ?ã giao d?ch v?i tranggok và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 09:09:36:443] trangcute ?ã giao d?ch v?i tranggok và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 09:09:36:443] trangcute ?ã giao d?ch v?i tranggok và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 09:09:36:443] trangcute ?ã giao d?ch v?i tranggok và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 09:09:36:444] trangcute ?ã giao d?ch v?i tranggok và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 09:09:36:444] trangcute ?ã giao d?ch v?i tranggok và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 09:09:36:444] trangcute ?ã giao d?ch v?i tranggok và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 09:09:36:444] trangcute ?ã giao d?ch v?i tranggok và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 09:09:36:444] trangcute ?ã giao d?ch v?i tranggok và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 09:09:36:445] trangcute ?ã giao d?ch v?i tranggok và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 09:09:36:445] trangcute ?ã giao d?ch v?i tranggok và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 09:09:36:445] trangcute ?ã giao d?ch v?i tranggok và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 09:09:45:831] Shinwa: kakarot ?ã mua 35 item 671 v?i giá: 1 xu.
+[2022/11/29 09:10:25:652] trangcute ?ã giao d?ch v?i tranggok và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 09:10:25:652] trangcute ?ã giao d?ch v?i tranggok và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 09:10:25:653] trangcute ?ã giao d?ch v?i tranggok và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 09:10:25:653] trangcute ?ã giao d?ch v?i tranggok và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 09:10:25:653] trangcute ?ã giao d?ch v?i tranggok và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 09:10:25:654] trangcute ?ã giao d?ch v?i tranggok và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 09:10:25:654] trangcute ?ã giao d?ch v?i tranggok và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 09:10:25:654] trangcute ?ã giao d?ch v?i tranggok và nh?n ???c Item: 8. S? l??ng: 1
+[2022/11/29 09:10:25:654] trangcute ?ã giao d?ch v?i tranggok và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 09:10:25:654] trangcute ?ã giao d?ch v?i tranggok và nh?n ???c Item: 9. S? l??ng: 1
+[2022/11/29 09:10:25:655] trangcute ?ã giao d?ch v?i tranggok và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 09:10:25:655] trangcute ?ã giao d?ch v?i tranggok và nh?n ???c Item: 7. S? l??ng: 1
+[2022/11/29 09:12:39:257] kakarot ?ã mua 1 item 23 v?i giá 0 xu 200 yên 0 l??ng
+[2022/11/29 09:13:17:031] zzzzzzzll ?ã mua 1 item 23 v?i giá 0 xu 200 yên 0 l??ng
+[2022/11/29 09:17:44:180] opi4949 ?ã mua 1 item 24 v?i giá 0 xu 450 yên 0 l??ng
+[2022/11/29 09:18:20:616] dsr49493 ?ã mua 1 item 24 v?i giá 0 xu 450 yên 0 l??ng
+[2022/11/29 09:18:53:384] opi4wgwu7 ?ã mua 5 item 194 v?i giá 0 xu 0 yên 5 l??ng
+[2022/11/29 09:19:29:074] opi4wgwu7 ?ã mua 3 item 23 v?i giá 0 xu 600 yên 0 l??ng
+[2022/11/29 09:19:43:221] kakarot ?ã giao d?ch v?i narutosz và nh?n ???c: 557000 xu.
+[2022/11/29 09:19:54:722] 94mey494a ?ã mua 1 item 24 v?i giá 0 xu 450 yên 0 l??ng
+[2022/11/29 09:19:59:906] dsr494sbs ?ã mua 5 item 194 v?i giá 0 xu 0 yên 5 l??ng
+[2022/11/29 09:20:29:803] dsr494sbs ?ã mua 3 item 23 v?i giá 0 xu 600 yên 0 l??ng
+[2022/11/29 09:20:30:118] kakarot ?ã giao d?ch v?i bluez và nh?n ???c Item: 666. S? l??ng: 408
+[2022/11/29 09:20:30:119] kakarot ?ã giao d?ch v?i bluez và nh?n ???c Item: 668. S? l??ng: 197
+[2022/11/29 09:20:30:119] kakarot ?ã giao d?ch v?i bluez và nh?n ???c Item: 667. S? l??ng: 306
+[2022/11/29 09:20:58:087] gacon204 ?ã mua 2 item 25 v?i giá 0 xu 1600 yên 0 l??ng
+[2022/11/29 09:21:08:188] 94me2919 ?ã mua 5 item 194 v?i giá 0 xu 0 yên 5 l??ng
+[2022/11/29 09:21:19:344] yw56vi494 ?ã mua 1 item 24 v?i giá 0 xu 450 yên 0 l??ng
+[2022/11/29 09:21:26:984] kakarot ?ã mua 20 item 669 v?i giá 0 xu 0 yên 800 l??ng
+[2022/11/29 09:21:36:103] 94me2919 ?ã mua 3 item 23 v?i giá 0 xu 600 yên 0 l??ng
+[2022/11/29 09:21:40:593] 1chem2mang ?ã mua 1 item 26 v?i giá 0 xu 1500 yên 0 l??ng
+[2022/11/29 09:21:48:808] Shinwa: tranggok ?ã ??ng bán 1 item 328 v?i giá: 5000000 xu.
+[2022/11/29 09:22:12:056] yw56vi442a ?ã mua 5 item 194 v?i giá 0 xu 0 yên 5 l??ng

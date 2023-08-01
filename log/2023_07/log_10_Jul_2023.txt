@@ -1,0 +1,7 @@
+[2023/07/10 09:51:57:873] dackimdoi1 đã mua 1 item 88 với giá 1000 xu 0 yên 0 lượng
+[2023/07/10 09:51:59:117] dackimdoi1 đã mua 1 item 89 với giá 1000 xu 0 yên 0 lượng
+[2023/07/10 09:52:01:238] dackimdoi1 đã mua 1 item 90 với giá 1000 xu 0 yên 0 lượng
+[2023/07/10 07:11:15:094] dackimdoi đã mua 1 item 240 với giá 0 xu 0 yên 25 lượng
+[2023/07/10 07:27:59:386] admin đã mua 1 item 321 với giá 60000 xu 0 yên 0 lượng
+[2023/07/10 07:28:04:323] admin đã mua 1 item 271 với giá 0 xu 0 yên 500 lượng
+[2023/07/10 07:28:20:979] admin đã mua 20 item 454 với giá 0 xu 20 yên 0 lượng

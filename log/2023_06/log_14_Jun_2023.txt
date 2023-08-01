@@ -1,0 +1,12 @@
+[2023/06/14 05:45:08:249] dackimdoi1 đã mua 1 item 613 với giá 0 xu 0 yên 45 lượng
+[2023/06/14 05:46:09:708] dackimdoi1 đã mua 1 item 444 với giá 50000 xu 0 yên 0 lượng
+[2023/06/14 07:51:47:697] dackimdoi6 đã mua 1 item 122 với giá 135000 xu 0 yên 0 lượng
+[2023/06/14 07:53:45:094] dackimdoi6 đã mua 2000 item 340 với giá 0 xu 0 yên 10000 lượng
+[2023/06/14 08:17:46:147] dackimdoi6 đã mua 1 item 86 với giá 1000 xu 0 yên 0 lượng
+[2023/06/14 08:17:47:273] dackimdoi6 đã mua 1 item 87 với giá 1000 xu 0 yên 0 lượng
+[2023/06/14 08:17:48:569] dackimdoi6 đã mua 1 item 88 với giá 1000 xu 0 yên 0 lượng
+[2023/06/14 08:17:49:863] dackimdoi6 đã mua 1 item 89 với giá 1000 xu 0 yên 0 lượng
+[2023/06/14 08:17:51:106] dackimdoi6 đã mua 1 item 90 với giá 1000 xu 0 yên 0 lượng
+[2023/06/14 08:17:52:277] dackimdoi6 đã mua 1 item 91 với giá 1000 xu 0 yên 0 lượng
+[2023/06/14 09:19:47:653] dackimdoi6 đã mua 20000 item 20 với giá 0 xu 10000000 yên 0 lượng
+[2023/06/14 09:19:58:807] dackimdoi6 đã mua 1 item 250 với giá 0 xu 0 yên 10 lượng

@@ -1,0 +1,6 @@
+[2022/12/19 09:09:09:305] trumok da doi 50 lg ra 20000000 xu
+[2022/12/19 11:36:58:515] mrboo da doi 5000 lg ra 25000000 yen
+[2022/12/19 11:37:00:673] mrboo da doi 50 lg ra 20000000 xu
+[2022/12/19 12:41:44:402] zkatanaz da doi 50 lg ra 20000000 xu
+[2022/12/19 12:42:45:454] pklangco da doi 50 lg ra 20000000 xu
+[2022/12/19 08:02:48:787] boyhyngheo da doi 50 lg ra 20000000 xu

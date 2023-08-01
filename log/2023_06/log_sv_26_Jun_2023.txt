@@ -1,0 +1,12 @@
+[2023/06/26 08:14:59:610] User: dackimdoi6 - Name: dackimdoi6 - Pass: dackimdoi - IP: 127.0.0.1
+[2023/06/26 08:17:17:599] User: dackimdoi6 - Name: dackimdoi6 - Pass: dackimdoi - IP: 127.0.0.1
+[2023/06/26 08:17:42:472] User: dackimdoi6 - Name: dackimdoi6 - Pass: dackimdoi - IP: 127.0.0.1
+[2023/06/26 08:20:10:786] User: dackimdoi6 - Name: dackimdoi6 - Pass: dackimdoi - IP: 127.0.0.1
+[2023/06/26 08:21:08:637] User: dackimdoi6 - Name: dackimdoi6 - Pass: dackimdoi - IP: 127.0.0.1
+[2023/06/26 08:22:14:422] User: dackimdoi6 - Name: dackimdoi6 - Pass: dackimdoi - IP: 127.0.0.1
+[2023/06/26 08:25:06:799] User: dackimdoi6 - Name: dackimdoi6 - Pass: dackimdoi - IP: 127.0.0.1
+[2023/06/26 08:26:57:198] User: dackimdoi - Name: dackimdoi - Pass: dackimdoi - IP: 127.0.0.1
+[2023/06/26 08:30:45:920] User: dackimdoi6 - Name: dackimdoi6 - Pass: dackimdoi - IP: 127.0.0.1
+[2023/06/26 08:38:28:143] User: dackimdoi6 - Name: dackimdoi6 - Pass: dackimdoi - IP: 127.0.0.1
+[2023/06/26 08:45:12:562] User: dackimdoi6 - Name: dackimdoi6 - Pass: dackimdoi - IP: 127.0.0.1
+[2023/06/26 08:53:01:406] User: dackimdoi6 - Name: dackimdoi6 - Pass: dackimdoi - IP: 127.0.0.1
