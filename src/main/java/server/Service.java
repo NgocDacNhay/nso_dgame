@@ -313,6 +313,72 @@ public class Service {
         }
     }
 
+    public static void openMenuMuaLai(User p) {
+        Message m = null;
+        try {
+            p.menuCaiTrang = 3;
+            m = new Message(31);
+            Service.sendTileAction(p, (byte) 4, "Mua lại", "Mua");
+            m.writer().writeInt(p.nj.xuBox);
+            m.writer().writeByte(p.nj.ItemMuaLai.size());
+            for (Item item : p.nj.ItemMuaLai) {
+                if (item != null) {
+                    m.writer().writeShort(item.id);
+                    m.writer().writeBoolean(item.isLock());
+                    if (ItemData.isTypeBody(item.id) || ItemData.isTypeNgocKham(item.id)) {
+                        m.writer().writeByte(item.getUpgrade());
+                    }
+                    m.writer().writeBoolean(item.isExpires);
+                    m.writer().writeShort(item.quantity);
+                } else {
+                    m.writer().writeShort(-1);
+                }
+            }
+            m.writer().flush();
+            p.session.sendMessage(m);
+            m.cleanup();
+        } catch (Exception e) {
+            e.printStackTrace();
+        } finally {
+            if (m != null) {
+                m.cleanup();
+            }
+        }
+    }
+
+    public static void openMenuGiaHan(User p) {
+        Message m = null;
+        try {
+            p.menuCaiTrang = 5;
+            m = new Message(31);
+            Service.sendTileAction(p, (byte) 4, "Gia hạn", "Gia hạn");
+            m.writer().writeInt(p.nj.xuBox);
+            m.writer().writeByte(p.nj.ItemGiaHan.size());
+            for (Item item : p.nj.ItemGiaHan) {
+                if (item != null) {
+                    m.writer().writeShort(item.id);
+                    m.writer().writeBoolean(item.isLock());
+                    if (ItemData.isTypeBody(item.id) || ItemData.isTypeNgocKham(item.id)) {
+                        m.writer().writeByte(item.getUpgrade());
+                    }
+                    m.writer().writeBoolean(item.isExpires);
+                    m.writer().writeShort(item.quantity);
+                } else {
+                    m.writer().writeShort(-1);
+                }
+            }
+            m.writer().flush();
+            p.session.sendMessage(m);
+            m.cleanup();
+        } catch (Exception e) {
+            e.printStackTrace();
+        } finally {
+            if (m != null) {
+                m.cleanup();
+            }
+        }
+    }
+
     public static void setHPMob(final Ninja nj, final int mobid, final int hp) {
         Message msg = null;
         try {

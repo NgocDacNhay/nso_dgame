@@ -216,7 +216,7 @@ public class Place {
 
     }
 
-    public void removeUser(@Nullable User p) {
+    public void removeUser(User p) {
         this._users.remove(p);
     }
 
@@ -1275,9 +1275,11 @@ public class Place {
     }
 
     @SneakyThrows
-    public void pickItem(@Nullable final User p, @Nullable Message m) throws IOException {
+    public void pickItem(final User p, Message m) throws IOException {
         synchronized (this._itemMap) {
-            if (p == null || m == null) return;
+            if (p == null || m == null) {
+                return;
+            }
 
             if (m.reader().available() == 0) {
                 return;
@@ -1297,10 +1299,10 @@ public class Place {
                         p.sendYellowMessage("Vật phẩm của người khác.");
                         return;
                     }
-//                    if (Math.abs(itemMap.x - p.nj.get().x) > 50 || Math.abs(itemMap.y - p.nj.get().y) > 30) {
-//                        p.sendYellowMessage("Khoảng cách quá xa.");
-//                        return;
-//                    }
+                //    if (Math.abs(itemMap.x - p.nj.get().x) > 50 || Math.abs(itemMap.y - p.nj.get().y) > 30) {
+                //        p.sendYellowMessage("Khoảng cách quá xa.");
+                //        return;
+                //    }
 
                     val ninja = p.nj;
 
@@ -1475,7 +1477,10 @@ public class Place {
     }*/
 
     public void leaveItemBackground(@Nullable final User p, byte index) throws IOException {
-        if (p == null) return;
+        if (p == null) {
+            return;
+        }
+        
         synchronized (this._itemMap) {
             Message m = null;
             final Item itembag = p.nj.getIndexBag(index);
@@ -1485,13 +1490,14 @@ public class Place {
             if (this._itemMap.size() > 100) {
                 this.removeItemMapMessage(this._itemMap.remove(0).itemMapId);
             }
-            final short itemmapid = this.getItemMapNotId();
-            final ItemMap item = new ItemMap();
+            short itemmapid = this.getItemMapNotId();
+            ItemMap item = new ItemMap();
             item.x = p.nj.get().x;
             item.y = p.nj.get().y;
             item.itemMapId = itemmapid;
             item.item = itembag;
             p.nj.ItemBag[index] = null;
+            this._itemMap.add(item);
             m = new Message(-6);
             m.writer().writeInt(p.nj.get().id);
             m.writer().writeShort(item.itemMapId);
@@ -1504,14 +1510,16 @@ public class Place {
             m = new Message(-12);
             m.writer().writeByte(index);
             m.writer().writeShort(item.itemMapId);
-            m.writer().writeShort(-1);
-            m.writer().writeShort(-1);
+            m.writer().writeShort(item.x);
+            m.writer().writeShort(item.y);
             m.writer().flush();
             p.sendMessage(m);
             m.cleanup();
         }
     }
 
+
+    
     private boolean killedTa = false;
 
     public void refreshMobs() {
@@ -2306,7 +2314,32 @@ public class Place {
         }  else if (curMob.sys == 3) {
             dame += dame*body.getPramItem(56)/200;
         }
-        int xpnew = dame / 25 * body.getLevel();
+        int xpnew=0;
+        int c=1;
+        if(body.getLevel()<10){
+            c=15;
+        }else if(body.getLevel()>=10){
+            c=20;
+        }else if(body.getLevel()>=20){
+            c=25;
+        }else if(body.getLevel()>=30){
+            c=30;
+        }else if(body.getLevel()>=40){
+            c=35;
+        }else if(body.getLevel()>=50){
+            c=40;
+        }else if(body.getLevel()>=60){
+            c=45;
+        }else if(body.getLevel()>=70){
+            c=50;
+        }else if(body.getLevel()>=80){
+            c=55;
+        }
+        if(oldhp >= dame){
+             xpnew = dame / (c/2+10) * (body.getLevel()+c/5);
+        } else{
+             xpnew = oldhp / (c/2+10) * (body.getLevel()+c/5);
+        }
         if (body.getEffType((byte) 18) != null) {
             xpnew *= body.getEffType((byte) 18).param;
         }

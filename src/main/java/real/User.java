@@ -47,6 +47,7 @@ public class User extends Actor implements SendMessage {
     public String passold;
     public String passnew;
     public long expiredTime;
+    public int indexMenuBox;
 
     private ClanTerritoryData clanTerritoryData;
 
@@ -1567,10 +1568,10 @@ public class User extends Actor implements SendMessage {
             this.session.sendMessageLog("Tên nhân chỉ đồng ý các ký tự a-z,0-9 và chiều dài từ 5 đến 20 ký tự");
             return;
         }
-        if (this.sortNinja[0] != null) { 
-            this.session.sendMessageLog("Để tránh nhiều acc clone không tạo thêm nhân vật");
-            return;
-        }
+    //    if (this.sortNinja[0] != null) { 
+    //        this.session.sendMessageLog("Để tránh nhiều acc clone không tạo thêm nhân vật");
+    //        return;
+    //    }
 // Tắt bẬT Tạo nhân vật
         final boolean[] canNext = {true};
         SQLManager.executeQuery("SELECT `id` FROM `ninja` WHERE `name`LIKE'" + name + "';", (red) -> {
@@ -1724,9 +1725,9 @@ public class User extends Actor implements SendMessage {
         if (item == null || (ItemData.ItemDataId(item.id).isUpToUp && (num <= 0 || num > item.quantity))) {
             return;
         }
-        if (ItemData.ItemDataId(item.id).isUpToUp) {
-            num = 1;
-        }
+    //    if (ItemData.ItemDataId(item.id).isUpToUp) {
+    //        num = 1;
+    //    }
         if (ItemData.isTypeBody(item.id) && item.getUpgrade() > 0) {
             this.session.sendMessageLog("Không thể bán trang bị còn nâng cấp");
             return;
@@ -1744,6 +1745,10 @@ public class User extends Actor implements SendMessage {
         item2.quantity -= num;
         if (item.quantity <= 0) {
             this.nj.ItemBag[index] = null;
+        }
+        if (item2.isExpires == false) {
+            item2.quantity = num;
+            nj.ItemMuaLai.add(item2);
         }
         this.nj.upyen(item.sale * num);
         m = new Message(14);
@@ -1943,7 +1948,16 @@ public class User extends Actor implements SendMessage {
                         p.endLoad(true);
                         break;
                     }
-                    case 3:
+                    case 3: {
+                        Item im = p.nj.ItemMuaLai.get(index);
+                        p.indexMenuBox = index;
+                        int xu = 10000;
+                        if (im.isTypeBody()) {
+                            xu = im.id * 100;
+                        }
+                        Service.startYesNoDlg(p, (byte) 3, "Ngươi có muốn mua lại " + ItemData.ItemDataId(p.nj.ItemMuaLai.get(index).id).name + " với giá " + xu + " xu không?");
+                        break;
+                    }
                     case 4: {
                         item = p.nj.ItemLD[index];
                         if (item != null) {
@@ -2019,6 +2033,63 @@ public class User extends Actor implements SendMessage {
                                     }
                                 }
                             }
+                        }
+                        break;
+                    }
+                    case 5:{
+                        Item im = p.nj.ItemGiaHan.get(index);
+                        ItemData data = ItemData.ItemDataId(im.id);
+                        if (data.type == 33) {
+                            if (p.nj.quantityItemyTotal(990) > 0) {
+                                if (im != null) {
+                                    if (im.isExpires == true) {
+                                        im.expires += 2592000000L;
+                                        p.nj.removeItemBags(990, 1);
+                                        p.session.sendMessageLog("Gia hạn thành công " + ItemData.ItemDataId(im.id).name + " thêm 30 ngày");
+                                    } else {
+                                        p.session.sendMessageLog("Vật phẩm không có hạn sử dụng");
+                                    }
+                                } else {
+                                    p.session.sendMessageLog("Thao tác lỗi vui lòng thoát game và đăng nhập lại.");
+                                }
+                            } else {
+                                p.session.sendMessageLog("Không đủ Bùa Noru trong hành trang");
+                            }
+                        } else if (data.type == 2 || data.type == 11 || data.type == 12) {
+                            if (p.nj.quantityItemyTotal(989) > 0) {
+                                if (im != null) {
+                                    if (im.isExpires == true) {
+                                        im.expires += 2592000000L;
+                                        p.nj.removeItemBags(989, 1);
+                                        p.session.sendMessageLog("Gia hạn thành công " + ItemData.ItemDataId(im.id).name + " thêm 30 ngày");
+                                    } else {
+                                        p.session.sendMessageLog("Vật phẩm không có hạn sử dụng");
+                                    }
+                                } else {
+                                    p.session.sendMessageLog("Thao tác lỗi vui lòng thoát game và đăng nhập lại.");
+                                }
+                            } else {
+                                p.session.sendMessageLog("Không đủ Bùa Sochi trong hành trang");
+                            }
+                        } else if (data.type != 2 && data.type != 11 && data.type != 12 && data.type != 33) {
+                            if (p.nj.quantityItemyTotal(988) > 0) {
+                                if (im != null) {
+                                    if (im.isExpires == true) {
+                                        im.expires += 2592000000L;
+                                        p.nj.removeItemBags(988, 1);
+                                        p.session.sendMessageLog("Gia hạn thành công " + ItemData.ItemDataId(im.id).name + " thêm 30 ngày");
+                                    } else {
+                                        p.session.sendMessageLog("Vật phẩm không có hạn sử dụng");
+                                    }
+                                } else {
+                                    p.session.sendMessageLog("Thao tác lỗi vui lòng thoát game và đăng nhập lại.");
+                                }
+                            } else {
+                                p.session.sendMessageLog("Không đủ Bùa Aitemu trong hành trang");
+                            }
+                        }
+                        if (!p.nj.isTrade) {
+                            Service.CharViewInfo(p, false);
                         }
                         break;
                     }
@@ -2211,8 +2282,11 @@ public class User extends Actor implements SendMessage {
                 } else if (this.menuCaiTrang == 2) {
                     item = this.nj.ItemCaiTrang[index];
                     break;
-                } else if (this.menuCaiTrang == 3 || this.menuCaiTrang == 4) {
-                    item = this.nj.ItemLD[index];
+                } else if (this.menuCaiTrang == 3) {
+                    item  = nj.ItemMuaLai.get(index);
+                    break;
+                }else if (this.menuCaiTrang == 4) {
+                    item = nj.ItemGiaHan.get(index);
                     break;
                 } else {
                     item = this.nj.ItemBox[index];
@@ -2457,9 +2531,9 @@ public class User extends Actor implements SendMessage {
                 return;
             }
             final int tradexu = m.reader().readInt();
-            if (tradexu > 500000000) {
+            if (tradexu > 1000000000) {
                 this.closeLoad();
-                this.sendYellowMessage("Chỉ có thể giao dịch dưới 500 triệu xu");
+                this.sendYellowMessage("Chỉ có thể giao dịch dưới tỉ xu");
                 return;
             }
             if (tradexu > 0 && tradexu <= this.nj.xu) {
@@ -2860,10 +2934,10 @@ public class User extends Actor implements SendMessage {
         if (index > 4 || index < 0 || this.nj.get().ItemMounts[index] == null) {
             return;
         }
-        if (index == 4 && (this.nj.get().ItemMounts[0] != null || this.nj.get().ItemMounts[1] != null || this.nj.get().ItemMounts[2] != null || this.nj.get().ItemMounts[3] != null)) {
-            this.session.sendMessageLog("Cần phải tháo hết trang bị thú cưới ra trước");
-            return;
-        }
+    //    if (index == 4 && (this.nj.get().ItemMounts[0] != null || this.nj.get().ItemMounts[1] != null || this.nj.get().ItemMounts[2] != null || this.nj.get().ItemMounts[3] != null)) {
+    //        this.session.sendMessageLog("Cần phải tháo hết trang bị thú cưới ra trước");
+    //        return;
+    //    }
         this.nj.ItemBag[indexItemBag] = this.nj.get().ItemMounts[index];
         this.nj.get().ItemMounts[index] = null;
         m = new Message(108);

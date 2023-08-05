@@ -12,8 +12,11 @@ import java.util.TimerTask;
 public class BXHManager {
     public static final ArrayList<Entry>[] bangXH;
     public static final Timer t;
-
+    Calendar rightNow = Calendar.getInstance();
+    int min = rightNow.get(Calendar.MINUTE);
+    int sec = rightNow.get(Calendar.SECOND);
     public static void init() {
+        
         for (int i = 0; i < BXHManager.bangXH.length; ++i) {
             BXHManager.bangXH[i] = new ArrayList<Entry>();
         }
@@ -21,6 +24,7 @@ public class BXHManager {
         for (int i = 0; i < BXHManager.bangXH.length; ++i) {
             initBXH(i);
         }
+        
         Calendar cl = Calendar.getInstance();
         Date d = new Date();
         cl.setTime(d);
@@ -35,11 +39,11 @@ public class BXHManager {
                 for (int i = 0; i < BXHManager.bangXH.length; ++i) {
                     initBXH(i);
                 }
-
-                System.err.println("Refresh BXH");
+                
+            //    System.err.println("Refresh BXH");
                 
             }
-        }, cl.getTime(), 1000*15*2);
+        }, cl.getTime(), 1000);
     }
 
     public static void initBXH(final int type) {

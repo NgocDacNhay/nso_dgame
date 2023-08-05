@@ -917,6 +917,22 @@ public class MenuController {
                             }
                             break;
                         }
+                        case 3: {
+                            p.nj.ItemGiaHan.clear();
+                            for (int i = 0; i < p.nj.ItemBag.length; i++) {
+                                Item imb = p.nj.ItemBag[i];
+                                if (imb != null && imb.isExpires == true && imb.expires > 0) {
+                                    p.nj.ItemGiaHan.add(imb);
+                                }
+                            }
+                            Service.openMenuGiaHan(p);
+                            break;
+                        }
+                        case 4: {
+                            p.typemenu = 700;
+                            doMenuArray(p, new String[]{"Quà 2h", "Quà cấp 30"});
+                            break;
+                        }
                     }
                     break;
                 }
@@ -2395,6 +2411,11 @@ public class MenuController {
 
                             break;
                         }
+                        case 3: {
+                            p.indexMenuBox = 0;
+                            Service.openMenuMuaLai(p);
+                            break;
+                        }
                     }
                     break;
                 }
@@ -2854,7 +2875,7 @@ public class MenuController {
                             }
                             int a = 0;
                             for (int i = 0; i < GameScr.optionPet.length; i++) {
-                                if (util.nextInt(1,5) < 3) {
+                                if (util.nextInt(5,9) < 8) {
                                     it.option.add(new Option(GameScr.optionPet[i],util.nextInt(GameScr.paramPet[i],GameScr.paramPet[i]*70/100)));
                                     a++;
                                 }

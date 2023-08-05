@@ -111,6 +111,8 @@ public class Ninja extends Body implements TeamBattle, IGlobalBattler {
     public int masterId = 0;
     public long delayviewInfoPlayers = 0;
     public long delayVBL = 0;
+    public List<@NotNull Item> ItemMuaLai = new ArrayList<Item>();
+    public List<@NotNull Item> ItemGiaHan = new ArrayList<Item>();
 
     @Nullable
     public CandyBattle candyBattle;

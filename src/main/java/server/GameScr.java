@@ -325,8 +325,10 @@ public class GameScr {
                 } else if (p.menuCaiTrang == 2) {
                     arrItem = p.nj.ItemCaiTrang;
                     break;
-                } else if (p.menuCaiTrang == 3 || p.menuCaiTrang == 4) {
-                    arrItem = p.nj.ItemLD;
+                } else {
+                    if (p.menuCaiTrang != 3 && p.menuCaiTrang != 4) {
+                        arrItem = p.nj.ItemBox;
+                    }
                     break;
                 }
             }

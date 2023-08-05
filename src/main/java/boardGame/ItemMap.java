@@ -10,7 +10,7 @@ public class ItemMap {
     public short itemMapId;
     public long removedelay;
     public int master;
-    @NotNull
+    
     public Item item;
     public boolean visible;
     public long nextTimeRefresh;

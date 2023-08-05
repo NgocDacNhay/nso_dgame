@@ -258,7 +258,9 @@ public class Server {
                 (Server.instance = new Server()).init();
             }
             instance.daemonThread = new DaemonThread();
+            
             BXHManager.init();
+
             instance.daemonThread.addRunner(Server.updateRefreshBoss);
             instance.daemonThread.addRunner(Server.updateBattle);
             instance.daemonThread.addRunner(Server.updateServer);

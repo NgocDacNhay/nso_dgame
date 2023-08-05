@@ -820,18 +820,19 @@ public class Controller implements ISessionHandler {
                         break;
                     }
                     case 3: {
-                        player.upluong(-5000L);
-                        player.nj.setLevelBag((byte)4);
-                        player.nj.maxluggage += 24;
-                        final Item[] bag = new Item[player.nj.maxluggage];
-                        for (int j = 0; j < player.nj.ItemBag.length; ++j) {
-                            bag[j] = player.nj.ItemBag[j];
+                        Item im = player.nj.ItemMuaLai.get(player.indexMenuBox);
+                        int xu = 10000;
+                        if (im.isTypeBody()) {
+                            xu = im.id * 100;
                         }
-                        (player.nj.ItemBag = bag)[4] = null;
-                        player.openBagLevel((byte) 4);
-                        break;
-                    }
-                    default: {
+                        if (player.nj.xu < xu) {
+                            player.session.sendMessageLog("Ngươi không đủ " + xu + " xu để mua lại vật phẩm này!");
+                            return;
+                        }
+                        player.nj.addItemBag(false, im);
+                        player.nj.upXuMessage(-xu);
+                        player.nj.ItemMuaLai.remove(player.indexMenuBox);
+                        player.endLoad(true);
                         break;
                     }
                 }
