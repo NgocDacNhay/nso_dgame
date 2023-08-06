@@ -345,7 +345,7 @@ public class LogHistory {
         writeToFile2(logMessage, date);
     }
 
-    private void log4(int logPriority, String method, String message) {
+    public void log4(int logPriority, String method, String message) {
 
         // Check priority
         // Create log message from priority, time stamp, classs & message

@@ -951,12 +951,13 @@ public class GameScr {
     //        p.session.sendMessageLog("Bạn đang trong chế độ thứ thân không thể dùng được chức năng này");
     //        return;
     //    }
-        final byte index = m.reader().readByte();
-        final Item item = p.nj.getIndexBag(index);
+        byte index = m.reader().readByte();
+        m.cleanup();
+        Item item = p.nj.getIndexBag(index);
         if (item == null || item.getUpgrade() <= 0) {
             return;
         }
-        final ItemData data = ItemData.itemDefault(item.id).getData();
+        ItemData data = ItemData.itemDefault(item.id).getData();
         if (data.type >= 10 && data.type != 14) {
             return;
         }
@@ -1031,7 +1032,7 @@ public class GameScr {
             }
         }
 
-
+        
         m = new Message(22);
         m.writer().writeByte(num2);
         for (byte j = 0; j < num2; ++j) {

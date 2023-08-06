@@ -2721,7 +2721,7 @@ public class MenuController {
                                 p.session.sendMessageLog("Bạn không có đủ 500 lượng");
                                 break;
                             }
-                            final Item it = ItemData.itemDefault(396+p.nj.get().nclass);
+                            final Item it = p.nj.get().ItemBody[15];
                             if (it.getUpgrade() >= 1) {
                                 p.session.sendMessageLog("Bí kiếp đã nâng cấp không thể luyện hóa");
                                 break;
@@ -2867,7 +2867,7 @@ public class MenuController {
                                 p.session.sendMessageLog("Bạn không có đủ 1000 lượng");
                                 break;
                             }
-                            final Item it = ItemData.itemDefault(832);
+                            final Item it = p.nj.get().ItemBody[10];
                             
                             if (it.getUpgrade() >= 1) {
                                 p.session.sendMessageLog("Pet đã nâng cấp không thể luyện hóa");

@@ -835,6 +835,10 @@ public class Controller implements ISessionHandler {
                         player.endLoad(true);
                         break;
                     }
+                    case 4:{
+                        
+                        break;
+                    }
                 }
             }
         } catch (Exception e) {

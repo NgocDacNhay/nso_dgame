@@ -1748,7 +1748,7 @@ public class User extends Actor implements SendMessage {
         }
         if (item2.isExpires == false) {
             item2.quantity = num;
-            nj.ItemMuaLai.add(item2);
+            this.nj.ItemMuaLai.add(item2);
         }
         this.nj.upyen(item.sale * num);
         m = new Message(14);
@@ -2138,31 +2138,36 @@ public class User extends Actor implements SendMessage {
     public void itemBagToBox(Message m) throws IOException {
         final byte index = m.reader().readByte();
         m.cleanup();
-        final Item item = this.nj.getIndexBag(index);
-        if (item == null) {
-            return;
-        }
-        final ItemData data = ItemData.ItemDataId(item.id);
-        byte indexBox = this.nj.getIndexBoxid(item.id, item.isLock());
-        if (!item.isExpires && data.isUpToUp && indexBox != -1) {
-            this.nj.ItemBag[index] = null;
-            final Item item2 = this.nj.ItemBox[indexBox];
-            item2.quantity += item.quantity;
-        } else {
-            if (this.nj.getBoxNull() <= 0) {
-                this.session.sendMessageLog("Rương đồ không đủ chỗ trống");
-                return;
+        switch (menuCaiTrang) {
+            case 0: {
+                final Item item = this.nj.getIndexBag(index);
+                if (item == null) {
+                    return;
+                }
+                final ItemData data = ItemData.ItemDataId(item.id);
+                byte indexBox = this.nj.getIndexBoxid(item.id, item.isLock());
+                if (!item.isExpires && data.isUpToUp && indexBox != -1) {
+                    this.nj.ItemBag[index] = null;
+                    final Item item2 = this.nj.ItemBox[indexBox];
+                    item2.quantity += item.quantity;
+                } else {
+                    if (this.nj.getBoxNull() <= 0) {
+                        this.session.sendMessageLog("Rương đồ không đủ chỗ trống");
+                        return;
+                    }
+                    indexBox = this.nj.getIndexBoxNotItem();
+                    this.nj.ItemBag[index] = null;
+                    this.nj.ItemBox[indexBox] = item;
+                }
+                m = new Message(17);
+                m.writer().writeByte(index);
+                m.writer().writeByte(indexBox);
+                m.writer().flush();
+                this.sendMessage(m);
+                m.cleanup();
+                break;
             }
-            indexBox = this.nj.getIndexBoxNotItem();
-            this.nj.ItemBag[index] = null;
-            this.nj.ItemBox[indexBox] = item;
         }
-        m = new Message(17);
-        m.writer().writeByte(index);
-        m.writer().writeByte(indexBox);
-        m.writer().flush();
-        this.sendMessage(m);
-        m.cleanup();
     }
 
     public void openUI(final int typeUI) throws IOException {

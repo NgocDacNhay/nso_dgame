@@ -7,5 +7,6 @@
     "genieai.openai.organization": "org-j2NgSZpresEiLFQP5rbsd4s5",
     "genieai.openai.apiBaseUrl": "https://chat.openai.com/",
     "spring-boot.ls.problem.boot2.DOMAIN_ID_FOR_REPOSITORY": "ERROR",
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
