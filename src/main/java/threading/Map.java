@@ -95,7 +95,18 @@ public class Map extends Thread {
                 (id >=167 && id <= 168);
     }
 
-    
+    public static int idCaveMap(int id) {
+        if((id >= 114 && id <= 116) ||
+                (id >= 91 && id <= 97) ||
+                (id >= 105 && id <= 109) ||
+                (id >= 125 && id <= 128) ||
+                (id >= 157 && id <= 159) ||
+                (id >=167 && id <= 168)){
+                    return id;
+                }
+        return id;
+                
+    }
 
     public static boolean isNPCNear(Ninja ninja, short npcTemplateId) {
         Map tileMap = ninja.getPlace().map;

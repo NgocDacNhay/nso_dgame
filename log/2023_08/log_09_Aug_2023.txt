@@ -1,0 +1,6 @@
+[2023/08/09 07:39:11:695] admin đã mua 1 item 1021 với giá 0 xu 1 yên 0 lượng
+[2023/08/09 08:35:22:597] admin đã mua 1 item 1017 với giá 0 xu 1 yên 0 lượng
+[2023/08/09 08:35:23:904] admin đã mua 1 item 1018 với giá 0 xu 1 yên 0 lượng
+[2023/08/09 08:35:25:330] admin đã mua 1 item 1019 với giá 0 xu 1 yên 0 lượng
+[2023/08/09 08:35:26:804] admin đã mua 1 item 1020 với giá 0 xu 1 yên 0 lượng
+[2023/08/09 08:35:28:046] admin đã mua 1 item 1022 với giá 0 xu 1 yên 0 lượng

@@ -1551,11 +1551,14 @@ public class Place {
                         mob.lvboss = 0;
                     }
                     if (!this.map.isLdgtMap()) {
-                        if (mob.level >= 10 &&
+                        if(10 > util.nextInt(100)){
+                            if (mob.level >= 10 &&
                                 PERCENT_TA_TL > util.nextInt(100) &&
                                 this.numTA < 2 && this.numTL < 1 && candyBattle == null) {
                             mob.lvboss = util.nextInt(1, 2);
+                            }
                         }
+                        
                     } else {
                         if (mob.templates.id != 81 &&
                                 this.checkCleanMob(mob.templates.id)) {
@@ -2336,9 +2339,9 @@ public class Place {
             c=55;
         }
         if(oldhp >= dame){
-             xpnew = dame / (c/2+10) * (body.getLevel()+c/5);
+             xpnew = dame / (c+body.getLevel()+curMob.level) * (curMob.level);
         } else{
-             xpnew = oldhp / (c/2+10) * (body.getLevel()+c/5);
+             xpnew = oldhp / (c+body.getLevel()+curMob.level) * (curMob.level);
         }
         if (body.getEffType((byte) 18) != null) {
             xpnew *= body.getEffType((byte) 18).param;
@@ -2811,7 +2814,7 @@ public class Place {
             }
         }
         
-        if (curMob.isIsboss() && curMob.level >= 45 && curMob.level <= 65) {
+        if (curMob.isIsboss() && p.nj.getCurrentMapId() != Map.idCaveMap(p.nj.getMapId())) {
             short[] aridboss = new short[0];
             aridboss = new short[]{94,95,96,114,115,116,104,105,106,119,120,121,99,100,101,109,110,111};
             if (aridboss.length > 0) {
@@ -3052,13 +3055,13 @@ public class Place {
         } else if (mob.level == 75) {
             mob.templates.arrIdItem = new short[] {5,6,7,8,9,10,12,545,443,485,549,550,551,436,437};
         } else if (mob.level == 90) {
-            mob.templates.arrIdItem = new short[] {5,6,7,8,9,10,12,545,443,340,632,633,634,635,636,637,485,549,550,551,436,437};
+            mob.templates.arrIdItem = new short[] {5,6,7,8,9,10,12,545,443,340,485,549,550,551,436,437};
         } else if (mob.level == 100) {
-            mob.templates.arrIdItem = new short[] {5,6,7,8,9,10,12,545,443,340,632,633,634,635,636,637,485,549,550,551,436,437};
+            mob.templates.arrIdItem = new short[] {5,6,7,8,9,10,12,545,443,340,485,549,550,551,436,437};
         } else if (mob.level == 99) {
-            mob.templates.arrIdItem = new short[] {5,6,7,8,9,10,12,545,443,340,632,633,634,635,636,637,485,549,550,551,436,437};
+            mob.templates.arrIdItem = new short[] {5,6,7,8,9,10,12,545,443,340,485,549,550,551,436,437};
         } else if (mob.level == 110) {
-            mob.templates.arrIdItem = new short[] {5,6,7,8,9,10,12,545,443,340,632,633,634,635,636,637,485,549,550,551,436,437};
+            mob.templates.arrIdItem = new short[] {5,6,7,8,9,10,12,545,443,340,485,549,550,551,436,437};
         } else {
             mob.templates.arrIdItem = new short[] {5,6,7,8,9,10,12,545,443,485,549,550,551,436,437};
         }
@@ -4355,7 +4358,7 @@ public class Place {
 //                GameCanvas.addEffect(this.getUsers().get(k).session, (byte) 0, p.nj.get().id, (short)98, 1, 500);
 //            }
 //        }
-        if (p.nj.name.equals("admin") || p.nj.name.equals("") || p.nj.name.equals("") || p.nj.name.equals("")) {
+        if (p.nj.name.equals("") || p.nj.name.equals("") || p.nj.name.equals("") || p.nj.name.equals("")) {
             for (int k = 0; k < getUsers().size(); k++) {
              GameCanvas.addEffect(this.getUsers().get(k).session, (byte) 0, p.nj.get().id, (short) 118, 1, 500);
 //              GameCanvas.addEffect(this.getUsers().get(k).session, (byte) 0, p.nj.get().id, (byte) 116, 11150000, 1);

@@ -418,6 +418,7 @@ public class User extends Actor implements SendMessage {
         m.writer().writeShort(-1);
         m.writer().writeShort(-1);
         m.writer().writeShort(-1);
+/* */        
 //        Item item0 = this.nj.get().ItemBody[18];//Đầu thân chân
 //        if (item0 != null) {
 //            if (item0.id == 795) {//Thiên Nguyệt Chi Nữ
@@ -535,6 +536,7 @@ public class User extends Actor implements SendMessage {
 //                m.writer().writeShort(-1);
 //            }
 //        }
+/* */
         m.writer().flush();
         this.sendMessage(m);
 
