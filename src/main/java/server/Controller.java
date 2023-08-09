@@ -836,7 +836,13 @@ public class Controller implements ISessionHandler {
                         break;
                     }
                     case 4:{
-                        
+                        player.nj.removeItemBody((byte)15);
+                        player.nj.getPlace().chatNPC(player, (short)40, "Ta đã hủy bí kiếp cho ngươi.");
+                        break;
+                    }
+                    case 5:{
+                        player.nj.removeItemBody((byte)10);
+                        player.nj.getPlace().chatNPC(player, (short)40, "Ta đã hủy pet ứng long cho ngươi.");
                         break;
                     }
                 }

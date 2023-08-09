@@ -1,0 +1,13 @@
+[2023/08/07 07:27:34:361] dackimdoi đã mua 1 item 540 với giá 0 xu 0 yên 500 lượng
+[2023/08/07 07:27:35:140] dackimdoi đã mua 1 item 540 với giá 0 xu 0 yên 500 lượng
+[2023/08/07 08:01:10:814] dackimdoi1 đã mua 1 item 744 với giá 0 xu 0 yên 1000 lượng
+[2023/08/07 08:04:48:152] dackimdoi đã mua 1 item 893 với giá 0 xu 0 yên 500 lượng
+[2023/08/07 08:04:48:895] dackimdoi đã mua 1 item 893 với giá 0 xu 0 yên 500 lượng
+[2023/08/07 08:04:50:340] dackimdoi đã mua 1 item 855 với giá 0 xu 0 yên 100 lượng
+[2023/08/07 08:04:51:072] dackimdoi đã mua 1 item 855 với giá 0 xu 0 yên 100 lượng
+[2023/08/07 08:04:51:855] dackimdoi đã mua 1 item 855 với giá 0 xu 0 yên 100 lượng
+[2023/08/07 08:04:53:493] dackimdoi đã mua 1 item 893 với giá 0 xu 0 yên 500 lượng
+[2023/08/07 08:09:00:742] dackimdoi đã mua 10 item 893 với giá 0 xu 0 yên 5000 lượng
+[2023/08/07 08:31:39:409] admin đã mua 1 item 76 với giá 1000 xu 0 yên 0 lượng
+[2023/08/07 08:43:24:087] admin đã mua 1 item 280 với giá 0 xu 0 yên 10 lượng
+[2023/08/07 08:47:11:018] admin đã mua 1 item 280 với giá 0 xu 0 yên 10 lượng

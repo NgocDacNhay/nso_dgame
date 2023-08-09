@@ -329,12 +329,42 @@ public class Body implements ISoloer {
 
     public int getMaxHP() {
         int hpmax = this.getPotential(2) * 10;
-        hpmax += hpmax * (this.getPramItem(31) + this.getPramItem(61) + this.getPramSkill(17)) / 100;
-        hpmax += this.getPramItem(6);
-        hpmax += this.getPramItem(32);
-        hpmax += this.getPramItem(77);
-        hpmax += this.getPramItem(82);
-        hpmax += this.getPramItem(HP_TOI_DA_ID);
+        if(hpmax > 2000000000-hpmax * (this.getPramItem(31) + this.getPramItem(61) + this.getPramSkill(17)) / 100){
+            hpmax = 2000000000;
+        } else{
+            hpmax += hpmax * (this.getPramItem(31) + this.getPramItem(61) + this.getPramSkill(17)) / 100;
+        }
+        if(hpmax > 2000000000-this.getPramItem(6)){
+            hpmax = 2000000000;
+        } else{
+            hpmax += this.getPramItem(6);
+        }
+        if(hpmax > 2000000000-this.getPramItem(32)){
+            hpmax = 2000000000;
+        } else{
+            hpmax += this.getPramItem(32);
+        }
+        if(hpmax > 2000000000-this.getPramItem(77)){
+            hpmax = 2000000000;
+        } else{
+            hpmax += this.getPramItem(77);
+        }
+        if(hpmax > 2000000000-this.getPramItem(82)){
+            hpmax = 2000000000;
+        } else{
+            hpmax += this.getPramItem(82);
+        }
+        if(hpmax > 2000000000-this.getPramItem(HP_TOI_DA_ID)){
+            hpmax = 2000000000;
+        } else{
+            hpmax += this.getPramItem(HP_TOI_DA_ID);
+        }
+    //    hpmax += hpmax * (this.getPramItem(31) + this.getPramItem(61) + this.getPramSkill(17)) / 100;
+    //    hpmax += this.getPramItem(6);
+    //    hpmax += this.getPramItem(32);
+    //    hpmax += this.getPramItem(77);
+    //    hpmax += this.getPramItem(82);
+    //    hpmax += this.getPramItem(HP_TOI_DA_ID);
 
         if (getVeff().stream().anyMatch(v -> v.template.id == 29)) {
             hpmax += 1000;
@@ -365,12 +395,42 @@ public class Body implements ISoloer {
 
     public int getMaxMP() {
         int mpmax = this.getPotential(3) * 10;
-        mpmax += mpmax * (this.getPramItem(28) + this.getPramItem(60) + this.getPramSkill(18)) / 100;
-        mpmax += this.getPramItem(7);
-        mpmax += this.getPramItem(19);
-        mpmax += this.getPramItem(29);
-        mpmax += this.getPramItem(83);
-        mpmax += this.getPramItem(117);
+        if(mpmax > 2000000000-mpmax * (this.getPramItem(28) + this.getPramItem(60) + this.getPramSkill(18)) / 100){
+            mpmax = 2000000000;
+        } else{
+            mpmax += mpmax * (this.getPramItem(28) + this.getPramItem(60) + this.getPramSkill(18)) / 100;
+        }
+        if(mpmax > 2000000000-this.getPramItem(7)){
+            mpmax = 2000000000;
+        } else{
+            mpmax += this.getPramItem(7);
+        }
+        if(mpmax > 2000000000-this.getPramItem(19)){
+            mpmax = 2000000000;
+        } else{
+            mpmax += this.getPramItem(19);
+        }
+        if(mpmax > 2000000000-this.getPramItem(29)){
+            mpmax = 2000000000;
+        } else{
+            mpmax += this.getPramItem(29);
+        }
+        if(mpmax > 2000000000-this.getPramItem(83)){
+            mpmax = 2000000000;
+        } else{
+            mpmax += this.getPramItem(83);
+        }
+        if(mpmax > 2000000000-this.getPramItem(117)){
+            mpmax = 2000000000;
+        } else{
+            mpmax += this.getPramItem(117);
+        }
+    //    mpmax += mpmax * (this.getPramItem(28) + this.getPramItem(60) + this.getPramSkill(18)) / 100;
+    //    mpmax += this.getPramItem(7);
+    //    mpmax += this.getPramItem(19);
+    //    mpmax += this.getPramItem(29);
+    //    mpmax += this.getPramItem(83);
+    //    mpmax += this.getPramItem(117);
         if (this.mp > mpmax) {
             this.mp = mpmax;
         }
@@ -482,11 +542,36 @@ public class Body implements ISoloer {
 
     public int dameMax() {
         int dame = this.dameSide();
-        dame += this.dameSys();
-        dame += this.getPramItem(73);
-        dame += this.getPramItem(76);
-        dame += this.getPramItem(87);
-        dame += this.getPramItem(113);
+        if(dame > 2000000000-this.dameSys()){
+            dame = 2000000000;
+        } else{
+            dame += this.dameSys();
+        }
+        if(dame > 2000000000-this.getPramItem(73)){
+            dame = 2000000000;
+        } else{
+            dame += this.getPramItem(73);
+        }
+        if(dame > 2000000000-this.getPramItem(76)){
+            dame = 2000000000;
+        } else{
+            dame += this.getPramItem(76);
+        }
+        if(dame > 2000000000-this.getPramItem(87)){
+            dame = 2000000000;
+        } else{
+            dame += this.getPramItem(87);
+        }
+        if(dame > 2000000000-this.getPramItem(113)){
+            dame = 2000000000;
+        } else{
+            dame += this.getPramItem(113);
+        }
+    //    dame += this.dameSys();
+    //    dame += this.getPramItem(73);
+    //    dame += this.getPramItem(76);
+    //    dame += this.getPramItem(87);
+    //    dame += this.getPramItem(113);
 
         if (dame < 0) {
             dame = 0;

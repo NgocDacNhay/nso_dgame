@@ -2786,8 +2786,11 @@ public class MenuController {
                             break;
                         }
                         case 3: {
-                            p.nj.removeItemBody((byte)15);
-                            p.nj.getPlace().chatNPC(p, (short)40, "Ta đã hủy bí kiếp cho ngươi.");
+                            if(p.nj.get().ItemBody[15] == null){
+                                p.nj.getPlace().chatNPC(p, (short)40, "Bí kíp không có đòi hủy?");
+                                break;
+                            }
+                            Service.startYesNoDlg(p, (byte) 4, "Con có chắc chắn muốn huỷ bí kíp không?");
                             break;
                         }
                         case 4: {
@@ -2937,9 +2940,16 @@ public class MenuController {
                             break;
                         }
                         case 3: {
-                            p.nj.getPlace().chatNPC(p, (short)42, "Chức Năng Huỷ Pét Đã Xoá !.");
-//                            p.nj.removeItemBody((byte)10);
-//                            p.nj.getPlace().chatNPC(p, (short)42, "Ta đã hủy Pet cho ngươi.");
+                           
+                            if(p.nj.get().ItemBody[10] == null){
+                                p.session.sendMessageLog("Pet không có đòi hủy?");
+                                break;
+                            }
+                            if (p.nj.get().ItemBody[10].id != 832) {
+                                p.session.sendMessageLog("Bạn phải đeo Pét Ứng Long");
+                                break;
+                            }
+                            Service.startYesNoDlg(p, (byte) 5, "Con có chắc chắn muốn huỷ Pet ứng long không?");
                             break;
                         }
                         case 4: {
