@@ -946,106 +946,85 @@ public class GameScr {
         m.cleanup();
     }
 
-    public synchronized static void Split(final User p, Message m) throws IOException {
-    //    if (p.nj.isNhanban) {
-    //        p.session.sendMessageLog("Bạn đang trong chế độ thứ thân không thể dùng được chức năng này");
-    //        return;
-    //    }
-        byte index = m.reader().readByte();
-        m.cleanup();
-        Item item = p.nj.getIndexBag(index);
-        if (item == null || item.getUpgrade() <= 0) {
-            return;
-        }
-        ItemData data = ItemData.itemDefault(item.id).getData();
-        if (data.type >= 10 && data.type != 14) {
-            return;
-        }
-        int num = 0;
-        if (data.type == 1) {
-            for (byte i = 0; i < item.getUpgrade(); ++i) {
-                num += GameScr.upWeapon[i];
-            }
-        } else if (data.type % 2 == 0 && data.type != 14) {
-            for (byte i = 0; i < item.getUpgrade(); ++i) {
-                num += GameScr.upClothe[i];
-            }
-        } else if (data.type == 14) {
-            num = item.getUpgrade() * 6;
-        } else {
-            for (byte i = 0; i < item.getUpgrade(); ++i) {
-                num += GameScr.upAdorn[i];
-            }
-        }
-
-        num /= 2;
-        int num2 = 0;
-        final Item[] arrItem = new Item[24];
-        int[] arrIndex = null;
-
+    public static void Split(User p, Message m) {
         try {
-            if (data.type != 14) {
-                for (int n = GameScr.crystals.length - 1; n >= 0; --n) {
-                    if (num >= GameScr.crystals[n]) {
-                        arrItem[num2] = new Item();
-                        arrItem[num2].id = (short) n;
-                        arrItem[num2].setLock(item.isLock());
-                        num -= GameScr.crystals[n];
-                        ++n;
-                        ++num2;
-                    }
+            
+            byte index = m.reader().readByte();
+            m.cleanup();
+            Item item = p.nj.getIndexBag(index);
+            if (item == null || item.upgrade <= 0) {
+                return;
+            }
+            ItemData data = ItemData.ItemDataId(item.id);
+            if (data.type > 10) {
+                p.sendYellowMessage("Không thể phân tách vật phẩm này");
+                return;
+            }
+            int num = 0;
+            if (data.type == 1) {
+                for (byte i = 0; i < item.upgrade; ++i) {
+                    num += GameScr.upWeapon[i];
                 }
-            } else {
-
-                if (num >= 24) {
-                    num = 24;
+            }
+            else if (data.type % 2 == 0) {
+                for (byte i = 0; i < item.upgrade; ++i) {
+                    num += GameScr.upClothe[i];
                 }
-                for (int i = 0; i < num; i++) {
-                    arrItem[i] = ItemData.itemDefault(item.id + 10);
+            }
+            else {
+                for (byte i = 0; i < item.upgrade; ++i) {
+                    num += GameScr.upAdorn[i];
+                }
+            }
+            num /= 2;
+            int num2 = 0;
+            Item[] arrItem = new Item[24];
+            for (int n = GameScr.crystals.length - 1; n >= 0; --n) {
+                if (num >= GameScr.crystals[n]) {
+                    arrItem[num2] = new Item();
+                    arrItem[num2].id = (short)n;
+                    arrItem[num2].isLock = item.isLock;
+                    num -= GameScr.crystals[n];
+                    n++;
+                    num2++;
                 }
             }
             if (num2 > p.nj.getAvailableBag()) {
-                p.session.sendMessageLog("Hành trang không đủ chỗ trống");
+                p.sendYellowMessage("Hành trang không đủ chỗ trống");
                 return;
             }
-            arrIndex = new int[arrItem.length];
+            byte[] arrIndex = new byte[arrItem.length];
             for (byte j = 0; j < arrItem.length; ++j) {
                 if (arrItem[j] != null) {
-                    final int index2 = p.nj.getIndexBagNotItem();
+                    byte index2 = (byte) p.nj.getIndexBagNotItem();
                     p.nj.ItemBag[index2] = arrItem[j];
                     arrIndex[j] = index2;
                 }
             }
-        } finally {
-            if (data.type == 14) {
-                if (item.getUpgrade() != 0) {
-                    val itemX = ItemData.itemDefault(685);
-                    itemX.setUpgrade(0);
-                    itemX.setLock(true);
-                    p.nj.ItemBag[index] = itemX;
-                    for (Option option : itemX.option) {
-                        option.param = 0;
-                    }
+            item.upgradeNext((byte)(-item.upgrade));
+            m = new Message(22);
+            m.writer().writeByte(num2);
+            for (byte j = 0; j < num2; ++j) {
+                if (arrItem[j] != null) {
+                    m.writer().writeByte(arrIndex[j]);
+                    m.writer().writeShort(arrItem[j].id);
                 }
-            } else {
-                item.upgradeNext((byte) (-item.getUpgrade()));
+            }
+            m.writer().flush();
+            p.nj.sendMessage(m);
+            m.cleanup();
+        } catch (Exception e) {
+            e.printStackTrace();
+        } finally {
+            if(m != null) {
+                m.cleanup();
             }
         }
+    }
+        
 
         
-        m = new Message(22);
-        m.writer().writeByte(num2);
-        for (byte j = 0; j < num2; ++j) {
-            if (arrItem[j] != null) {
-                m.writer().writeByte(arrIndex[j]);
-                m.writer().writeShort(arrItem[j].id);
-            }
-        }
-        m.writer().flush();
-        p.sendMessage(m);
-        m.cleanup();
-        p.sendInfo(false);
-    }
+        
 
     public static void LuckValue(final User p, Message m) throws IOException {
         if (p.nj.getLevel() < 20) {

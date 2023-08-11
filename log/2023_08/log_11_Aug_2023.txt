@@ -1,0 +1,3 @@
+[2023/08/11 08:35:23:676] dackimdoi1 đã mua 1000 item 434 với giá 0 xu 10000 yên 0 lượng
+[2023/08/11 08:43:12:203] dackimdoi1 đã mua 10 item 248 với giá 0 xu 0 yên 50 lượng
+[2023/08/11 09:10:13:066] dackimdoi đã mua 1 item 796 với giá 0 xu 1 yên 0 lượng

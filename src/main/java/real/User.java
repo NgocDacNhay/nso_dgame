@@ -3501,6 +3501,20 @@ public class User extends Actor implements SendMessage {
         m.cleanup();
     }
 
+    public Item[] ItemBag = null;
+    public byte getIndexBagNotItem() {
+        byte i;
+        Item item;
+        for(i = 0; i < this.ItemBag.length; ++i) {
+            item = this.ItemBag[i];
+            if (item == null) {
+                return i;
+            }
+        }
+
+        return -1;
+    }
+
     public boolean dungThucan(final byte id, final int param, final int thoigian) {
         final Effect eff = this.nj.get().getEffType((byte) 0);
         if (this.nj.get().pk > 14) {

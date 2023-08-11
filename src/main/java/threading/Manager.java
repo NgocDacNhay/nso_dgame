@@ -102,6 +102,7 @@ public class Manager {
     public static SkillOptionTemplates[] sOptionTemplates;
     public static NpcTemplate[] npcs;
     public static ArrayList<Part> parts;
+    public static int typeShop;
 
 
     /**
@@ -742,6 +743,7 @@ public class Manager {
                     final ItemSell sell = new ItemSell();
                     sell.id = Integer.parseInt(res.getString("id"));
                     sell.type = Byte.parseByte(res.getString("type"));
+                    typeShop = Integer.parseInt(res.getString("type"));
                     final JSONArray jar3 = (JSONArray) JSONValue.parse(res.getString("ListItem"));
                     if (jar3 != null) {
                         sell.item = new Item[jar3.size()];

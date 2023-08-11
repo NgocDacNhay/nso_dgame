@@ -4,8 +4,13 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.val;
+
+import org.apache.tools.ant.taskdefs.email.Message;
 import org.jetbrains.annotations.NotNull;
+
+import server.GameScr;
 import server.util;
+import threading.Manager;
 
 import java.io.Serializable;
 import java.util.ArrayList;
@@ -14,7 +19,7 @@ import java.util.List;
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class Item implements Serializable {
     @JsonProperty(required = true, value = "isLock")
-     boolean isLock;
+    public boolean isLock;
     public int sale;
     public int quantity;
     public byte upgrade;
@@ -139,7 +144,9 @@ public class Item implements Serializable {
 
     @JsonIgnore
     public int getOptionShopMin(final int opid, final int param) {
-        if (opid == 0 || opid == 1 || opid == 21 || opid == 22 || opid == 23 || opid == 24 || opid == 25 || opid == 26) {
+        
+        
+            if (opid == 0 || opid == 1 || opid == 21 || opid == 22 || opid == 23 || opid == 24 || opid == 25 || opid == 26) {
             return param - 50 + 1;
         }
         if (opid == 6 || opid == 7 || opid == 8 || opid == 9 || opid == 19) {
@@ -151,6 +158,8 @@ public class Item implements Serializable {
         if (opid == 16) {
             return param - 3 + 1;
         }
+        
+        
         return param;
     }
 
