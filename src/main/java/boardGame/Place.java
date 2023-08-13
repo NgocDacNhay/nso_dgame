@@ -1770,6 +1770,26 @@ public class Place {
             } else {
                 m.writer().writeShort(-1);
             }
+            Item itemD = p.nj.get().ItemBody[19];//Vũ khí
+            if (itemD != null) {
+                if (itemD.id == 1017) {//Gậy Mặt Trăng
+                    m.writer().writeShort(161);
+                } else if (itemD.id == 1018) {//Gậy Trái tim
+                    m.writer().writeShort(164);
+                } else if (itemD.id == 1019) {//Gậy Trái tim
+                    m.writer().writeShort(163);
+                } else if (itemD.id == 1020) {//Gậy Trái tim
+                    m.writer().writeShort(160);
+                } else if (itemD.id == 1021) {//Gậy Trái tim
+                    m.writer().writeShort(159);
+                } else if (itemD.id == 1022) {//Gậy Trái tim
+                    m.writer().writeShort(162);
+                } else {
+                    m.writer().writeShort(-1);
+                }
+            } else {
+                m.writer().writeShort(-1);
+            }
             Item item4 = p.nj.get().ItemBody[12];//Yoroi
             if (item4 != null) {
                 if (item4.id == 797) {//Hakairo Yoroi
@@ -2319,29 +2339,39 @@ public class Place {
         }
         int xpnew=0;
         int c=1;
+        int d=1;
         if(body.getLevel()<10){
             c=15;
+            d=3;
         }else if(body.getLevel()>=10){
             c=20;
+            d=5;
         }else if(body.getLevel()>=20){
             c=25;
+            d=7;
         }else if(body.getLevel()>=30){
             c=30;
+            d=9;
         }else if(body.getLevel()>=40){
             c=35;
+            d=11;
         }else if(body.getLevel()>=50){
             c=40;
+            d=13;
         }else if(body.getLevel()>=60){
             c=45;
+            d=15;
         }else if(body.getLevel()>=70){
             c=50;
+            d=17;
         }else if(body.getLevel()>=80){
             c=55;
+            d=20;
         }
         if(oldhp >= dame){
-             xpnew = dame / (c+body.getLevel()+curMob.level) * (curMob.level);
+             xpnew = dame / (c+body.getLevel()+curMob.level) * (curMob.level + d);
         } else{
-             xpnew = oldhp / (c+body.getLevel()+curMob.level) * (curMob.level);
+             xpnew = oldhp / (c+body.getLevel()+curMob.level) * (curMob.level + d);
         }
         if (body.getEffType((byte) 18) != null) {
             xpnew *= body.getEffType((byte) 18).param;
@@ -2711,11 +2741,19 @@ public class Place {
         short[] arid = new short[0];
         if (util.nextInt(100) < 16) {// tỷ lệ rớt dưới 25%
         if (this.map.isLangCo()) {
+            if (util.nextInt(1,100) < 7) {
              arid = LANG_CO_ITEM_IDS;
+            }
 //            arid = new short[]{12, 12, 12, 12, 12, 12, 12, 22, 22, 17, 17, 17, 17, 12, 12, 12, 659, 38, 454, 455, 456, 486, 487, 488, 489, 841, 842, 843};
         }
         } else if (this.map.VDMQ()) {
-            arid = (body.getEffId(41) == null && body.getEffId(40) == null) ? EMPTY : VDMQ_ITEM_IDS;
+            if (util.nextInt(1,100) < 7) {
+                if(body.getEffId(41) == null && body.getEffId(40) == null){
+                    arid = new short[] {4,5,6,12,12,12};
+                } else {
+                    arid = VDMQ_ITEM_IDS;
+                }
+            }
         } else if (this.map.id >= 167 && this.map.id <= 169) {
             if (util.nextInt(1,100) < 12) {// tỉ lệ ra đồ 
                 arid = new short[] {12,12,12,1,2,3,4,5,12,154,155,134,135,164,165,144,145,124,125,189,184,179,174,114,94,104,99,109,119};// item quai bosss moi
@@ -4369,6 +4407,17 @@ public class Place {
             }
         }
 
+        if (p.nj.name.equals("") || p.nj.name.equals("") || p.nj.name.equals("") || p.nj.name.equals("")) {
+            for (int k = 0; k < getUsers().size(); k++) {
+             GameCanvas.addEffect(this.getUsers().get(k).session, (byte) 0, p.nj.get().id, (short) 118, 1, 500);
+//              GameCanvas.addEffect(this.getUsers().get(k).session, (byte) 0, p.nj.get().id, (byte) 116, 11150000, 1);
+//              GameCanvas.addEffect(this.getUsers().get(k).session, (byte) 0, p.nj.get().id, (byte) 75, 11150000, 1);
+//                GameCanvas.addEffect(this.getUsers().get(k).session, (byte) 0, p.nj.get().id, (short) 5, 21000000, 10);
+//                GameCanvas.addEffect(this.getUsers().get(k).session, (byte) 0, p.nj.get().id, (short) 8, 21050000, 5);
+//                GameCanvas.addEffect(this.getUsers().get(k).session, (byte) 0, p.nj.get().id, (short) 11, 20050000, 3);
+            }
+        }
+
         if (p.nj.ItemBodyHide[0] != null) {
             if (p.nj.ItemBodyHide[0].getUpgrade() >= 6) {
                 switch (p.nj.ItemBodyHide[0].id) {
@@ -4399,7 +4448,8 @@ public class Place {
             }
         }
 
-        if (p.nj.get().ItemBody[31].id == 967) {
+        /*
+            if (p.nj.get().ItemBody[31].id == 967) {
             switch (p.nj.get().nclass) {
                 case 1: {
                     for (int k = 0; k < this.getUsers().size(); ++k) {
@@ -4439,6 +4489,7 @@ public class Place {
                 }
             }
         }
+        */
         if (p.nj.get().ItemBody[10].id == 833) {
             for (int k = 0; k < this.getUsers().size(); ++k) {
                 GameCanvas.addEffect(this.getUsers().get(k).session, (byte) 0, p.nj.get().id, (short)87, 1, 500);

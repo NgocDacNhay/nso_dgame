@@ -84,7 +84,7 @@ public class useItem {
             }
             item.setLock(true);
             Item itemb = null;
-            if (item.id == 795 || item.id == 796 || item.id == 799 || item.id == 800 || item.id == 804 || item.id == 805 || item.id == 813 || item.id == 814 || item.id == 815 || item.id == 816 || item.id == 817 || item.id == 825 || item.id == 826 || item.id == 830 || item.id == 967 || (item.id >= 958 && item.id <= 965)) {
+            if ((item.id >= 1017 && item.id <= 1022) || item.id == 795 || item.id == 796 || item.id == 799 || item.id == 800 || item.id == 804 || item.id == 805 || item.id == 813 || item.id == 814 || item.id == 815 || item.id == 816 || item.id == 817 || item.id == 825 || item.id == 826 || item.id == 830 || item.id == 967 || (item.id >= 958 && item.id <= 965)) {
                 itemb = p.nj.get().ItemBody[data.type+16];
                 p.nj.ItemBag[index] = itemb;
                 p.nj.get().ItemBody[data.type+16] = item;

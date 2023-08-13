@@ -195,6 +195,26 @@ public class Service {
             } else {
                 m.writer().writeShort(-1);
             }
+            Item itemD = p.nj.clone.ItemBody[19];//Vũ khí
+            if (itemD != null) {
+                if (itemD.id == 1017) {//Gậy Mặt Trăng
+                    m.writer().writeShort(161);
+                } else if (itemD.id == 1018) {//Gậy Trái tim
+                    m.writer().writeShort(164);
+                } else if (itemD.id == 1019) {//Gậy Trái tim
+                    m.writer().writeShort(163);
+                } else if (itemD.id == 1020) {//Gậy Trái tim
+                    m.writer().writeShort(160);
+                } else if (itemD.id == 1021) {//Gậy Trái tim
+                    m.writer().writeShort(159);
+                } else if (itemD.id == 1022) {//Gậy Trái tim
+                    m.writer().writeShort(162);
+                } else {
+                    m.writer().writeShort(-1);
+                }
+            } else {
+                m.writer().writeShort(-1);
+            }
             Item item4 = p.nj.clone.ItemBody[12];//Yoroi
             if (item4 != null) {
                 if (item4.id == 797) {//Hakairo Yoroi
@@ -508,6 +528,26 @@ public class Service {
                     msg.writer().writeShort(44);
                 } else if (item3.id == 800) {//Gậy Trái tim
                     msg.writer().writeShort(46);
+                } else {
+                    msg.writer().writeShort(-1);
+                }
+            } else {
+                msg.writer().writeShort(-1);
+            }
+            Item itemD = c.get().ItemBody[19];//Vũ khí
+            if (itemD != null) {
+                if (itemD.id == 1017) {//Gậy Mặt Trăng
+                    msg.writer().writeShort(161);
+                } else if (itemD.id == 1018) {//Gậy Trái tim
+                    msg.writer().writeShort(164);
+                } else if (itemD.id == 1019) {//Gậy Trái tim
+                    msg.writer().writeShort(163);
+                } else if (itemD.id == 1020) {//Gậy Trái tim
+                    msg.writer().writeShort(160);
+                } else if (itemD.id == 1021) {//Gậy Trái tim
+                    msg.writer().writeShort(159);
+                } else if (itemD.id == 1022) {//Gậy Trái tim
+                    msg.writer().writeShort(162);
                 } else {
                     msg.writer().writeShort(-1);
                 }

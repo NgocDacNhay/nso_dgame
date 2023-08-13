@@ -149,6 +149,9 @@ public class User extends Actor implements SendMessage {
 
     public static User login(final Session conn, final String user, final String pass) {
         final User[] u = new User[]{null};
+        
+        
+
         val query = "SELECT * FROM `player` WHERE (`username`LIKE'" + user + "' AND `password`LIKE'" + pass + "');";
         SQLManager.executeQuery(query, (red) -> {
             if (red != null && red.first()) {
