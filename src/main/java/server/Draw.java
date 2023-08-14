@@ -77,7 +77,7 @@ public class Draw
                 p.passnew = "";
                 p.passold = str;
                 p.changePassword();
-                Draw.server.menu.sendWrite(p, (short)52, "Nhập mật khẩu mới");
+                Draw.server.menu.sendWrite(p.nj, (short)52, "Nhập mật khẩu mới");
                 break;
             }
             case 52: {
@@ -89,7 +89,7 @@ public class Draw
                 p.nameUS = str;
                 Ninja n = PlayerManager.getInstance().getNinja(str);
                 if (n != null) {
-                    server.menu.sendWrite(p, (short) 54, "Nhập ID vật phẩm");
+                    server.menu.sendWrite(p.nj, (short) 54, "Nhập ID vật phẩm");
                 } else {
                     p.sendYellowMessage("Nhập sai tên");
                 }

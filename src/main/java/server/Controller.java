@@ -518,7 +518,7 @@ public class Controller implements ISessionHandler {
                     }
                     int FEE = 5_000;
                     int FEE_GOLD = 1;
-                    if (item != null && p.nj.xu >= FEE && p.luong >= FEE_GOLD) {
+                    if (item != null && p.nj.xu >= FEE && p.nj.luong >= FEE_GOLD) {
                         int dem = 0;
                         for (int i = -2; i <= 11; i++) {
                             dem += itemShinwaManager.items.get(i).size();

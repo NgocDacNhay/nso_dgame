@@ -40,7 +40,7 @@ public class MessageSubCommand {
         val m = Service.messageSubCommand2(5);
         m.writer().writeInt(ninja.xu);
         m.writer().writeInt(ninja.yen);
-        m.writer().writeInt(ninja.p.luong);
+        m.writer().writeInt(ninja.p.nj.luong);
         m.writer().writeInt(ninja.hp);
         m.writer().writeInt(ninja.mp);
         m.writer().writeByte(1);

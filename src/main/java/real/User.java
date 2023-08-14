@@ -116,14 +116,14 @@ public class User extends Actor implements SendMessage {
         } else if (x > 0) {
             LogHistory.log4("Upluong: " + this.nj.name + " tang " + x + " luong");
         }
-        final long luongnew = this.luong + x;
+        final long luongnew = this.nj.luong + x;
         if (luongnew > 2000000000L) {
-            x = 2000000000 - this.luong;
+            x = 2000000000 - this.nj.luong;
         } else if (luongnew < -2000000000L) {
-            x = -2000000000 - this.luong;
+            x = -2000000000 - this.nj.luong;
         }
-        this.luong += (int) x;
-        if (this.luong < 0) {
+        this.nj.luong += (int) x;
+        if (this.nj.luong < 0) {
             try {
                 SQLManager.executeUpdate("UPDATE player SET `status` = 'lock' WHERE `username`='" + username + "' LIMIT 1");
                 this.session.disconnect();
@@ -157,7 +157,7 @@ public class User extends Actor implements SendMessage {
             if (red != null && red.first()) {
                 final int iddb = red.getInt("id");
                 final String username = red.getString("username");
-                final int luong = red.getInt("luong");
+            //    final int luong = red.getInt("luong");
                 final byte lock = red.getByte("lock");
                 final String status = red.getString("status");
                 final int coin = red.getInt("coin");
@@ -213,7 +213,7 @@ public class User extends Actor implements SendMessage {
                 p.session = conn;
                 p.id = iddb;
                 p.username = username;
-                p.luong = luong;
+            //    p.luong = luong;
                 p.passold = pass;
                 p.coin = coin;
                 p.ddhn = ddhn;
@@ -389,7 +389,7 @@ public class User extends Actor implements SendMessage {
         }
         m.writer().writeInt(this.nj.xu);
         m.writer().writeInt(this.nj.yen);
-        m.writer().writeInt(this.luong);
+        m.writer().writeInt(this.nj.luong);
         m.writer().writeByte(this.nj.maxluggage);
         for (int j = 0; j < this.nj.maxluggage; ++j) {
             final Item item = this.nj.ItemBag[j];
@@ -1640,7 +1640,7 @@ public class User extends Actor implements SendMessage {
         try {
             final Message m = new Message(-30);
             m.writer().writeByte(-72);
-            m.writer().writeInt(this.luong);
+            m.writer().writeInt(this.nj.luong);
             m.writer().flush();
             this.sendMessage(m);
             m.cleanup();
@@ -1666,7 +1666,7 @@ public class User extends Actor implements SendMessage {
         upluong(-luong);
         final Message m = new Message(-30);
         m.writer().writeByte(56 - 128);
-        m.writer().writeInt(this.luong);
+        m.writer().writeInt(this.nj.luong);
         m.writer().flush();
         this.sendMessage(m);
         m.cleanup();
@@ -1706,12 +1706,12 @@ public class User extends Actor implements SendMessage {
     private synchronized void setMoney(final int sxu, final int syen, final int sluong) {
         this.nj.xu = sxu;
         this.nj.yen = syen;
-        this.luong = sluong;
+        this.nj.luong = sluong;
         try {
             final Message m = new Message(13);
             m.writer().writeInt(this.nj.xu);
             m.writer().writeInt(this.nj.yen);
-            m.writer().writeInt(this.luong);
+            m.writer().writeInt(this.nj.luong);
             m.writer().flush();
             this.sendMessage(m);
             m.cleanup();
@@ -1980,7 +1980,7 @@ public class User extends Actor implements SendMessage {
                                             }
                                             p.nj.upxuMessage(-5000000L);
                                         } else {
-                                            if (p.luong < 500) {
+                                            if (p.nj.luong < 500) {
                                                 p.session.sendMessageLog("Không đủ lượng");
                                                 break;
                                             }
@@ -3017,8 +3017,8 @@ public class User extends Actor implements SendMessage {
                     jarr.add(this.sortNinja[j]);
                 }
             }
-
-            SQLManager.executeUpdate("UPDATE `player` SET `luong`=" + this.luong + ",`ninja`='" + jarr.toJSONString() + "' WHERE `id`=" + this.id + " LIMIT 1;");
+            SQLManager.executeUpdate("UPDATE `player` SET `ninja`='" + jarr.toJSONString() + "' WHERE `id`=" + this.id + " LIMIT 1;");
+            SQLManager.executeUpdate("UPDATE `ninja` SET `luong`=" + this.nj.luong + " WHERE `id`=" + this.nj.id + " LIMIT 1;");
             SQLManager.executeUpdate("UPDATE `player` SET `clanTerritoryId`=" + this.getClanTerritoryId() + " WHERE `id`=" + this.id + " LIMIT 1;");
             SQLManager.executeUpdate("UPDATE `player` SET `ddhn`=" + this.ddhn + " WHERE `id`=" + this.id + " LIMIT 1;");
 
@@ -4157,7 +4157,7 @@ public class User extends Actor implements SendMessage {
     }
 
     public void exchangeLuongXu(long luong) throws IOException {
-        if (luong > this.luong) {
+        if (luong > this.nj.luong) {
             this.nj.getPlace().chatNPC(this, (short)24, "Bạn không có đủ lượng");
             return;
         }
@@ -4166,7 +4166,7 @@ public class User extends Actor implements SendMessage {
     }
 
     public void exchangeLuongYen(long luong) throws IOException {
-        if (luong > this.luong) {
+        if (luong > this.nj.luong) {
             this.nj.getPlace().chatNPC(this, (short)24, "Bạn không có đủ lượng");
             return;
         }
@@ -4267,8 +4267,8 @@ public class User extends Actor implements SendMessage {
                 itemId5 = checkGift.getShort("itemId5");
                 itemQuantity5 = checkGift.getInt("itemQuantity5");
 
-                if (userEntered.contains(username)) {
-                    session.sendMessageLog("Mỗi tài khoản chỉ được nhập mã quà tặng này 1 lần");
+                if (userEntered.contains(nj.name)) {
+                    session.sendMessageLog("Mỗi nhân vật chỉ được nhập mã quà tặng này 1 lần");
                     return;
                 }
 
@@ -4277,7 +4277,7 @@ public class User extends Actor implements SendMessage {
                     return;
                 }
                 luotnhap += 1;
-                userEntered += username + ", ";
+                userEntered += nj.name + ", ";
 
                 if (xu != 0) {
                     nj.upxuMessage(xu);
@@ -4377,7 +4377,7 @@ public class User extends Actor implements SendMessage {
         }
     }
     public void chanLuong(long luong) throws IOException {
-        if (luong > this.luong) {
+        if (luong > this.nj.luong) {
             this.nj.getPlace().chatNPC(this, (short)41, "Bạn không có đủ lượng");
             return;
         }
@@ -4391,7 +4391,7 @@ public class User extends Actor implements SendMessage {
         }
     }
     public void leLuong(long luong) throws IOException {
-        if (luong > this.luong) {
+        if (luong > this.nj.luong) {
             this.nj.getPlace().chatNPC(this, (short)41, "Bạn không có đủ lượng");
             return;
         }

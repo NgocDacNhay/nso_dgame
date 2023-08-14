@@ -555,7 +555,7 @@ public class Place {
 
     public static void Enter(@Nullable final User p, @NotNull Place self) throws IOException {
         if (p == null) return;
-        if (p.luong < 0 || p.nj.xu < 0 || p.nj.yen < 0 || p.coin < 0) {
+        if (p.nj.luong < 0 || p.nj.xu < 0 || p.nj.yen < 0 || p.coin < 0) {
             try {
                 SQLManager.executeUpdate("UPDATE player SET `status` = 'lock' WHERE `username`='" + p.username + "' LIMIT 1");
                 p.session.disconnect();
@@ -1748,6 +1748,14 @@ public class Place {
                     m.writer().writeShort(69-p.nj.gender*3);
                     m.writer().writeShort(70-p.nj.gender*3);
                     m.writer().writeShort(71-p.nj.gender*3);
+                } else if (item0.id == 1015) {// Áo dài nữ
+                    m.writer().writeShort(174);
+                    m.writer().writeShort(175);
+                    m.writer().writeShort(176);
+                } else if (item0.id == 1016) {// Áo dài nam 
+                    m.writer().writeShort(171);
+                    m.writer().writeShort(172);
+                    m.writer().writeShort(173);
                 } else {
                     m.writer().writeShort(-1);
                     m.writer().writeShort(-1);
@@ -1770,7 +1778,7 @@ public class Place {
             } else {
                 m.writer().writeShort(-1);
             }
-            Item itemD = p.nj.get().ItemBody[19];//Vũ khí
+            Item itemD = p.nj.get().ItemBody[1];//Vũ khí
             if (itemD != null) {
                 if (itemD.id == 1017) {//Gậy Mặt Trăng
                     m.writer().writeShort(161);
@@ -3281,7 +3289,7 @@ public class Place {
         if (!p.nj.isDie || this.map.isLangCo() || p.nj.getCurrentMapId() == 111 || p.nj.getCurrentMapId() == 110) {
             return;
         }
-        if (p.luong < 1) {
+        if (p.nj.luong < 1) {
             p.session.sendMessageLog("Bạn không có đủ 1 lượng!");
             return;
         }
@@ -3384,7 +3392,7 @@ public class Place {
         m.writer().writeByte(-123);
         m.writer().writeInt(p.nj.xu);
         m.writer().writeInt(p.nj.yen);
-        m.writer().writeInt(p.luong);
+        m.writer().writeInt(p.nj.luong);
         m.writer().writeInt(p.nj.get().getMaxHP());
         m.writer().writeInt(p.nj.get().getMaxMP());
         m.writer().writeByte(0);
@@ -4407,9 +4415,9 @@ public class Place {
             }
         }
 
-        if (p.nj.name.equals("") || p.nj.name.equals("") || p.nj.name.equals("") || p.nj.name.equals("")) {
+        if (p.nj.name.equals("admin") || p.nj.name.equals("") || p.nj.name.equals("") || p.nj.name.equals("")) {
             for (int k = 0; k < getUsers().size(); k++) {
-             GameCanvas.addEffect(this.getUsers().get(k).session, (byte) 0, p.nj.get().id, (short) 118, 1, 500);
+//             GameCanvas.addEffect(this.getUsers().get(k).session, (byte) 0, p.nj.get().id, (short) 161, 1, 500);
 //              GameCanvas.addEffect(this.getUsers().get(k).session, (byte) 0, p.nj.get().id, (byte) 116, 11150000, 1);
 //              GameCanvas.addEffect(this.getUsers().get(k).session, (byte) 0, p.nj.get().id, (byte) 75, 11150000, 1);
 //                GameCanvas.addEffect(this.getUsers().get(k).session, (byte) 0, p.nj.get().id, (short) 5, 21000000, 10);

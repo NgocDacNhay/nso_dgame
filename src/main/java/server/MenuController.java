@@ -167,11 +167,11 @@ public class MenuController {
                                     p.nj.getPlace().chatNPC(p, (short) npcId, "Hiện tại con đã có gia tộc không thể thành lập thêm được nữa.");
                                     break label;
                                 }
-                                if (p.luong < ClanManager.LUONG_CREATE_CLAN) {
+                                if (p.nj.luong < ClanManager.LUONG_CREATE_CLAN) {
                                     p.nj.getPlace().chatNPC(p, (short) npcId, "Để thành lập gia tộc con cần phải có đủ 20.000 lượng trong người.");
                                     break label;
                                 }
-                                this.sendWrite(p, (short) 50, "Tên gia tộc");
+                                this.sendWrite(p.nj, (short) 50, "Tên gia tộc");
                             } else if (optionId == 1) {
                                 // Lanh địa gia tộc
                                 if (p.getClanTerritoryData() == null) {
@@ -467,7 +467,7 @@ public class MenuController {
                         case 3: {
                             if (optionId == 0) {
                                 // Thach dau loi dai
-                                this.sendWrite(p, (short) 2, "Nhập tên đối thủ của ngươi vào đây");
+                                this.sendWrite(p.nj, (short) 2, "Nhập tên đối thủ của ngươi vào đây");
                                 break;
                             } else if (optionId == 1) {
                                 // Xem thi dau
@@ -917,7 +917,11 @@ public class MenuController {
                             }
                             break;
                         }
-                        case 3: {
+                        case 3:{
+
+                            break;
+                        }
+                        case 4: {
                             p.nj.ItemGiaHan.clear();
                             for (int i = 0; i < p.nj.ItemBag.length; i++) {
                                 Item imb = p.nj.ItemBag[i];
@@ -928,7 +932,7 @@ public class MenuController {
                             Service.openMenuGiaHan(p);
                             break;
                         }
-                        case 4: {
+                        case 5: {
                             p.typemenu = 700;
                             doMenuArray(p, new String[]{"Quà 2h", "Quà cấp 30"});
                             break;
@@ -1533,14 +1537,14 @@ public class MenuController {
                         break;
                     } else if (menuId == 1){
                         p.passold = "";
-                        this.sendWrite(p, (short)51, "Nhập mật khẩu cũ");
+                        this.sendWrite(p.nj, (short)51, "Nhập mật khẩu cũ");
                         break;
                     } else if (menuId == 2){
                         if (!p.nj.name.equals("admin")) {
                             p.nj.getPlace().chatNPC(p, (short) npcId, "Chỉ admin mới sử dụng được chức năng này");
                             break;
                         } else {
-                            this.sendWrite(p, (short) 53, "Nhập tên nhân vật gửi đồ");
+                            this.sendWrite(p.nj, (short) 53, "Nhập tên nhân vật gửi đồ");
                             break;
                         }
                     }
@@ -1742,7 +1746,7 @@ public class MenuController {
                             break;
                         }
                         case 1: {
-                            this.sendWrite(p, (short)46, "Nhập mã quà tặng");
+                            this.sendWrite(p.nj, (short)46, "Nhập mã quà tặng");
                             break;
                         }
                         case 2: {
@@ -1804,7 +1808,7 @@ public class MenuController {
                                         if (p.nj.clan.typeclan == TOC_TRUONG) {
                                             if (clanManager.getClanBattleData() == null ||
                                                     (clanManager.getClanBattleData() != null && clanManager.getClanBattleData().isExpired())) {
-                                                sendWrite(p, (byte) 4, "Nhập vào gia tộc muốn chiến đấu");
+                                                sendWrite(p.nj, (byte) 4, "Nhập vào gia tộc muốn chiến đấu");
                                             } else {
                                                 if (clanManager.restore()) {
                                                     enterClanBattle(p, clanManager);
@@ -2155,7 +2159,7 @@ public class MenuController {
                             break;
                         }
                         case 5: {
-                        if (p.luong < 10000){
+                        if (p.nj.luong < 10000){
                         p.session.sendMessageLog("bạn không đủ 10.000 lượng để đổi");
                         return;
                         }
@@ -2441,7 +2445,7 @@ public class MenuController {
                                 break;
                             }
                             if (optionId == 0) {
-                                if (p.luong < 5000) {
+                                if (p.nj.luong < 5000) {
                                     p.session.sendMessageLog("Bạn không đủ lượng.");
                                     break;
                                 }
@@ -2454,7 +2458,7 @@ public class MenuController {
                                 p.nj.getPlace().chatNPC(p, (short) npcId, "Bạn Cần 1k Điểm Dùng Lượng Để đổi Lượng qua yen");
                                 break;
                             }
-                                if (p.luong < 5000) {
+                                if (p.nj.luong < 5000) {
                                     p.session.sendMessageLog("Bạn không đủ lượng.");
                                     break;
                                 }
@@ -2607,7 +2611,7 @@ public class MenuController {
                             break;
                         }
                         case 4: {
-                            this.sendWrite(p, (short)46, "Nhập mã quà tặng");
+                            this.sendWrite(p.nj, (short)46, "Nhập mã quà tặng");
                             break;
                         }
                         case 5:{
@@ -2696,7 +2700,7 @@ public class MenuController {
                                 p.nj.getPlace().chatNPC(p, (short) 40, "Yêu cầu level 60");
                                 break;
                             }
-                            if (p.luong < 200) {
+                            if (p.nj.luong < 200) {
                                 p.session.sendMessageLog("Bạn không có đủ 200 lượng");
                                 break;
                             }
@@ -2717,7 +2721,7 @@ public class MenuController {
                                 p.session.sendMessageLog("Hành trang không đủ chỗ trống");
                                 break;
                             }
-                            if (p.luong < 500) {
+                            if (p.nj.luong < 500) {
                                 p.session.sendMessageLog("Bạn không có đủ 500 lượng");
                                 break;
                             }
@@ -2757,7 +2761,7 @@ public class MenuController {
                                 p.session.sendMessageLog("Hành trang không đủ chỗ trống");
                                 break;
                             }
-                            if (p.luong < 500) {
+                            if (p.nj.luong < 500) {
                                 p.session.sendMessageLog("Bạn không có đủ 500 lượng");
                                 break;
                             }
@@ -2841,7 +2845,7 @@ public class MenuController {
                                 p.nj.getPlace().chatNPC(p, (short) 42, "Yêu cầu level 10");
                                 break;
                             }
-                            if (p.luong < 1000) {
+                            if (p.nj.luong < 1000) {
                                 p.session.sendMessageLog("Bạn không có đủ 1000 lượng");
                                 break;
                             }
@@ -2866,7 +2870,7 @@ public class MenuController {
                                 p.session.sendMessageLog("Hành trang không đủ chỗ trống");
                                 break;
                             }
-                            if (p.luong < 1000) {
+                            if (p.nj.luong < 1000) {
                                 p.session.sendMessageLog("Bạn không có đủ 1000 lượng");
                                 break;
                             }
@@ -2911,7 +2915,7 @@ public class MenuController {
                                 p.session.sendMessageLog("Hành trang không đủ chỗ trống");
                                 break;
                             }
-                            if (p.luong < 1000) {
+                            if (p.nj.luong < 1000) {
                                 p.session.sendMessageLog("Bạn không có đủ 1000 lượng");
                                 break;
                             }
@@ -3089,7 +3093,7 @@ public class MenuController {
             int toneCount = (int) Arrays.stream(p.nj.ItemBag).filter(i -> i != null && i.id == item.id + 11).map(i -> i.quantity).reduce(0, Integer::sum);
             if (toneCount >= nangCapMat.get(item.getUpgrade())[0]) {
 
-                if (vip && nangCapMat.get(item.getUpgrade())[3] > p.luong) {
+                if (vip && nangCapMat.get(item.getUpgrade())[3] > p.nj.luong) {
                     p.sendYellowMessage("Không đủ lượng nâng cấp vật phẩm");
                     return;
                 }
@@ -3226,7 +3230,7 @@ public class MenuController {
         val index = m.reader().readByte();
         if (idNpc == 0 && p.nj.getTaskId() != 13) {
             if (index == 0) {
-                server.menu.sendWrite(p, (short) 3, "Nhập số tiền cược");
+                server.menu.sendWrite(p.nj, (short) 3, "Nhập số tiền cược");
             } else if (index == 1) {
                 if (p.nj.getBattle() != null) {
                     p.nj.getBattle().setState(Battle.BATTLE_END_STATE);
@@ -3342,7 +3346,7 @@ public class MenuController {
                 enough2 = true;
             }
         }
-        if (enough && enough2 && p.nj.xu >= entry.getCoin() && p.nj.yen >= entry.getCoinLock() && p.luong >= entry.getGold()) {
+        if (enough && enough2 && p.nj.xu >= entry.getCoin() && p.nj.yen >= entry.getCoinLock() && p.nj.luong >= entry.getGold()) {
             for (Recipe input : entry.getInputs()) {
                 p.nj.removeItemBags(input.getId(), input.getCount());
             }
@@ -3409,7 +3413,7 @@ public class MenuController {
         m.cleanup();
     }
 
-    public void sendWrite(final User p, final short type, final String title) {
+    public void sendWrite(final Ninja p, final short type, final String title) {
         try {
             final Message m = new Message(92);
             m.writer().writeUTF(title);

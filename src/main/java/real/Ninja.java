@@ -36,6 +36,7 @@ public class Ninja extends Body implements TeamBattle, IGlobalBattler {
     private byte taskId;
     public byte gender;
     public int xu;
+    public int luong;
     public int xuBox;
     public int yen;
     public int maxluggage;
@@ -170,6 +171,7 @@ public class Ninja extends Body implements TeamBattle, IGlobalBattler {
 
         this.gender = -1;
         this.xu = 0;
+        this.luong = 0;
         this.xuBox = 0;
         this.yen = 0;
         this.maxluggage = 30;
@@ -639,6 +641,7 @@ public class Ninja extends Body implements TeamBattle, IGlobalBattler {
                     nj.expdown = red.getLong("expdown");
                     nj.pk = red.getByte("pk");
                     nj.xu = red.getInt("xu");
+                    nj.luong = red.getInt("luong");
                     nj.xuBox = red.getInt("xuBox");
                     nj.yen = red.getInt("yen");
                     nj.maxluggage = red.getInt("maxluggage");
@@ -861,7 +864,7 @@ public class Ninja extends Body implements TeamBattle, IGlobalBattler {
             jarr.add(this.mapType);
             val friends = Mapper.converter.writeValueAsString(this.friend);
 
-            String sqlSET = "`taskId`=" + this.getTaskId() + ",`class`=" + this.nclass + ",`ppoint`=" + this.getPpoint() + ",`potential0`=" + this.getPotential0() + ",`potential1`=" + this.getPotential1() + ",`potential2`=" + this.getPotential2() + ",`potential3`=" + this.getPotential3() + ",`spoint`=" + this.getSpoint() + ",`level`=" + this.getLevel() + ",`exp`=" + this.getExp() + ",`expdown`=" + this.expdown + ",`pk`=" + this.pk + ",`xu`=" + this.xu + ",`yen`=" + this.yen + ",`maxluggage`=" + this.maxluggage + ",`levelBag`=" + this.levelBag + ",`site`='" + jarr.toJSONString() + "',`friend`='" + friends + "'";
+            String sqlSET = "`taskId`=" + this.getTaskId() + ",`class`=" + this.nclass + ",`ppoint`=" + this.getPpoint() + ",`potential0`=" + this.getPotential0() + ",`potential1`=" + this.getPotential1() + ",`potential2`=" + this.getPotential2() + ",`potential3`=" + this.getPotential3() + ",`spoint`=" + this.getSpoint() + ",`level`=" + this.getLevel() + ",`exp`=" + this.getExp() + ",`expdown`=" + this.expdown + ",`pk`=" + this.pk + ",`xu`=" + this.xu + ",`luong`=" + this.luong + ",`yen`=" + this.yen + ",`maxluggage`=" + this.maxluggage + ",`levelBag`=" + this.levelBag + ",`site`='" + jarr.toJSONString() + "',`friend`='" + friends + "'";
             jarr.clear();
             for (final Skill skill : this.getSkills()) {
                 jarr.add(SkillData.ObjectSkill(skill));

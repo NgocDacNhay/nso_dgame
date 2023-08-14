@@ -576,7 +576,7 @@ public class GameScr {
                 m = new Message(13);
                 m.writer().writeInt(p.nj.xu);
                 m.writer().writeInt(p.nj.yen);
-                m.writer().writeInt(p.luong);
+                m.writer().writeInt(p.nj.luong);
                 m.writer().flush();
                 p.sendMessage(m);
                 m.cleanup();
@@ -596,7 +596,7 @@ public class GameScr {
                 p.session.sendMessageLog("Không đủ yên");
                 return;
             }
-            if (p.luong < buycoingold) {
+            if (p.nj.luong < buycoingold) {
                 p.session.sendMessageLog("Không đủ lượng");
                 return;
             }
@@ -637,7 +637,7 @@ public class GameScr {
             m = new Message(13);
             m.writer().writeInt(p.nj.xu);
             m.writer().writeInt(p.nj.yen);
-            m.writer().writeInt(p.luong);
+            m.writer().writeInt(p.nj.luong);
             m.writer().flush();
             p.sendMessage(m);
             m.cleanup();
@@ -897,7 +897,7 @@ public class GameScr {
             percent += percent * 50 / 100;
             gold = GameScr.goldUps[item.getUpgrade()];
         }
-        if (coins > p.nj.yen + p.nj.xu || gold > p.luong) {
+        if (coins > p.nj.yen + p.nj.xu || gold > p.nj.luong) {
             return;
         }
         for (byte j = 0; j < arrItem.length; ++j) {
@@ -937,7 +937,7 @@ public class GameScr {
         }
         m = new Message(21);
         m.writer().writeByte(suc ? 1 : 0);
-        m.writer().writeInt(p.luong);
+        m.writer().writeInt(p.nj.luong);
         m.writer().writeInt(p.nj.xu);
         m.writer().writeInt(p.nj.yen);
         m.writer().writeByte(item.getUpgrade());
@@ -1602,7 +1602,7 @@ public class GameScr {
             m.writer().writeByte(5);
             
             m.writer().writeByte(ngocIndex);
-            m.writer().writeInt(p.luong);
+            m.writer().writeInt(p.nj.luong);
             m.writer().writeInt(p.nj.xu);
             m.writer().writeInt(p.nj.yen);
             m.writer().writeByte(indexUI);
@@ -1612,7 +1612,7 @@ public class GameScr {
             m.cleanup(); 
             m = new Message(124);
                 m.writer().writeByte(3);
-                m.writer().writeInt(p.luong);
+                m.writer().writeInt(p.nj.luong);
                 m.writer().writeInt(p.nj.xu);
                 m.writer().writeInt(p.nj.yen);
                 m.writer().writeByte(ngocIndex);
@@ -1698,7 +1698,7 @@ public class GameScr {
                 m.cleanup();
                 m = new Message(124);
                 m.writer().writeByte(1);
-                m.writer().writeInt(p.luong);
+                m.writer().writeInt(p.nj.luong);
                 m.writer().writeInt(p.nj.xu);
                 m.writer().writeInt(p.nj.yen);
                 m.writer().writeByte(upgrade);
@@ -1800,7 +1800,7 @@ public class GameScr {
                 m.cleanup();
                 m = new Message(124);
                 m.writer().writeByte(2);
-                m.writer().writeInt(p.luong);
+                m.writer().writeInt(p.nj.luong);
                 m.writer().writeInt(p.nj.xu);
                 m.writer().writeInt(p.nj.yen);
                 m.writer().writeByte(itemGotNgoc.upgrade);
@@ -1889,7 +1889,7 @@ public class GameScr {
             p.requestItemInfoMessage(item, indexUI, 3);
             m = new Message(124);
                 m.writer().writeByte(3);
-                m.writer().writeInt(p.luong);
+                m.writer().writeInt(p.nj.luong);
                 m.writer().writeInt(p.nj.xu);
                 m.writer().writeInt(p.nj.yen);
                 m.writer().writeByte(item.upgrade);
@@ -2126,7 +2126,7 @@ public class GameScr {
             p.session.sendMessageLog("Bạn không đủ yên và xu để nâng cấp mắt");
             return;
         }
-        if (type == 1 && p.luong < GameScr.goldUpMat[item.getUpgrade()]) {
+        if (type == 1 && p.nj.luong < GameScr.goldUpMat[item.getUpgrade()]) {
             p.session.sendMessageLog("Bạn không đủ lượng để nâng cấp mắt");
             return;
         }
@@ -2136,7 +2136,7 @@ public class GameScr {
         Message m = new Message(13);
         m.writer().writeInt(p.nj.xu);//xu
         m.writer().writeInt(p.nj.yen);//yen
-        m.writer().writeInt(p.luong);//luong
+        m.writer().writeInt(p.nj.luong);//luong
         m.writer().flush();
         p.session.sendMessage(m);
         m.cleanup();
@@ -2184,7 +2184,7 @@ public class GameScr {
                 p.nj.yen -= GameScr.coinUpMat[item.getUpgrade()];
             }
             if (type == 1) {
-                p.luong -= GameScr.goldUpMat[item.getUpgrade()];
+                p.nj.luong -= GameScr.goldUpMat[item.getUpgrade()];
             }
             p.nj.removeItemBags(694 + item.getUpgrade(), 10);
 

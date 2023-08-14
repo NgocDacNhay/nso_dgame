@@ -1,0 +1,17 @@
+[2023/08/14 07:29:39:289] Upluong: admin tang 100 luong
+[2023/08/14 08:04:05:517] Upluong: dackimdoi tang 100 luong
+[2023/08/14 08:28:13:687] Upluong: gdgejdm tang 100 luong
+[2023/08/14 08:58:18:097] Upluong: dackimdoi1 tang 100 luong
+[2023/08/14 08:59:08:609] Upluong: dackimdoi3 tang 2000000 luong
+[2023/08/14 09:44:53:967] Upluong: dacdz tang 100 luong
+[2023/08/14 09:45:36:966] Upluong: dackimdoi1 tang 200000 luong
+[2023/08/14 09:59:09:202] Upluong: dacdz tang 100000 luong
+[2023/08/14 10:00:55:257] Upluong: dacdz tang 22222 luong
+[2023/08/14 10:12:13:961] Upluong: dackimdoi3 tang 22222 luong
+[2023/08/14 10:13:04:741] Upluong: dackimdoi3 tang 500 luong
+[2023/08/14 10:14:24:460] Upluong: dackimdoi3 tang 20000 luong
+[2023/08/14 10:16:22:369] Upluong: dackimdoi3 tang 100000 luong
+[2023/08/14 10:22:03:755] Upluong: dackimdoi3 tang 500 luong
+[2023/08/14 10:23:52:736] Upluong: dackimdoi3 tang 22222 luong
+[2023/08/14 10:34:36:224] Upluong: dackimdoi3 tang 2000000 luong
+[2023/08/14 10:36:44:786] Upluong: dacddzx tang 2000000 luong

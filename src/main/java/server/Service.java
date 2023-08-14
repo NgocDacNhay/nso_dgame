@@ -173,6 +173,14 @@ public class Service {
                     m.writer().writeShort(69-p.nj.gender*3);
                     m.writer().writeShort(70-p.nj.gender*3);
                     m.writer().writeShort(71-p.nj.gender*3);
+                }else if (item0.id == 1015) {// Áo dài nữ
+                    m.writer().writeShort(174);
+                    m.writer().writeShort(175);
+                    m.writer().writeShort(176);
+                } else if (item0.id == 1016) {// Áo dài nam 
+                    m.writer().writeShort(171);
+                    m.writer().writeShort(172);
+                    m.writer().writeShort(173);
                 } else {
                     m.writer().writeShort(-1);
                     m.writer().writeShort(-1);
@@ -195,7 +203,7 @@ public class Service {
             } else {
                 m.writer().writeShort(-1);
             }
-            Item itemD = p.nj.clone.ItemBody[19];//Vũ khí
+            Item itemD = p.nj.clone.ItemBody[1];//Vũ khí
             if (itemD != null) {
                 if (itemD.id == 1017) {//Gậy Mặt Trăng
                     m.writer().writeShort(161);
@@ -458,7 +466,7 @@ public class Service {
             }
             msg.writer().writeInt(c.xu);
             msg.writer().writeInt(c.yen);
-            msg.writer().writeInt(p.luong);
+            msg.writer().writeInt(p.nj.luong);
             msg.writer().writeByte(c.maxluggage);
             for (int j = 0; j < c.maxluggage; ++j) {
                 final Item item = c.ItemBag[j];
@@ -512,6 +520,14 @@ public class Service {
                     msg.writer().writeShort(69-p.nj.gender*3);
                     msg.writer().writeShort(70-p.nj.gender*3);
                     msg.writer().writeShort(71-p.nj.gender*3);
+                }else if (item0.id == 1015) {// Áo dài nữ
+                    msg.writer().writeShort(174);
+                    msg.writer().writeShort(175);
+                    msg.writer().writeShort(176);
+                } else if (item0.id == 1016) {// Áo dài nam 
+                    msg.writer().writeShort(171);
+                    msg.writer().writeShort(172);
+                    msg.writer().writeShort(173);
                 } else {
                     msg.writer().writeShort(-1);
                     msg.writer().writeShort(-1);
@@ -534,7 +550,7 @@ public class Service {
             } else {
                 msg.writer().writeShort(-1);
             }
-            Item itemD = c.get().ItemBody[19];//Vũ khí
+            Item itemD = c.get().ItemBody[1];//Vũ khí
             if (itemD != null) {
                 if (itemD.id == 1017) {//Gậy Mặt Trăng
                     msg.writer().writeShort(161);

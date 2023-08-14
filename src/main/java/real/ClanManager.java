@@ -742,7 +742,7 @@ public class ClanManager {
         if (p == null) return;
 
         name = name.toLowerCase();
-        if (p.luong < LUONG_CREATE_CLAN) {
+        if (p.nj.luong < LUONG_CREATE_CLAN) {
             p.session.sendMessageLog("Bạn cần có " + String.format("%,d", LUONG_CREATE_CLAN) + " lượng để thành lập gia tộc");
             return;
         }
@@ -788,7 +788,7 @@ public class ClanManager {
                     final Message m = new Message(-28);
                     m.writer().writeByte(-96);
                     m.writer().writeUTF(finalClan.name);
-                    m.writer().writeInt(p.luong);
+                    m.writer().writeInt(p.nj.luong);
                     m.writer().flush();
                     p.sendMessage(m);
                     m.cleanup();

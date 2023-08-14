@@ -995,7 +995,7 @@ public class Manager {
             return;
         }
         p.chatKTGdelay = System.currentTimeMillis() + 5000L;
-        if (p.luong < 10) {
+        if (p.nj.luong < 10) {
             p.session.sendMessageLog("Bạn không có đủ lượng trên người.");
             return;
         }
