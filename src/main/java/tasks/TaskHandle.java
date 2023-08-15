@@ -756,7 +756,7 @@ public class TaskHandle {
             case 5:
                 return (mapID != 6 && mapID != 20 && mapID != 21 && mapID != 22 && mapID != 23);
             case 6:
-                return (mapID != 2 && mapID != 6 && mapID != 20 && mapID != 21 && mapID != 22 && mapID != 23 && mapID != 25 && mapID != 26 && mapID != 69 && mapID != 70 && mapID != 71);
+                return (mapID != 2 && mapID != 6 && mapID != 20 && mapID != 21 && mapID != 22 && mapID != 23 && mapID != 25 && mapID != 26 && mapID != 69 && mapID != 70 && mapID != 71 && mapID != 17);
             case 7:
             case 8:
                 return (mapID != 1 && mapID != 2 && mapID != 6 && mapID != 20 && mapID != 21 && mapID != 22 && mapID != 23 && mapID != 25 && mapID != 26 && mapID != 27 && mapID != 69 && mapID != 70 && mapID != 71 && mapID != 72 && mapID != 17);
@@ -778,7 +778,7 @@ public class TaskHandle {
             case 6:
             case 7:
             case 8:
-                return (mapID == 1 || mapID == 10 || mapID == 17 || mapID == 27 || mapID == 32 || mapID == 38 || mapID == 43 || mapID == 48 || mapID == 72);
+                return (mapID == 1 || mapID == 10 || mapID == 27 || mapID == 32 || mapID == 38 || mapID == 43 || mapID == 48 || mapID == 72);
         }
         return false;
     }

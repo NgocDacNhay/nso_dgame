@@ -5,7 +5,7 @@ import lombok.val;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 
-import io.Session;
+
 import patch.*;
 import patch.battle.BattleData;
 import patch.candybattle.CandyBattle;
@@ -4250,7 +4250,7 @@ public class Place {
                 p.nj.setTypepk((short) 0);
                 p.nj.changeTypePkNormal((short) 0);
             }
-            if (moment != 21) {
+            if (moment <20 || moment > 21) {
                 this.DieReturn(p);
             }
         }

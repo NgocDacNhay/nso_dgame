@@ -16,7 +16,7 @@ public class useSkill {
         if (skill != null && System.currentTimeMillis() > body.CSkilldelay) {
             final SkillData data = SkillData.Templates(idSkill);
             if (data.type != 0) {
-                body.CSkilldelay = System.currentTimeMillis() + 500L;
+                body.CSkilldelay = System.currentTimeMillis() + 250L;
                 if (data.type == 2) {
                     useSkillBuff(body, idSkill);
                 } else {

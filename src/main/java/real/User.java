@@ -3018,10 +3018,12 @@ public class User extends Actor implements SendMessage {
                 }
             }
             SQLManager.executeUpdate("UPDATE `player` SET `ninja`='" + jarr.toJSONString() + "' WHERE `id`=" + this.id + " LIMIT 1;");
-            SQLManager.executeUpdate("UPDATE `ninja` SET `luong`=" + this.nj.luong + " WHERE `id`=" + this.nj.id + " LIMIT 1;");
+//            SQLManager.executeUpdate("UPDATE `ninja` SET `luong`= '" + this.nj.luong + "' WHERE `id`=" + this.nj.id + " LIMIT 1;");
             SQLManager.executeUpdate("UPDATE `player` SET `clanTerritoryId`=" + this.getClanTerritoryId() + " WHERE `id`=" + this.id + " LIMIT 1;");
             SQLManager.executeUpdate("UPDATE `player` SET `ddhn`=" + this.ddhn + " WHERE `id`=" + this.id + " LIMIT 1;");
-
+//            if(this.nj != null){
+//                SQLManager.executeUpdate("UPDATE `ninja` SET `luong`= '" + this.nj.luong + "' WHERE `id`=" + this.nj.id + " LIMIT 1;");
+//            }
         } catch (SQLException e) {
             Debug("Flush data User + Ninja Error");
             e.printStackTrace();
@@ -3067,9 +3069,7 @@ public class User extends Actor implements SendMessage {
                 if(Map.isCaveMap(this.nj.getPlace().getId()))
             {
                 xpup *= 2;
-            } else{
-                xpup/=2;
-            }
+            } 
         }
         
 
