@@ -2377,9 +2377,9 @@ public class Place {
             d=20;
         }
         if(oldhp >= dame){
-             xpnew = dame / (c+body.getLevel()+curMob.level) * (curMob.level + d);
+             xpnew = dame / (c+body.getLevel()) * (curMob.level + d);
         } else{
-             xpnew = oldhp / (c+body.getLevel()+curMob.level) * (curMob.level + d);
+             xpnew = oldhp / (c+body.getLevel()) * (curMob.level + d);
         }
         if (body.getEffType((byte) 18) != null) {
             xpnew *= body.getEffType((byte) 18).param;

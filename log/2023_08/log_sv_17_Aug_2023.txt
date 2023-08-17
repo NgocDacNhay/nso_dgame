@@ -1,0 +1,8 @@
+[2023/08/17 07:56:30:880] User: dackimdoi1 - Name: dackimdoi1 - Pass: dackimdoi - IP: 127.0.0.1
+[2023/08/17 07:59:28:420] User: dackimdoi1 - Name: dackimdoi1 - Pass: dackimdoi - IP: 127.0.0.1
+[2023/08/17 08:04:50:966] User: dackimdoi - Name: dackimdoi - Pass: dackimdoi - IP: 127.0.0.1
+[2023/08/17 08:06:38:844] User: admin - Name: admin - Pass: admin - IP: 127.0.0.1
+[2023/08/17 08:07:33:647] User: admin - Name: admin - Pass: admin - IP: 127.0.0.1
+[2023/08/17 08:11:12:752] User: dackimdoi1 - Name: dackimdoi1 - Pass: dackimdoi - IP: 127.0.0.1
+[2023/08/17 08:11:55:487] User: dackimdoi1 - Name: dackimdoi1 - Pass: dackimdoi - IP: 127.0.0.1
+[2023/08/17 08:31:22:970] User: dackimdoi - Name: dackimdoi - Pass: dackimdoi - IP: 127.0.0.1

@@ -275,25 +275,27 @@ public class Server {
         Server.start = true;
         getInstance().run();
 
-//        Runtime.getRuntime().addShutdownHook(new Thread(() -> {
-//            threadRunning = false;
-//            if (t != null) {
-//                t.interrupt();
-//            }
-//        }));
-//        t = new Thread(() -> {
-//            while (threadRunning) {
-//
-//                OperatingSystemMXBean osBean = ManagementFactory.getPlatformMXBean(OperatingSystemMXBean.class);
-//                int pt = (int) (osBean.getProcessCpuLoad() * 100);
-//                if (pt > 80) {
-//                    getInstance().stop();
-//                    getInstance().run();
-//                }
-//
-//            }
-//        });
-//        t.start();
+        Runtime.getRuntime().addShutdownHook(new Thread(() -> {
+            threadRunning = false;
+            if (t != null) {
+                t.interrupt();
+           }
+        }));
+        t = new Thread(() -> {
+            while (threadRunning) {
+
+                OperatingSystemMXBean osBean = ManagementFactory.getPlatformMXBean(OperatingSystemMXBean.class);
+                int pt = (int) (osBean.getProcessCpuLoad() * 100);
+                if (pt > 80) {
+                    getInstance().stop();
+                    getInstance().run();
+                }
+
+            }
+        });
+        t.start();
+
+
         try {
             t.join();
             Thread.currentThread().join();
